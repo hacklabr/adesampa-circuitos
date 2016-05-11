@@ -4,11 +4,12 @@ $em = $app->em;
 $conn = $em->getConnection();
 
 return array(
-    'terms lojas' => function() use($conn){    
+    'terms lojas circuitos adesampa' => function() use($conn){    
 
-        
+        /*
         $conn->executeQuery("DELETE FROM term_relation");
         $conn->executeQuery("DELETE FROM term");
+        */
 
         $terms = json_decode(file_get_contents(__DIR__ . '/segmentos.json'));
         foreach($terms as $term) {
@@ -20,10 +21,10 @@ return array(
         $conn->executeQuery("insert into term (taxonomy, term) values (20, 'Bom Retiro')");
         $conn->executeQuery("insert into term (taxonomy, term) values (20, '25 de março')");
 
-        return false;
+        return true;
     },
 
-    'lojas' => function() use($conn){
+    'lojas circuitos adesampa' => function() use($conn){
         $lojas = json_decode(file_get_contents(__DIR__ . '/lojas.json'));
         
         $count = 0;
@@ -32,9 +33,11 @@ return array(
         $type = 1900;
         $agent_id = 1;
 
+        /*
         $conn->executeQuery("delete from term_relation where object_id > 2");
         $conn->executeQuery("delete from space_meta where object_id > 2");
         $conn->executeQuery("delete from space where id > 2");
+        */
 
         foreach($lojas as $loja) {
 
@@ -75,7 +78,7 @@ return array(
             
         }
 
-        return false;
+        return true;
 
         
     },
