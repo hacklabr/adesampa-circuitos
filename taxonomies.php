@@ -98,16 +98,4 @@ return array(
         )
                ),
 
-    20 => array(
-               'slug' => 'circuito',
-               'required' => "Você deve informar um circuito",
-               'entities' => array('MapasCulturais\Entities\Space'),
-               'restricted_terms' => array('Brás',
-                                           'Santa Ifigênia',
-                                           'Bom Retiro',
-                                           '25 de março',                                           
-                                           )
-               )
-                                   
-
 );

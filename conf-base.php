@@ -3,6 +3,14 @@
 return [
 //    // latitude,longitude do centro do mapa da busca e do mapa da criação de agentes e espaços
         'maps.center' => [-23.591677325244067, -46.625633239746094],
+
+        'app.enabled.agents'   => false,
+        'app.enabled.spaces'   => true,
+        'app.enabled.projects' => false,
+        'app.enabled.events'   => false,
+        'app.enabled.apps'     => false,
+
+
 //
 //    // a cada quantos pixels se deve criar um cluster no mapa da busca
 //    'maps.maxClusterRadius' => 40,

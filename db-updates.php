@@ -16,11 +16,6 @@ return array(
             $conn->executeQuery("insert into term (taxonomy, term) values (2, '$term')");
         }
 
-        $conn->executeQuery("insert into term (taxonomy, term) values (20, 'Brás')");
-        $conn->executeQuery("insert into term (taxonomy, term) values (20, 'Santa Ifigênia')");
-        $conn->executeQuery("insert into term (taxonomy, term) values (20, 'Bom Retiro')");
-        $conn->executeQuery("insert into term (taxonomy, term) values (20, '25 de março')");
-
         return true;
     },
 
