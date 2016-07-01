@@ -107,6 +107,7 @@ return array(
             $lng = $loja->location->coordinates->lng;
             $location = "(" . $lng . "," . $lat . ")";
             echo $loja->nome . "\n";
+            $loja->nome = addslashes($loja->nome);
 
             $conn->executeQuery("
                     INSERT INTO space (
