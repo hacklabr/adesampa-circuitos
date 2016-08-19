@@ -21,8 +21,8 @@
         <meta name="msapplication-TileImage" content="/mstile-144x144.png">
         <meta name="theme-color" content="#ffffff">
 
-        <link rel="stylesheet" href="landing-page/normalize.min.css">
-        <link rel="stylesheet" href="landing-page/main.css">
+        <link rel="stylesheet" href="landing-page/css/normalize.min.css">
+        <link rel="stylesheet" href="landing-page/css/main.css">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,700|Raleway:300,700" rel="stylesheet">  
 
         <script src="landing-page/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
