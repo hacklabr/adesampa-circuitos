@@ -50,19 +50,19 @@
                 </section>
 
                 <section class="routes">
-                    <a href="#">
+                    <a href="http://25demarco.guiadecompras.adesampa.com.br">
                         <img src="landing-page/img/logo-vinte-e-cinco.svg" alt="Vinte e Cinco de Março">
                     </a>
-                    <a href="#">
+                    <a href="http://mercadao.guiadecompras.adesampa.com.br">
                         <img src="landing-page/img/logo-mercado-municipal.svg" alt="Mercado Municipal">
                     </a>
-                    <a href="#">
+                    <a href="http://bomretiro.guiadecompras.adesampa.com.br">
                         <img src="landing-page/img/logo-bom-retiro.svg" alt="Bom Retiro">
                     </a>
-                    <a href="#">
+                    <a href="http://santaifigenia.guiadecompras.adesampa.com.br">
                         <img src="landing-page/img/logo-santa-efigenia.svg" alt="Santa Efigênia">
                     </a>
-                    <a href="#">
+                    <a href="http://bras.guiadecompras.adesampa.com.br">
                         <img src="landing-page/img/logo-bras.svg" alt="Brás">
                     </a>
                 </section>
