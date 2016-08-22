@@ -47,6 +47,15 @@ class Theme extends BaseV1\Theme{
         $app->hook('view.render(<<*>>):before', function() use($app) {
             $this->_publishAssets();
         });
+        
+        if($this->getSubdomain()){
+            $url = $this->getSearchSpacesUrl();
+            $app->hook('GET(site.index):before', function() use ($app, $url){
+                $app->redirect($url);
+            });
+            
+            
+        }
     }
 
     protected function _publishAssets() {
@@ -77,5 +86,20 @@ class Theme extends BaseV1\Theme{
             }
         }
     }
-
+    
+    
+    public function subdomain($subdomain){
+        $domain = $_SERVER['HTTP_HOST'];
+        $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off' || $_SERVER['SERVER_PORT'] == 443) ? "https://" : "http://";
+        echo $protocol . $subdomain . '.' . $domain;
+    }
+    
+    public function getSubdomain(){
+        if(preg_match('#([^\.]*)\.guiadecompras\.#', $_SERVER['HTTP_HOST'], $matches)){
+            return $matches[1];
+        } else {
+            return null;
+        }
+        
+    }
 }

@@ -562,15 +562,23 @@ h6 {
 
 #filter-events {
   background: #b3b921; }
+  #filter-events .advanced-filters {
+    background: #b3b921; }
 
 #filter-agents {
   background: #1dabc6; }
+  #filter-agents .advanced-filters {
+    background: #1dabc6; }
 
 #filter-spaces {
   background: #e83f96; }
+  #filter-spaces .advanced-filters {
+    background: #e83f96; }
 
 #filter-projects {
   background: #cc0033; }
+  #filter-projects .advanced-filters {
+    background: #cc0033; }
 
 .filter {
   box-sizing: border-box;
@@ -643,6 +651,54 @@ h6 {
   .verified-filter {
     float: right;
     text-align: center; } }
+
+.icon-show-advanced-filters:before {
+  content: "g";
+  font-size: 2em; }
+
+.entity-filter {
+  position: relative;
+  clear: both;
+  min-height: 2px;
+  padding: 0;
+  color: #000000;
+  font-size: 0.875rem; }
+  @media screen and (min-width: 992px) {
+    .entity-filter {
+      padding: 0.75rem 0; }
+      .entity-filter .simple-filters {
+        display: block !important;
+        height: 34px; } }
+
+@media screen and (min-width: 992px) {
+  .filter {
+    width: 16.6%; } }
+
+@media screen and (min-width: 992px) {
+  .verified-filter {
+    float: left; } }
+
+.show-advanced-filters {
+  float: right;
+  margin: .2em 1em 0 0; }
+  .show-advanced-filters .icon {
+    cursor: pointer; }
+  .show-advanced-filters .advanced-filters {
+    position: absolute;
+    right: 1em;
+    margin-top: 80px;
+    min-width: 250px;
+    padding: 1em; }
+    .show-advanced-filters .advanced-filters .advanced-filter {
+      padding-bottom: 1em; }
+      .show-advanced-filters .advanced-filters .advanced-filter input {
+        margin: 0;
+        width: 100%; }
+      .show-advanced-filters .advanced-filters .advanced-filter .dropdown {
+        background: white;
+        width: 100%; }
+        .show-advanced-filters .advanced-filters .advanced-filter .dropdown .submenu-dropdown {
+          background: white; }
 
 #editable-entity {
   display: none;
@@ -819,6 +875,9 @@ h6 {
   color: #e83f96; }
 
 .project .objeto:hover h1 a, .project .objeto-meta a {
+  color: #cc0033; }
+
+.saas .objeto:hover h1 a, .saas .objeto-meta a {
   color: #cc0033; }
 
 @media print {
@@ -1010,6 +1069,9 @@ article.event .header-image {
   background-color: #b3b921; }
 
 article.project .header-image, article.registration .header-image {
+  background-color: #cc0033; }
+
+article.saas .header-image {
   background-color: #cc0033; }
 
 .header-content {
@@ -1354,10 +1416,23 @@ article.project .header-image, article.registration .header-image {
 
 #entities-menu-project.active, #entities-menu-project:hover {
   border-top-color: #cc0033;
-  color: #b3b921; }
+  color: #cc0033; }
   #entities-menu-project.active a, #entities-menu-project:hover a {
     color: #cc0033; }
 #entities-menu-project.active:after {
+  content: "";
+  position: absolute;
+  top: -8px;
+  border-bottom: 8px solid #cc0033;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent; }
+
+#entities-menu-saas.active, #entities-menu-saas:hover {
+  border-top-color: #cc0033;
+  color: #cc0033; }
+  #entities-menu-saas.active a, #entities-menu-saas:hover a {
+    color: #cc0033; }
+#entities-menu-saas.active:after {
   content: "";
   position: absolute;
   top: -8px;
@@ -1598,6 +1673,9 @@ article.project .header-image, article.registration .header-image {
   background: #e83f96; }
 
 #nav-projects {
+  background: #cc0033; }
+
+#nav-saas {
   background: #cc0033; }
 
 #nav-developers {
@@ -1847,6 +1925,11 @@ article.project .header-image, article.registration .header-image {
   #home-projects .abas li.active {
     border-bottom-color: #cc0033; }
 
+#home-saas {
+  background: #cc0033; }
+  #home-saas .abas li.active {
+    border-bottom-color: #cc0033; }
+
 #home-developers {
   background: #9966cc; }
   #home-developers .box {
@@ -2043,6 +2126,10 @@ body.editable #main-section {
     content: ""; }
   #mc-entity-layers .btn-map-space.active, #mc-entity-layers .btn-map-space:hover {
     background-color: #e83f96; }
+  #mc-entity-layers .btn-map-saas:before {
+    content: ""; }
+  #mc-entity-layers .btn-map-saas.active, #mc-entity-layers .btn-map-saas:hover {
+    background-color: #cc0033; }
 
 .panel-main-content {
   position: relative;
@@ -2450,6 +2537,39 @@ nav.sidebar-panel ul {
       line-height: 1.5rem;
       margin-bottom: 0; }
     .agentes .avatar .descricao-do-agente .btn {
+      margin-top: 0.75rem; }
+
+.saas .avatar {
+  position: relative; }
+  .saas .avatar:hover .descricao-do-saas {
+    display: block; }
+  .saas .avatar.pending img {
+    opacity: .3; }
+  .saas .avatar .descricao-do-saas {
+    display: none;
+    position: absolute;
+    z-index: 15000;
+    top: 3.5rem;
+    right: -.75rem;
+    width: 200px;
+    padding: 0.75rem;
+    font-size: 0.75rem;
+    background: #fff;
+    border-radius: 2px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); }
+    .saas .avatar .descricao-do-saas:before {
+      content: "";
+      position: absolute;
+      top: -8px;
+      border-bottom: 8px solid #fff;
+      border-left: 8px solid transparent;
+      border-right: 8px solid transparent;
+      right: 1.5rem; }
+    .saas .avatar .descricao-do-saas h1 {
+      font-size: 1rem;
+      line-height: 1.5rem;
+      margin-bottom: 0; }
+    .saas .avatar .descricao-do-saas .btn {
       margin-top: 0.75rem; }
 
 /* ajax uploader */
@@ -3007,6 +3127,13 @@ table.contratos td {
 .agentes-relacionados .directive-find-entity ul.result-container > li {
   cursor: pointer; }
 
+.selos-relacionados .directive-find-entity {
+  width: 375px;
+  right: 0; }
+
+.selos-relacionados .directive-find-entity ul.result-container > li {
+  cursor: pointer; }
+
 .label {
   font-weight: bold; }
 
@@ -3140,6 +3267,9 @@ h1 .icon {
 
 .icon-agent:before {
   content: ""; }
+
+.icon-saas:before {
+  content: ""; }
 
 .icon-help:before {
   content: ""; }
@@ -3622,7 +3752,8 @@ h1 .icon {
   height: 72px;
   background-image: url(../img/unverified-seal.png);
   background-repeat: no-repeat;
-  background-position: center; }
+  background-position: center;
+  background-size: contain; }
   .verified-seal.inactive {
     opacity: .2; }
   .verified-seal.active {
@@ -4069,7 +4200,8 @@ h1 .icon {
   .attachment-list .attachment-list-item {
     position: relative;
     padding: 0.75rem 14.5rem 0.75rem 0.75rem;
-    border-bottom: 1px solid #eee; }
+    border-bottom: 1px solid #eee;
+    font-size: .8em; }
     .attachment-list .attachment-list-item .attachment-title {
       font-size: 0.75rem;
       font-weight: normal;
@@ -4096,7 +4228,18 @@ h1 .icon {
     .attachment-list .attachment-list-item:last-child {
       border-bottom: none; }
     .attachment-list .attachment-list-item.registration-edit-mode {
-      padding-right: 14rem; }
+      padding-right: 1em 14rem 1em 1em; }
+      .attachment-list .attachment-list-item.registration-edit-mode p {
+        margin-bottom: 0; }
+    .attachment-list .attachment-list-item.registration-view-mode {
+      padding: .3em 1em;
+      font-size: 0.75em; }
+      .attachment-list .attachment-list-item.registration-view-mode label {
+        font-weight: bold;
+        color: #333; }
+      .attachment-list .attachment-list-item.registration-view-mode a {
+        font-weight: normal;
+        text-decoration: underline; }
 
 editable-multiselect .help, editable-singleselect .help {
   margin-top: -5px;
@@ -4269,6 +4412,22 @@ a.editable-click:hover {
   margin-left: 0; }
 
 .agentes-relacionados .editable:hover:after {
+  color: #333; }
+
+/*nos grupos relacionados*/
+.selos-relacionados .editable {
+  width: 3rem;
+  height: 3rem;
+  background: #d8d8d8;
+  text-align: center;
+  line-height: 3rem; }
+
+.selos-relacionados .editable:after {
+  content: "";
+  color: #666;
+  margin-left: 0; }
+
+.selos-relacionados .editable:hover:after {
   color: #333; }
 
 /* balãozinho*/
