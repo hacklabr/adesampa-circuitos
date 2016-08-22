@@ -48,7 +48,7 @@ class Theme extends BaseV1\Theme{
 
         return [
                 'entities: Spaces' => 'Lojas',
-//            'site: name' => App::i()->config['app.siteName'],
+                'site: name' => self::$subdomains[self::getSubdomain()]['name'],
 //            'site: description' => App::i()->config['app.siteDescription'],
 //            'site: in the region' => 'na região',
 //            'site: of the region' => 'da região',

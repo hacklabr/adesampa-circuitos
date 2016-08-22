@@ -31,3 +31,44 @@
 #organization-logo img {
     width: 188px !important;
 }
+
+#brand-logo {
+    float: left;
+    padding: .25rem;
+    font-size: 1rem;
+    line-height: 1.875rem;
+    a {
+        color: $brand-primary;
+        &:hover {
+            text-decoration: none;
+        }
+    }
+    img {
+        width: 70px;
+        @media screen and (min-width: $screen-tablet) {
+            width: 60px;
+        }
+    }
+    @media screen and (min-width: $screen-tablet) {
+        padding: .375rem $padding-base;
+        line-height: 3.75rem;
+    }
+    @media screen and (min-width: $screen-desktop) {
+        font-size: 1.25rem;
+        padding: .375rem $padding-large;
+    }
+    @media screen and (min-width: $screen-lg-desktop) {
+        font-size: 1.5rem; //24px
+    }
+}
+
+#brand-logo span {
+    position:absolute;
+    height: 60px;
+    top: 5px;
+    left: 95px;
+    font-size: 2.5rem;
+    font-family: "Open Sans";
+    font-weight: bold;
+}
+
