@@ -73,6 +73,19 @@ class Theme extends BaseV1\Theme{
     static function getThemeFolder() {
         return __DIR__;
     }
+    
+    public function __construct(\MapasCulturais\AssetManager $asset_manager) {
+        $subdomain = $this->getSubdomain();
+        
+        parent::__construct($asset_manager);
+        if ($subdomain) {
+            $assets_dir = __DIR__ . "/assets-subdomains/{$subdomain}";
+
+            if (is_dir($assets_dir)) {
+                $this->addPath($assets_dir);
+            }
+        }
+    }
 
     function _init() {
         parent::_init();
@@ -80,11 +93,8 @@ class Theme extends BaseV1\Theme{
         
         $subdomain = $this->getSubdomain();
         
-        $app->hook('view.render(<<*>>):before', function() use($app) {
-            $this->_publishAssets();
-        });
-        
-        if($subdomain){
+        if ($subdomain) {
+            
             $app->hook('slim.before.dispatch', function() use($app, $subdomain){
                 if(!isset(self::$subdomains[$subdomain])){
                     $app->pass();
@@ -101,6 +111,10 @@ class Theme extends BaseV1\Theme{
                 $params['regiao'] = 'EQ(' . self::$subdomains[$subdomain]['name'] . ')';
             });
         }
+        
+        $app->hook('view.render(<<*>>):before', function() use($app) {
+            $this->_publishAssets();
+        });
         
     }
 
