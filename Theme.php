@@ -4,6 +4,39 @@ use MapasCulturais\Themes\BaseV1;
 use MapasCulturais\App;
 
 class Theme extends BaseV1\Theme{
+    
+    public static $subdomains = [
+        'bras' => [
+            'name' => 'Brás',
+            'cor' => '',
+            'zoom' => 14,
+            'center' => [-23.54364842214825, -46.61720306761708]
+        ],
+        'bomretiro' => [
+            'name' => 'Bom Retiro',
+            'cor' => '',
+            'zoom' => 15,
+            'center' => [-23.531392575917064, -46.64086548313208]
+        ],
+        'santaifigenia' => [
+            'name' => 'Santa Ifigênia',
+            'cor' => '',
+            'zoom' => 16,
+            'center' => [-23.540374323957664, -46.63952036578849]
+        ],
+        '25demarco' => [
+            'name' => '25 de Março',
+            'cor' => '',
+            'zoom' => 16,
+            'center' => [-23.542261577576905, -46.63207322359085]
+        ],
+        'mercadao' => [
+            'name' => 'Mercado Municipal de SP',
+            'cor' => '',
+            'zoom' => 18,
+            'center' => [-23.542098056818663, -46.629491930070806]
+        ],
+    ];
 
     protected static function _getTexts(){
         $app = App::i();
@@ -44,18 +77,31 @@ class Theme extends BaseV1\Theme{
     function _init() {
         parent::_init();
         $app = App::i();
+        
+        $subdomain = $this->getSubdomain();
+        
         $app->hook('view.render(<<*>>):before', function() use($app) {
             $this->_publishAssets();
         });
         
-        if($this->getSubdomain()){
+        if($subdomain){
+            $app->hook('slim.before.dispatch', function() use($app, $subdomain){
+                if(!isset(self::$subdomains[$subdomain])){
+                    $app->pass();
+                }
+            });
+            
             $url = $this->getSearchSpacesUrl();
+            
             $app->hook('GET(site.index):before', function() use ($app, $url){
                 $app->redirect($url);
             });
             
-            
+            $app->hook('API.find(space).params', function(&$params) use($subdomain){
+                $params['regiao'] = 'EQ(' . self::$subdomains[$subdomain]['name'] . ')';
+            });
         }
+        
     }
 
     protected function _publishAssets() {
@@ -94,7 +140,7 @@ class Theme extends BaseV1\Theme{
         echo $protocol . $subdomain . '.' . $domain;
     }
     
-    public function getSubdomain(){
+    public static function getSubdomain(){
         if(preg_match('#([^\.]*)\.guiadecompras\.#', $_SERVER['HTTP_HOST'], $matches)){
             return $matches[1];
         } else {

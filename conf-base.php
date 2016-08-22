@@ -1,8 +1,17 @@
 <?php
 
-return [
+$subdomain = $theme_class::getSubdomain();
+
+$conf = [];
+
+if(isset($theme_class::$subdomains[$subdomain])){
+    $cfg = $theme_class::$subdomains[$subdomain];
+    $conf['maps.zoom.default'] = $cfg['zoom'];
+    $conf['maps.center'] = $cfg['center'];
+}
+
+return array_merge([
 //    // latitude,longitude do centro do mapa da busca e do mapa da criação de agentes e espaços
-        'maps.center' => [-23.591677325244067, -46.625633239746094],
 
         'app.enabled.agents'   => false,
         'app.enabled.spaces'   => true,
@@ -19,7 +28,6 @@ return [
 //    'maps.geometryFieldQuery' => "ST_SimplifyPreserveTopology(geom, 0.001)",
 //
 //    // zoom padrão do mapa da busca
-        'maps.zoom.default' => 11,
 //
 //    // zoom do mapa da single do agente quando este define a posição como aproximada
 //    'maps.zoom.approximate' => 14,
@@ -28,7 +36,7 @@ return [
 //    'maps.zoom.precise' => 16,
 //
 //    // zoom máximo do mapa da busca
-//    'maps.zoom.max' => 18,
+    'maps.zoom.max' => 19,
 //
 //    // zom mínimo do mapa da busca
 //    'maps.zoom.min' => 5,
@@ -47,4 +55,4 @@ return [
 //        'subprefeitura' => 'Subprefeitura',
 //        'distrito'      => 'Distrito'
 //    ],
-];
+], $conf);
