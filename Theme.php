@@ -254,9 +254,9 @@ class Theme extends BaseV1\Theme{
         $subdomain = self::getSubdomain();
         
         $app->hook('app.register', function(&$registry) use($subdomain){
-            
-            $registry['taxonomies']['by-slug']['area']->restrictedTerms = self::$subdomains[$subdomain]['segmentos'];
-            
+            if(isset($registry['taxonomies']['by-slug']['area']) && isset(self::$subdomains[$subdomain]['segmentos'])){
+                $registry['taxonomies']['by-slug']['area']->restrictedTerms = self::$subdomains[$subdomain]['segmentos'];
+            }
             
             return;
             
