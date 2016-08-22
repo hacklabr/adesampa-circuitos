@@ -127,8 +127,8 @@ class Theme extends BaseV1\Theme{
         'mercadao' => [
             'name' => 'Mercado Municipal de SP',
             'cor' => '',
-            'zoom' => 18,
-            'center' => [-23.542098056818663, -46.629491930070806],
+            'zoom' => 19,
+            'center' => [-23.541737818641426, -46.629491930070806],
             'segmentos' => [
                 "Alimentação", 
                 "Avicola", 
@@ -151,9 +151,14 @@ class Theme extends BaseV1\Theme{
         //$url_search_events = $self->searchEventsUrl;
         //$url_search_projects = $self->searchProjectsUrl;
 
+        $subdomain = self::getSubdomain();
+        if ($subdomain)
+            $name = self::$subdomains[self::getSubdomain()]['name'];
+        else
+            $name = '';
         return [
                 'entities: Spaces' => 'Lojas',
-                'site: name' => self::$subdomains[self::getSubdomain()]['name'],
+                'site: name' => $name,
 //            'site: description' => App::i()->config['app.siteDescription'],
 //            'site: in the region' => 'na região',
 //            'site: of the region' => 'da região',
