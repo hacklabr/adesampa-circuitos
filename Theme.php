@@ -10,31 +10,136 @@ class Theme extends BaseV1\Theme{
             'name' => 'Brás',
             'cor' => '',
             'zoom' => 14,
-            'center' => [-23.54364842214825, -46.61720306761708]
+            'center' => [-23.54364842214825, -46.61720306761708],
+            'segmentos' => [
+                "Acessórios", 
+                "Alimentação", 
+                "Alimentos", 
+                "Artigos para lojas", 
+                "Aviamentos", 
+                "Bijuterias", 
+                "Cama, mesa e banho", 
+                "Confecções", 
+                "Couro e Assessorios", 
+                "Eletronicos", 
+                "Embalagens", 
+                "Enxoval", 
+                "Expositores, manequins", 
+                "Feira da Madrugada", 
+                "Madeiras", 
+                "Malas e Bolsas", 
+                "Moda Esportiva", 
+                "Moda Evangélica", 
+                "Moda Feminina", 
+                "Moda Festa", 
+                "Moda GG", 
+                "Moda Infantil", 
+                "Moda Jeans", 
+                "Moda Jovem", 
+                "Moda Masculina", 
+                "Moda Praia", 
+                "Moda Íntima", 
+                "Noivas", 
+                "Papelaria", 
+                "Sacaria", 
+                "Serviços", 
+                "Surfwear", 
+                "Tecidos e Retalhos" 
+            ]
         ],
         'bomretiro' => [
             'name' => 'Bom Retiro',
             'cor' => '',
             'zoom' => 15,
-            'center' => [-23.531392575917064, -46.64086548313208]
+            'center' => [-23.531392575917064, -46.64086548313208],
+            'segmentos' => [
+                "Aviamentos", 
+                "Bijuterias", 
+                "Calçados", 
+                "Confecções", 
+                "Embalagens", 
+                "Jeans", 
+                "Linhas e Fios", 
+                "Malas e Bolsas", 
+                "Maquinas e Assistencia", 
+                "Moda Feminina", 
+                "Moda Festa", 
+                "Moda GG", 
+                "Moda Infantil", 
+                "Moda Masculina", 
+                "Moda Praia", 
+                "Moda Social Feminina", 
+                "Tecido e Malharia" 
+            ]
         ],
         'santaifigenia' => [
             'name' => 'Santa Ifigênia',
             'cor' => '',
             'zoom' => 16,
-            'center' => [-23.540374323957664, -46.63952036578849]
+            'center' => [-23.540374323957664, -46.63952036578849],
+            'segmentos' => [
+                "Alarmes e CFTV", 
+                "Assistencia Técnica", 
+                "Audio e Video", 
+                "Cabos", 
+                "Cartuchos", 
+                "Celulares", 
+                "Componentes", 
+                "Câmeras Digitais", 
+                "Eletrônicos", 
+                "Elétrica", 
+                "Ferramentas", 
+                "Games", 
+                "Iluminação", 
+                "Inform\u00e1tica", 
+                "Instrumentos musicais", 
+                "Mídias Cds e Dvds", 
+                "Notebooks", 
+                "Segurança", 
+                "Som Automotivo", 
+                "Telefonia"
+            ]
         ],
         '25demarco' => [
             'name' => '25 de Março',
             'cor' => '',
             'zoom' => 16,
-            'center' => [-23.542261577576905, -46.63207322359085]
+            'center' => [-23.542261577576905, -46.63207322359085],
+            'segmentos' => [
+                "Alimentos", 
+                "Armarinhos", 
+                "Artesanato", 
+                "Artigos Festa", 
+                "Artigos de Época", 
+                "Aviamentos", 
+                "Bijuterias", 
+                "Brindes", 
+                "Brinquedos", 
+                "Cama, mesa e banho", 
+                "Decoração", 
+                "Embalagens", 
+                "Fantasia", 
+                "Importados", 
+                "Malas e Bolsas", 
+                "Moda"
+            ]
         ],
         'mercadao' => [
             'name' => 'Mercado Municipal de SP',
             'cor' => '',
             'zoom' => 18,
-            'center' => [-23.542098056818663, -46.629491930070806]
+            'center' => [-23.542098056818663, -46.629491930070806],
+            'segmentos' => [
+                "Alimentação", 
+                "Avicola", 
+                "Açougue", 
+                "Empórios", 
+                "Hortifruti", 
+                "Laticinios", 
+                "Mercearia", 
+                "Outros", 
+                "Peixaria"
+            ]
         ],
     ];
 
@@ -94,7 +199,6 @@ class Theme extends BaseV1\Theme{
         $subdomain = $this->getSubdomain();
         
         if ($subdomain) {
-            
             $app->hook('slim.before.dispatch', function() use($app, $subdomain){
                 if(!isset(self::$subdomains[$subdomain])){
                     $app->pass();
@@ -125,29 +229,58 @@ class Theme extends BaseV1\Theme{
     public function register() {
         parent::register();
         $app = App::i();
-         $metadata = [
-                      'MapasCulturais\Entities\Space' => [
-                                                          'regiao' => [
-                                                                          'label' => 'Região',
-                                                                          'type' => 'select',
-                                                                          'options' => [ '25 de Março',
-                                                                                         'Brás',
-                                                                                         'Bom Retiro',
-                                                                                         'Santa Ifigênia',
-                                                                                         ]
-                                                                       ],
-                                                          ]
-                      ];
+        $metadata = [
+            'MapasCulturais\Entities\Space' => [
+                'regiao' => [
+                    'label' => 'Região',
+                    'type' => 'select',
+                    'options' => [ 
+                        '25 de Março',
+                        'Brás',
+                        'Bom Retiro',
+                        'Santa Ifigênia',
+                    ]
+                ],
+            ]
+        ];
 
-        foreach($metadata as $entity_class => $metas){
-            foreach($metas as $key => $cfg){
+        foreach ($metadata as $entity_class => $metas) {
+            foreach ($metas as $key => $cfg) {
                 $def = new \MapasCulturais\Definitions\Metadata($key, $cfg);
                 $app->registerMetadata($def, $entity_class);
             }
         }
+        
+        $subdomain = self::getSubdomain();
+        
+        $app->hook('app.register', function(&$registry) use($subdomain){
+            
+            $registry['taxonomies']['by-slug']['area']->restrictedTerms = self::$subdomains[$subdomain]['segmentos'];
+            
+            
+            return;
+            
+            $group = null;
+            $registry['entity_type_groups']['MapasCulturais\Entities\Space'] = array_filter($registry['entity_type_groups']['MapasCulturais\Entities\Space'], function($item) use (&$group) {
+                if ($item->name === 'Bibliotecas') {
+                    $group = $item;
+                    return $item;
+                } else {
+                    return null;
+                }
+            });
+
+            $registry['entity_types']['MapasCulturais\Entities\Space'] = array_filter($registry['entity_types']['MapasCulturais\Entities\Space'], function($item) use ($group) {
+                if ($item->id >= $group->min_id && $item->id <= $group->max_id) {
+                    return $item;
+                } else {
+                    return null;
+                }
+            });
+        });
+    
     }
-    
-    
+
     public function subdomain($subdomain){
         $domain = $_SERVER['HTTP_HOST'];
         $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off' || $_SERVER['SERVER_PORT'] == 443) ? "https://" : "http://";
