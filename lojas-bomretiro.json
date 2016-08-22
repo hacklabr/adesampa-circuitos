@@ -1,0 +1,3680 @@
+[
+    {
+        "segmentos": [
+            "Moda Infantil"
+        ], 
+        "nome": "764 KIDS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5251395, 
+                "lng": -46.6437248
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "adm@764kids.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-4918", 
+            "En_CEP": "01127-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Solon, 764", 
+            "En_Num": "764", 
+            "En_Nome_Logradouro": "Rua Solon", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Praia"
+        ], 
+        "nome": "BAMBU", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5310958, 
+                "lng": -46.6406849
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "bambu@bambubr.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3361-7602", 
+            "En_CEP": "01122-021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Prof. Cesare Lombroso, 161/259 - Loja 55", 
+            "En_Num": "161", 
+            "En_Nome_Logradouro": "Rua Professor Cesare Lombroso", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Praia"
+        ], 
+        "nome": "BLUE PEPPER", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5312975, 
+                "lng": -46.6362184
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "bluepepper@bluepepper.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3227-9134", 
+            "En_CEP": "01122", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Ribeiro de Lima, 340", 
+            "En_Num": "340", 
+            "En_Nome_Logradouro": "R. Ribeiro de Lima", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Maquinas e Assistencia"
+        ], 
+        "nome": "AZEVEDO & SOUZA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5247325, 
+                "lng": -46.6388198
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "asmaquinas@acessabrasil.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3224-9076", 
+            "En_CEP": "01128-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mamor\u00e9, 442", 
+            "En_Num": "442", 
+            "En_Nome_Logradouro": "R. Mamor\u00e9", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Tecido e Malharia"
+        ], 
+        "nome": "ATELI\u00ca DOS AVIAMENTOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5289016, 
+                "lng": -46.6386718
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3224-9229", 
+            "En_CEP": "01123-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Tr\u00eas Rios, 469/475", 
+            "En_Num": "469", 
+            "En_Nome_Logradouro": "Rua Tr\u00eas Rios", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Confec\u00e7\u00f5es"
+        ], 
+        "nome": "AHA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5300293, 
+                "lng": -46.64034909999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "aha@aha.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3221-0107", 
+            "En_CEP": "01122-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aimor\u00e9s, 228", 
+            "En_Num": "228", 
+            "En_Nome_Logradouro": "R. Aimor\u00e9s", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias", 
+            "Malas e Bolsas"
+        ], 
+        "nome": "ALPUS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.531021, 
+                "lng": -46.6382504
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3221-3773", 
+            "En_CEP": "01125-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Gra\u00e7a, 15", 
+            "En_Num": "15", 
+            "En_Nome_Logradouro": "R. da Gra\u00e7a", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Feminina"
+        ], 
+        "nome": "AGALESS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5330692, 
+                "lng": -46.6371414
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "agibel@terra.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3229-0075", 
+            "En_CEP": "01121", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Prates, 103", 
+            "En_Num": "103", 
+            "En_Nome_Logradouro": "Rua Prates", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Jeans"
+        ], 
+        "nome": "ANEMESS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.530348, 
+                "lng": -46.6410839
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3224-9600", 
+            "En_CEP": "01122-021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Prof. Cesare Lombroso, 259 - Loja 30", 
+            "En_Num": "259", 
+            "En_Nome_Logradouro": "Rua Professor Cesare Lombroso", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Tecido e Malharia"
+        ], 
+        "nome": "ALBERCAN TECIDOS FURADINHOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5292395, 
+                "lng": -46.6416282
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3333-1032", 
+            "En_CEP": "01131", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Italianos, 47", 
+            "En_Num": "47", 
+            "En_Nome_Logradouro": "R. dos Italianos", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias", 
+            "Malas e Bolsas"
+        ], 
+        "nome": "ANNY BIJOUX", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5318871, 
+                "lng": -46.6349252
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3228-6762", 
+            "En_CEP": "01122", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Ribeiro de Lima, 404", 
+            "En_Num": "404", 
+            "En_Nome_Logradouro": "R. Ribeiro de Lima", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cal\u00e7ados"
+        ], 
+        "nome": "ALL STAR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5282345, 
+                "lng": -46.639126
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3337-4750", 
+            "En_CEP": "01125", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Gra\u00e7a, 340", 
+            "En_Num": "340", 
+            "En_Nome_Logradouro": "R. da Gra\u00e7a", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos"
+        ], 
+        "nome": "ARMARIANHOS ZIPCITY", 
+        "location": {
+            "coordinates": {
+                "lat": -23.52661, 
+                "lng": -46.6415797
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-7853", 
+            "En_CEP": "01120-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 911/913", 
+            "En_Num": "911", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Jeans"
+        ], 
+        "nome": "CONFRARIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5299278, 
+                "lng": -46.64180409999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "confraria@confrariajeans.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3361-7783", 
+            "En_CEP": "01126-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Silva Pinto, 16", 
+            "En_Num": "16", 
+            "En_Nome_Logradouro": "R. Silva Pinto", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Praia"
+        ], 
+        "nome": "BEIRA MAR BEACHWEAR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5290886, 
+                "lng": -46.64000980000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "bm@maiosbeiramar.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3222-7999", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 592", 
+            "En_Num": "592", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Masculina"
+        ], 
+        "nome": "CENTRAL MAN", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5316634, 
+                "lng": -46.6388384
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3223-1668", 
+            "En_CEP": "01123-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 279", 
+            "En_Num": "279", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cal\u00e7ados"
+        ], 
+        "nome": "AZ CALZATURE RUA JOS\u00c9", 
+        "location": {
+            "coordinates": {
+                "lat": -23.531025, 
+                "lng": -46.6389085
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3333-3938", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 350", 
+            "En_Num": "350", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Jeans"
+        ], 
+        "nome": "EQUUS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5318455, 
+                "lng": -46.6390641
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3223-7982", 
+            "En_CEP": "01122", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Ribeiros de Lima, 685", 
+            "En_Num": "685", 
+            "En_Nome_Logradouro": "R. Ribeiro de Lima", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Confec\u00e7\u00f5es"
+        ], 
+        "nome": "BELLA KIBELLA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5314074, 
+                "lng": -46.6396859
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "bellakibella@hotmail.com", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3223-4587", 
+            "En_CEP": "01122-011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aimor\u00e9s, 59 - Loja 21", 
+            "En_Num": "59", 
+            "En_Nome_Logradouro": "R. Aimor\u00e9s", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias"
+        ], 
+        "nome": "AUDIENCE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5323757, 
+                "lng": -46.6380569
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3333-3324", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 180", 
+            "En_Num": "180", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Confec\u00e7\u00f5es"
+        ], 
+        "nome": "CONTTORNO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5277192, 
+                "lng": -46.6417479
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "conttorno@gmail.com", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3225-0813", 
+            "En_CEP": "01126-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Julio Conceicao, 583", 
+            "En_Num": "583", 
+            "En_Nome_Logradouro": "R. J\u00falio Concei\u00e7\u00e3o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Infantil", 
+            "Moda Masculina", 
+            "Moda Praia"
+        ], 
+        "nome": "BORWAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5293991, 
+                "lng": -46.6401526
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-0558", 
+            "En_CEP": "01120-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 573", 
+            "En_Num": "573", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Maquinas e Assistencia"
+        ], 
+        "nome": "CONVERMAQ", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5242182, 
+                "lng": -46.6417402
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3361-2286", 
+            "En_CEP": "01127-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua S\u00f3lon, 536", 
+            "En_Num": "536", 
+            "En_Nome_Logradouro": "Rua Solon", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda GG"
+        ], 
+        "nome": "BEL ROSE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5285622, 
+                "lng": -46.6395176
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3361-3393", 
+            "En_CEP": "01126-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Silva Pinto, 301", 
+            "En_Num": "301", 
+            "En_Nome_Logradouro": "R. Silva Pinto", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "2HN", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5266394, 
+                "lng": -46.6423396
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-6490", 
+            "En_CEP": "01127-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Tenente Pena, 99", 
+            "En_Num": "99", 
+            "En_Nome_Logradouro": "R. Ten. Pena", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Maquinas e Assistencia"
+        ], 
+        "nome": "EVERTHI", 
+        "location": {
+            "coordinates": {
+                "lat": -23.525911, 
+                "lng": -46.64101729999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3333-3173", 
+            "En_CEP": "01128-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mamor\u00e9, 691", 
+            "En_Num": "691", 
+            "En_Nome_Logradouro": "R. Mamor\u00e9", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Masculina"
+        ], 
+        "nome": "CIA YPSLON", 
+        "location": {
+            "coordinates": {
+                "lat": -23.530498, 
+                "lng": -46.63934219999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3361-5272", 
+            "En_CEP": "01120-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 433", 
+            "En_Num": "433", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Linhas e Fios"
+        ], 
+        "nome": "L\u00c3 FORMOSA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5311766, 
+                "lng": -46.6377386
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-6646", 
+            "En_CEP": "01122", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Ribeiro de Lima, 507", 
+            "En_Num": "507", 
+            "En_Nome_Logradouro": "R. Ribeiro de Lima", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Tecido e Malharia"
+        ], 
+        "nome": "ADEMATEX", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5244996, 
+                "lng": -46.6401699
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3222-9987", 
+            "En_CEP": "01127", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Nilton Prado, 379", 
+            "En_Num": "379", 
+            "En_Nome_Logradouro": "R. Newton Prado", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Festa"
+        ], 
+        "nome": "BALONITE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5296215, 
+                "lng": -46.64120490000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3337-1263", 
+            "En_CEP": "01126-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Silva Pinto, 88", 
+            "En_Num": "88", 
+            "En_Nome_Logradouro": "R. Silva Pinto", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias", 
+            "Malas e Bolsas"
+        ], 
+        "nome": "ATUAL MODA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5314851, 
+                "lng": -46.6381881
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3333-4617", 
+            "En_CEP": "01122-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Ribeiro de Lima, 575", 
+            "En_Num": "575", 
+            "En_Nome_Logradouro": "R. Ribeiro de Lima", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cal\u00e7ados", 
+            "Malas e Bolsas"
+        ], 
+        "nome": "BIR\u00d4", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5321196, 
+                "lng": -46.6395272
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3333-5848", 
+            "En_CEP": "01122", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Ribeiro de Lima, 747", 
+            "En_Num": "747", 
+            "En_Nome_Logradouro": "R. Ribeiro de Lima", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Confec\u00e7\u00f5es"
+        ], 
+        "nome": "EMP\u00d3RIO UFFIZI", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5231364, 
+                "lng": -46.6479797
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "contato@emporiouffizi.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3225-0360", 
+            "En_CEP": "01130-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Javaes, 578", 
+            "En_Num": "578", 
+            "En_Nome_Logradouro": "R. Java\u00e9s", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda GG"
+        ], 
+        "nome": "BC BG", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5285537, 
+                "lng": -46.6403014
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "bcbgfashion@yahoo.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3333-4232", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 654", 
+            "En_Num": "654", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "ASSIM", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5261955, 
+                "lng": -46.6483735
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "assim@globo.com", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-8488", 
+            "En_CEP": "01128", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Barra do Tibagi, 1139", 
+            "En_Num": "1139", 
+            "En_Nome_Logradouro": "R. Barra do Tibagi", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos"
+        ], 
+        "nome": "ARTY EM COURO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5236204, 
+                "lng": -46.643198
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "erica_freire@ig.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 8309-5683", 
+            "En_CEP": "01128", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Barra do Tibaji, 524", 
+            "En_Num": "524", 
+            "En_Nome_Logradouro": "R. Barra do Tibagi", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Masculina"
+        ], 
+        "nome": "357", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5311365, 
+                "lng": -46.6392531
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-9952", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 357", 
+            "En_Num": "357", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Social Feminina"
+        ], 
+        "nome": "EL PIZO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.531198, 
+                "lng": -46.6392154
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3361-2330", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 345 - Loja 6", 
+            "En_Num": "345", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cal\u00e7ados"
+        ], 
+        "nome": "CELIA MILANI CAL\u00c7ADOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5297301, 
+                "lng": -46.63536
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3313-0087", 
+            "En_CEP": "01123-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Tr\u00eas Rios, 121", 
+            "En_Num": "121", 
+            "En_Nome_Logradouro": "Rua Tr\u00eas Rios", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Infantil"
+        ], 
+        "nome": "MEIDADE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5290133, 
+                "lng": -46.6390632
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-3825", 
+            "En_CEP": "01125-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Gra\u00e7a, 255", 
+            "En_Num": "255", 
+            "En_Nome_Logradouro": "R. da Gra\u00e7a", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Confec\u00e7\u00f5es"
+        ], 
+        "nome": "CZA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5242815, 
+                "lng": -46.6403828
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3361-7688", 
+            "En_CEP": "01125-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Dr. Leonardo Pinto, 18", 
+            "En_Num": "18", 
+            "En_Nome_Logradouro": "R. Dr. Leonardo Pinto", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Jeans"
+        ], 
+        "nome": "DEBINIS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5287149, 
+                "lng": -46.6403872
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3222-0436", 
+            "En_CEP": "01120-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 643", 
+            "En_Num": "643", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Masculina"
+        ], 
+        "nome": "CHASSI", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5292061, 
+                "lng": -46.640847
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-6826", 
+            "En_CEP": "01126-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Silva Pinto, 141", 
+            "En_Num": "141", 
+            "En_Nome_Logradouro": "R. Silva Pinto", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Maquinas e Assistencia"
+        ], 
+        "nome": "BIANOR CONSERTOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.52604, 
+                "lng": -46.6414927
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3222-8652", 
+            "En_CEP": "01128-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mamor\u00e9, 771-A", 
+            "En_Num": "771", 
+            "En_Nome_Logradouro": "R. Mamor\u00e9", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Tecido e Malharia"
+        ], 
+        "nome": "ASA MALHARIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5246476, 
+                "lng": -46.6437421
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3225-0061", 
+            "En_CEP": "01131", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Italianos, 602", 
+            "En_Num": "602", 
+            "En_Nome_Logradouro": "R. dos Italianos", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Jeans"
+        ], 
+        "nome": "DORYM II", 
+        "location": {
+            "coordinates": {
+                "lat": -23.531265, 
+                "lng": -46.638763
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "dorym@uol.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-3501", 
+            "En_CEP": "01120-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 322 - Sala. 101", 
+            "En_Num": "322", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Linhas e Fios"
+        ], 
+        "nome": "FILATORI", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5298366, 
+                "lng": -46.6383082
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3221-0777", 
+            "En_CEP": "01123-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Lubavitch, 42", 
+            "En_Num": "42", 
+            "En_Nome_Logradouro": "R. Lubavitch", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "CAIXA DE PAPEL\u00c3O - COMPRA E VENDA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5245626, 
+                "lng": -46.64150710000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3222-6073", 
+            "En_CEP": "01125-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua do Areal, 231", 
+            "En_Num": "231", 
+            "En_Nome_Logradouro": "R. do Areal", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Festa"
+        ], 
+        "nome": "ART BLUE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5274302, 
+                "lng": -46.6407339
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3338-2376", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 790", 
+            "En_Num": "790", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos"
+        ], 
+        "nome": "ASLAN", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5268865, 
+                "lng": -46.6396209
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "vendas@aslan.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3225-1100", 
+            "En_CEP": "01126-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Julio Concei\u00e7\u00e3o, 349/351", 
+            "En_Num": "349", 
+            "En_Nome_Logradouro": "R. J\u00falio Concei\u00e7\u00e3o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda GG"
+        ], 
+        "nome": "BAYARD", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5320819, 
+                "lng": -46.6384126
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3225-0691", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 231 / 361 / 542 / 77", 
+            "En_Num": "231", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Tecido e Malharia"
+        ], 
+        "nome": "AVAN\u00c7O", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5286795, 
+                "lng": -46.6388504
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "avancotecidos@ig.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3222-5945", 
+            "En_CEP": "01123", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Tr\u00eas Rios, 488/492", 
+            "En_Num": "492", 
+            "En_Nome_Logradouro": "Rua Tr\u00eas Rios", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "COMPRAS E VENDAS DE CAIXAS DE PAPEL\u00c3O", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5286933, 
+                "lng": -46.6416742
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3221-7057", 
+            "En_CEP": "01131", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Italianos, 107", 
+            "En_Num": "107", 
+            "En_Nome_Logradouro": "R. dos Italianos", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Festa"
+        ], 
+        "nome": "BELONITE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.527915, 
+                "lng": -46.6403275
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-2535", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 726", 
+            "En_Num": "726", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Praia"
+        ], 
+        "nome": "ALGA MARINHA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5312421, 
+                "lng": -46.6388113
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-4235", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 326", 
+            "En_Num": "326", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Masculina"
+        ], 
+        "nome": "ADLI", 
+        "location": {
+            "coordinates": {
+                "lat": -23.530065, 
+                "lng": -46.6396628
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3333-5723", 
+            "En_CEP": "01120-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 481", 
+            "En_Num": "481", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Social Feminina"
+        ], 
+        "nome": "DOUS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5275106, 
+                "lng": -46.6416639
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3333-5615", 
+            "En_CEP": "01126", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Julio Concei\u00e7\u00e3o, 568", 
+            "En_Num": "568", 
+            "En_Nome_Logradouro": "R. J\u00falio Concei\u00e7\u00e3o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Feminina"
+        ], 
+        "nome": "ADELA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5314245, 
+                "lng": -46.6388892
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3221-4056", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 313", 
+            "En_Num": "313", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Feminina"
+        ], 
+        "nome": "88 CONFEC\u00c7\u00c3O", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5233755, 
+                "lng": -46.6480999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3333-6277", 
+            "En_CEP": "01130-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Java\u00e9s, 599", 
+            "En_Num": "599", 
+            "En_Nome_Logradouro": "R. Java\u00e9s", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda GG"
+        ], 
+        "nome": "AMAMONA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.531198, 
+                "lng": -46.6392154
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3222-6891", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 345 - Loja 21", 
+            "En_Num": "345", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Maquinas e Assistencia"
+        ], 
+        "nome": "ASTRAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5258658, 
+                "lng": -46.641127
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-3079", 
+            "En_CEP": "01128-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mamor\u00e9, 703", 
+            "En_Num": "703", 
+            "En_Nome_Logradouro": "R. Mamor\u00e9", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Linhas e Fios"
+        ], 
+        "nome": "INDUSFIO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.526664, 
+                "lng": -46.6396881
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "indusfio@uol.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 6875-3467", 
+            "En_CEP": "01126-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Julio Concei\u00e7\u00e3o,343", 
+            "En_Num": "343", 
+            "En_Nome_Logradouro": "R. J\u00falio Concei\u00e7\u00e3o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Linhas e Fios"
+        ], 
+        "nome": "FIO FASHION", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5254605, 
+                "lng": -46.6362905
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "gerencia@fiofashion.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3311-8160", 
+            "En_CEP": "01123-050", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Joaquim Murtinho, 277", 
+            "En_Num": "277", 
+            "En_Nome_Logradouro": "R. Joaquim Murtinho", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Maquinas e Assistencia"
+        ], 
+        "nome": "CAJOMAK", 
+        "location": {
+            "coordinates": {
+                "lat": -23.526152, 
+                "lng": -46.6414362
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3222-9394", 
+            "En_CEP": "01125-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua do Areal, 54", 
+            "En_Num": "54", 
+            "En_Nome_Logradouro": "R. do Areal", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Maquinas e Assistencia"
+        ], 
+        "nome": "CONQUISTA M\u00c1QUINAS DE COSTURA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5255446, 
+                "lng": -46.640811
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "conquistamaquinas@ig.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3222-3499", 
+            "En_CEP": "01125-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Gra\u00e7a, 673", 
+            "En_Num": "673", 
+            "En_Nome_Logradouro": "R. da Gra\u00e7a", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda GG"
+        ], 
+        "nome": "BENIS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.529805, 
+                "lng": -46.6405772
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3362-8858", 
+            "En_CEP": "01122-011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aimor\u00e9s, 255", 
+            "En_Num": "255", 
+            "En_Nome_Logradouro": "R. Aimor\u00e9s", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Feminina", 
+            "Moda Festa"
+        ], 
+        "nome": "ADORO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5307642, 
+                "lng": -46.6407764
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-1420", 
+            "En_CEP": "01122-021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Prof. Cesare Lombroso, 199", 
+            "En_Num": "199", 
+            "En_Nome_Logradouro": "Rua Professor Cesare Lombroso", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias", 
+            "Cal\u00e7ados"
+        ], 
+        "nome": "BEAUTE MODA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5312162, 
+                "lng": -46.6376859
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "beautemoda@yahoo.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3337-5178", 
+            "En_CEP": "01122", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Ribeiro de Lima, 503", 
+            "En_Num": "503", 
+            "En_Nome_Logradouro": "R. Ribeiro de Lima", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "BELLA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5318892, 
+                "lng": -46.6385544
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "bellabolsas@terra.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3361-9170", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 257 - Loja 10", 
+            "En_Num": "257", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Confec\u00e7\u00f5es"
+        ], 
+        "nome": "DIKMER MODAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5298403, 
+                "lng": -46.6345736
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3229-0527", 
+            "En_CEP": "01123", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Tr\u00eas Rios, 40/42", 
+            "En_Num": "40", 
+            "En_Nome_Logradouro": "Rua Tr\u00eas Rios", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Praia"
+        ], 
+        "nome": "JANA LINGERIE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5324639, 
+                "lng": -46.6385997
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3223-8585", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua C\u00f4nego Martins, 37", 
+            "En_Num": "37", 
+            "En_Nome_Logradouro": "R. C\u00f4nego Martins", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Infantil"
+        ], 
+        "nome": "MIARRI CONFEC\u00c7\u00d5ES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5287779, 
+                "lng": -46.6408946
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-3832", 
+            "En_CEP": "01120-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino - 671/691 - Loja 150", 
+            "En_Num": "671", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Confec\u00e7\u00f5es", 
+            "Moda Social Feminina"
+        ], 
+        "nome": "CARANGUEJO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5275659, 
+                "lng": -46.6414938
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3338-0332", 
+            "En_CEP": "01126-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Julio Concei\u00e7\u00e3o , 553", 
+            "En_Num": "553", 
+            "En_Nome_Logradouro": "R. J\u00falio Concei\u00e7\u00e3o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "AMTRAK", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5320216, 
+                "lng": -46.63827
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3224-0011", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 226 - Loja 70/71", 
+            "En_Num": "226", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Praia"
+        ], 
+        "nome": "ALVIN", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5296893, 
+                "lng": -46.64001040000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3223-1233", 
+            "En_CEP": "01120-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 533", 
+            "En_Num": "533", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Tecido e Malharia"
+        ], 
+        "nome": "ALOICIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5314074, 
+                "lng": -46.6396859
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3222-9143", 
+            "En_CEP": "01122-011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aimores, 59 - Loja 32", 
+            "En_Num": "59", 
+            "En_Nome_Logradouro": "R. Aimor\u00e9s", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "BIG PLAST", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5253419, 
+                "lng": -46.6469044
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3221-3447", 
+            "En_CEP": "01128", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Barra do Tibagi, 948", 
+            "En_Num": "948", 
+            "En_Nome_Logradouro": "R. Barra do Tibagi", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias", 
+            "Jeans", 
+            "Moda Feminina"
+        ], 
+        "nome": "5\u00ba GERA\u00c7\u00c3O", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5300643, 
+                "lng": -46.641074
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3361-5330", 
+            "En_CEP": "01122-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Prof. Cesare Lombroso, 288", 
+            "En_Num": "288", 
+            "En_Nome_Logradouro": "Rua Professor Cesare Lombroso", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Confec\u00e7\u00f5es"
+        ], 
+        "nome": "DELATEX", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5274914, 
+                "lng": -46.6380639
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3221-4692", 
+            "En_CEP": "01123-040", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Guarani, 454", 
+            "En_Num": "454", 
+            "En_Nome_Logradouro": "R. Guarani", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cal\u00e7ados", 
+            "Malas e Bolsas"
+        ], 
+        "nome": "ART EM P\u00c9", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5321633, 
+                "lng": -46.6383672
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3337-1387", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 216", 
+            "En_Num": "216", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Tecido e Malharia"
+        ], 
+        "nome": "A SHOW MALHAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.524861, 
+                "lng": -46.6410609
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3362-0009", 
+            "En_CEP": "01125", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Gra\u00e7a, 754", 
+            "En_Num": "754", 
+            "En_Nome_Logradouro": "R. da Gra\u00e7a", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cal\u00e7ados"
+        ], 
+        "nome": "ANABELLA CAL\u00c7ADOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.530158, 
+                "lng": -46.6392373
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3333-5819", 
+            "En_CEP": "01120-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 454", 
+            "En_Num": "454", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Maquinas e Assistencia"
+        ], 
+        "nome": "CEMAQ", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5269349, 
+                "lng": -46.6471793
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3224-9027", 
+            "En_CEP": "01127-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua S\u00f3lon, 1178", 
+            "En_Num": "1178", 
+            "En_Nome_Logradouro": "Rua Solon", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Linhas e Fios"
+        ], 
+        "nome": "FM BORDADOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5309416, 
+                "lng": -46.6440715
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "monicamoraispark@hotmail.com", 
+            "En_Bairro": "Campos El\u00edseos", 
+            "telefonePublico": "(11) 3224-8706", 
+            "En_CEP": "01217", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Alameda Dino Bueno, 443", 
+            "En_Num": "443", 
+            "En_Nome_Logradouro": "Alameda Dino Bueno", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "CARTONAGEM PAPELARIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5265876, 
+                "lng": -46.6349273
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3228-9655", 
+            "En_CEP": "01121", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Prates, 858", 
+            "En_Num": "858", 
+            "En_Nome_Logradouro": "Rua Prates", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda GG"
+        ], 
+        "nome": "ARONY", 
+        "location": {
+            "coordinates": {
+                "lat": -23.531198, 
+                "lng": -46.6392154
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3222-2657", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 345 - Loja 19", 
+            "En_Num": "345", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Social Feminina"
+        ], 
+        "nome": "ADRIEL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5288801, 
+                "lng": -46.6415585
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3222-0601", 
+            "En_CEP": "01131-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos italianos, 77", 
+            "En_Num": "77", 
+            "En_Nome_Logradouro": "R. dos Italianos", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "BOG STORE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5278793, 
+                "lng": -46.642255
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-3739", 
+            "En_CEP": "01126", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua julio Concei\u00e7\u00e3o, 638", 
+            "En_Num": "638", 
+            "En_Nome_Logradouro": "R. J\u00falio Concei\u00e7\u00e3o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias"
+        ], 
+        "nome": "4 ESTA\u00c7\u00d5ES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.52706, 
+                "lng": -46.6413263
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "josepaulino@quatroestacoes.net", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3337-2787", 
+            "En_CEP": "01120-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 849", 
+            "En_Num": "849", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Tecido e Malharia"
+        ], 
+        "nome": "AVIAMENTO DA MODA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5293694, 
+                "lng": -46.636235
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3229-8372", 
+            "En_CEP": "01123", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Tr\u00eas Rios, 218 / 444", 
+            "En_Num": "218", 
+            "En_Nome_Logradouro": "Rua Tr\u00eas Rios", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Linhas e Fios"
+        ], 
+        "nome": "COFIMA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.529424, 
+                "lng": -46.6388343
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "cofima@terra.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3223-9700", 
+            "En_CEP": "01125-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Gra\u00e7a, 205", 
+            "En_Num": "205", 
+            "En_Nome_Logradouro": "R. da Gra\u00e7a", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cal\u00e7ados"
+        ], 
+        "nome": "DONN\u00ca BOLSAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5320286, 
+                "lng": -46.638551
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "donnebolsas@hotmail.com", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3221-0551", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 235 - 1\u00ba Andar", 
+            "En_Num": "235", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Feminina"
+        ], 
+        "nome": "2. PELLE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5298453, 
+                "lng": -46.6418557
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3338-2963", 
+            "En_CEP": "01126-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Silva Pinto, 18", 
+            "En_Num": "18", 
+            "En_Nome_Logradouro": "R. Silva Pinto", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias"
+        ], 
+        "nome": "BARU", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-6970", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Prof. Cesare Lombroso, 259 - Loja 59 - Shopping Lombroso Mall", 
+            "emailPublico": "baru@baru.com.br", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Maquinas e Assistencia"
+        ], 
+        "nome": "ELITY MAK", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5258322, 
+                "lng": -46.6405175
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3223-7230", 
+            "En_CEP": "01125", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Gra\u00e7a, 636", 
+            "En_Num": "636", 
+            "En_Nome_Logradouro": "R. da Gra\u00e7a", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "ARIANE DANTAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5278224, 
+                "lng": -46.6396182
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3333-3077", 
+            "En_CEP": "01125-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Gra\u00e7a, 397", 
+            "En_Num": "397", 
+            "En_Nome_Logradouro": "R. da Gra\u00e7a", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Social Feminina"
+        ], 
+        "nome": "AUDREY", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5314074, 
+                "lng": -46.6396859
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3222-9045", 
+            "En_CEP": "01122-011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aimor\u00e9s, 59 - Loja 6", 
+            "En_Num": "59", 
+            "En_Nome_Logradouro": "R. Aimor\u00e9s", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Social Feminina"
+        ], 
+        "nome": "EL PIZO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5298728, 
+                "lng": -46.6383464
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-4748", 
+            "En_CEP": "01123-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Lubavitch, 38", 
+            "En_Num": "38", 
+            "En_Nome_Logradouro": "R. Lubavitch", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos"
+        ], 
+        "nome": "ARMARINHOS 25", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5268816, 
+                "lng": -46.640307
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "vendas@armarinhos25.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3224-2525", 
+            "En_CEP": "01126-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Julio Concei\u00e7\u00e3o, 411", 
+            "En_Num": "411", 
+            "En_Nome_Logradouro": "R. J\u00falio Concei\u00e7\u00e3o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Maquinas e Assistencia"
+        ], 
+        "nome": "FORTIM", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5247534, 
+                "lng": -46.6385581
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3222-3315", 
+            "En_CEP": "01128-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mamor\u00e9, 423", 
+            "En_Num": "423", 
+            "En_Nome_Logradouro": "R. Mamor\u00e9", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Festa"
+        ], 
+        "nome": "BETIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5284959, 
+                "lng": -46.6417643
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-0140", 
+            "En_CEP": "01131-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Italianos, 125", 
+            "En_Num": "125", 
+            "En_Nome_Logradouro": "R. dos Italianos", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda GG"
+        ], 
+        "nome": "AMORENA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5298537, 
+                "lng": -46.6412839
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3337-6380", 
+            "En_CEP": "01122-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Prof. Cesare Lombroso, 312", 
+            "En_Num": "312", 
+            "En_Nome_Logradouro": "Rua Professor Cesare Lombroso", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Confec\u00e7\u00f5es", 
+            "Moda GG"
+        ], 
+        "nome": "BIANI", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5287779, 
+                "lng": -46.6408946
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3222-9889", 
+            "En_CEP": "01120-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 671/691 - Loja 137", 
+            "En_Num": "671", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Feminina"
+        ], 
+        "nome": "ADIVA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5339814, 
+                "lng": -46.6372521
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 333-7172", 
+            "En_CEP": "01120-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 05", 
+            "En_Num": "5", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Festa"
+        ], 
+        "nome": "BELA NOITE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5285936, 
+                "lng": -46.6400825
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3338-2724", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 644", 
+            "En_Num": "644", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Jeans"
+        ], 
+        "nome": "BEBELA JEANS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.530348, 
+                "lng": -46.6410839
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3337-7978", 
+            "En_CEP": "01122-021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Prof. Cesare Lombroso, 259 - Loja 53", 
+            "En_Num": "259", 
+            "En_Nome_Logradouro": "Rua Professor Cesare Lombroso", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Feminina", 
+            "Moda GG"
+        ], 
+        "nome": "AGIBEL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5330692, 
+                "lng": -46.6371414
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "agibel@terra.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3229-0075", 
+            "En_CEP": "01121", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Prates, 103", 
+            "En_Num": "103", 
+            "En_Nome_Logradouro": "Rua Prates", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Infantil"
+        ], 
+        "nome": "BANANA BACANA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5293029, 
+                "lng": -46.6401956
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3221-1951", 
+            "En_CEP": "01120-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 583", 
+            "En_Num": "583", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Praia"
+        ], 
+        "nome": "L\u00cdQUIDO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5297094, 
+                "lng": -46.63987059999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3333-5644", 
+            "En_CEP": "01120-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 523/525", 
+            "En_Num": "525", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "BAUARTE MODAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5322636, 
+                "lng": -46.6382765
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "bauartemodas@bauartes.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3338-1915", 
+            "En_CEP": "01120-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 200", 
+            "En_Num": "200", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Social Feminina"
+        ], 
+        "nome": "ELPIZO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5274212, 
+                "lng": -46.6415673
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3333-0651", 
+            "En_CEP": "01126", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Julio Concei\u00e7\u00e3o, 550", 
+            "En_Num": "550", 
+            "En_Nome_Logradouro": "R. J\u00falio Concei\u00e7\u00e3o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "AIRO PLAST", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5280548, 
+                "lng": -46.64241149999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3224-8696", 
+            "En_CEP": "01126", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Julio Concei\u00e7\u00e3o, 664", 
+            "En_Num": "664", 
+            "En_Nome_Logradouro": "R. J\u00falio Concei\u00e7\u00e3o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Linhas e Fios"
+        ], 
+        "nome": "JR CALDEIRA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5258177, 
+                "lng": -46.639338
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "jrcaldeirafioselinhas@terra.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3334-0669", 
+            "En_CEP": "01127", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Nilton Prado, 216", 
+            "En_Num": "216", 
+            "En_Nome_Logradouro": "R. Newton Prado", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Jeans"
+        ], 
+        "nome": "AVIREX", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5334364, 
+                "lng": -46.6374412
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3337-5615", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 28", 
+            "En_Num": "28", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "ARTES GR\u00c1FICAS J.V.C", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5252029, 
+                "lng": -46.6337984
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3229-7885", 
+            "En_CEP": "01121-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Rodolfo Miranda , 264", 
+            "En_Num": "264", 
+            "En_Nome_Logradouro": "R. Rodolfo Miranda", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Infantil"
+        ], 
+        "nome": "ALIAN\u00c7A KIDS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5243145, 
+                "lng": -46.6426722
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3224-9064", 
+            "En_CEP": "01129-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua General flores, 237", 
+            "En_Num": "237", 
+            "En_Nome_Logradouro": "R. Gen. Fl\u00f4res", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Infantil"
+        ], 
+        "nome": "BABY SHOW & CIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5245229, 
+                "lng": -46.6421017
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3224-9788", 
+            "En_CEP": "01127-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua S\u00f3lon, 583", 
+            "En_Num": "583", 
+            "En_Nome_Logradouro": "Rua Solon", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Tecido e Malharia"
+        ], 
+        "nome": "\u00c1GUA T\u00c2XTIL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5247657, 
+                "lng": -46.6439719
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-1434", 
+            "En_CEP": "01131-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Pedro Tom\u00e1s, 21", 
+            "En_Num": "21", 
+            "En_Nome_Logradouro": "Rua Pedro Tomas", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos"
+        ], 
+        "nome": "ABC AVIAMENTOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5271155, 
+                "lng": -46.6407156
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3222-1677", 
+            "En_CEP": "01126-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Julio Concei\u00e7\u00e3o, 457/463", 
+            "En_Num": "457", 
+            "En_Nome_Logradouro": "R. J\u00falio Concei\u00e7\u00e3o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Masculina"
+        ], 
+        "nome": "CHIOSCO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.531198, 
+                "lng": -46.6392154
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3361-5993", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 345 - Loja 5", 
+            "En_Num": "345", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Feminina"
+        ], 
+        "nome": "ABILASS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5317775, 
+                "lng": -46.6385475
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3337-6336", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 266", 
+            "En_Num": "266", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Infantil"
+        ], 
+        "nome": "CONFEC\u00c7\u00d5ES TRES JOLIE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5299543, 
+                "lng": -46.63746829999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3227-0498", 
+            "En_CEP": "01123-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Correia de Melo, 148", 
+            "En_Num": "148", 
+            "En_Nome_Logradouro": "Rua Correia de Melo", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Social Feminina"
+        ], 
+        "nome": "CONQSTAR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5268692, 
+                "lng": -46.6412375
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-9944", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 872", 
+            "En_Num": "872", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Infantil"
+        ], 
+        "nome": "GENT\u00b4S BEB\u00ca", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5320216, 
+                "lng": -46.63827
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3333-4996", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 226 - Loja 39", 
+            "En_Num": "226", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos"
+        ], 
+        "nome": "\u00c1PICE DA MODA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5265266, 
+                "lng": -46.6397477
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "vendas@apicedamoda.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3225-9598", 
+            "En_CEP": "01126", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Julio Concei\u00e7\u00e3o, 340", 
+            "En_Num": "340", 
+            "En_Nome_Logradouro": "R. J\u00falio Concei\u00e7\u00e3o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias"
+        ], 
+        "nome": "ANNY BIJOUX", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5318892, 
+                "lng": -46.6385544
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3223-2978", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino,257", 
+            "En_Num": "257", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias"
+        ], 
+        "nome": "A & K BIOUTERIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.528233, 
+                "lng": -46.6391959
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "a_kbijoux@terra.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3225-0140", 
+            "En_CEP": "01125", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Gra\u00e7a, 336", 
+            "En_Num": "336", 
+            "En_Nome_Logradouro": "R. da Gra\u00e7a", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Social Feminina"
+        ], 
+        "nome": "DYLOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.530904, 
+                "lng": -46.6389769
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3333-3778", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 366", 
+            "En_Num": "366", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Jeans"
+        ], 
+        "nome": "DORYM III", 
+        "location": {
+            "coordinates": {
+                "lat": -23.532733, 
+                "lng": -46.6379879
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "dorym@uol.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3221-1868", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 142", 
+            "En_Num": "142", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Praia"
+        ], 
+        "nome": "BETHAN\u00b4S", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5320216, 
+                "lng": -46.63827
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3361-3753", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 226 - Loja 1", 
+            "En_Num": "226", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Masculina"
+        ], 
+        "nome": "CHOU CHOU", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5310107, 
+                "lng": -46.6397877
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3337-5515", 
+            "En_CEP": "01122-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aimor\u00e9s, 106", 
+            "En_Num": "106", 
+            "En_Nome_Logradouro": "R. Aimor\u00e9s", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Jeans", 
+            "Moda Masculina"
+        ], 
+        "nome": "CANAL DA GRIFFE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5320216, 
+                "lng": -46.63827
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3337-7103", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 226", 
+            "En_Num": "226", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Festa"
+        ], 
+        "nome": "BORAME", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5308094, 
+                "lng": -46.6392237
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3223-3401", 
+            "En_CEP": "01120", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 389", 
+            "En_Num": "389", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Infantil"
+        ], 
+        "nome": "MONVY MALHARIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5272879, 
+                "lng": -46.644076
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3337-2624", 
+            "En_CEP": "01127-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Tenente Pena, 290", 
+            "En_Num": "290", 
+            "En_Nome_Logradouro": "R. Ten. Pena", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos"
+        ], 
+        "nome": "ART MODA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5261682, 
+                "lng": -46.639048
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "artmodasaviamentos@artmodasaviamentos.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3333-1549", 
+            "En_CEP": "01127", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Nilton Prado, 160", 
+            "En_Num": "160", 
+            "En_Nome_Logradouro": "R. Newton Prado", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Festa"
+        ], 
+        "nome": "ADORO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-1420", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Prof. Cesare Lombroso, 259 - Loja 20 - Shopping Lombroso Mall", 
+            "emailPublico": "", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Tecido e Malharia"
+        ], 
+        "nome": "ALIAN\u00c7A MALHARIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5255984, 
+                "lng": -46.6441185
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3391-3351", 
+            "En_CEP": "01127-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua S\u00f3lon, 819/825", 
+            "En_Num": "825", 
+            "En_Nome_Logradouro": "Rua Solon", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cal\u00e7ados"
+        ], 
+        "nome": "DONA DOORF", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5297762, 
+                "lng": -46.6418887
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-4961", 
+            "En_CEP": "01126-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Silva Pinto, 19", 
+            "En_Num": "19", 
+            "En_Nome_Logradouro": "R. Silva Pinto", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Linhas e Fios"
+        ], 
+        "nome": "FABI LINHAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5266702, 
+                "lng": -46.6398561
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "fabilinhas@uol.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3221-4605", 
+            "En_CEP": "01126-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Julio Concei\u00e7\u00e3o, 357/359", 
+            "En_Num": "357", 
+            "En_Nome_Logradouro": "R. J\u00falio Concei\u00e7\u00e3o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Masculina"
+        ], 
+        "nome": "BORGES MENSWEAR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5249112, 
+                "lng": -46.6431681
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-2333", 
+            "En_CEP": "01127-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua S\u00f3lon, 708", 
+            "En_Num": "708", 
+            "En_Nome_Logradouro": "Rua Solon", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Festa"
+        ], 
+        "nome": "CHARITY", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5305119, 
+                "lng": -46.6409881
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3337-7452", 
+            "En_CEP": "01122-021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Prof. Cesare Lombroso, 235", 
+            "En_Num": "235", 
+            "En_Nome_Logradouro": "Rua Professor Cesare Lombroso", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Praia"
+        ], 
+        "nome": "BLUE GIRLS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5260447, 
+                "lng": -46.6480544
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3333-3331", 
+            "En_CEP": "01128", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Barra do Tibagi, 1097", 
+            "En_Num": "1097", 
+            "En_Nome_Logradouro": "R. Barra do Tibagi", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Confec\u00e7\u00f5es"
+        ], 
+        "nome": "ANIMA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5268153, 
+                "lng": -46.6429516
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3351-4144", 
+            "En_CEP": "01127-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Tenente Pena, 166", 
+            "En_Num": "166", 
+            "En_Nome_Logradouro": "R. Ten. Pena", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Feminina", 
+            "Moda GG"
+        ], 
+        "nome": "101%", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5306016, 
+                "lng": -46.6396913
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "centaem@gmail.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3221-2382", 
+            "En_CEP": "01122-030", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Carmo Cintra, 38", 
+            "En_Num": "38", 
+            "En_Nome_Logradouro": "R. Carmo Cintra", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Festa"
+        ], 
+        "nome": "BIA & BETH", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5275301, 
+                "lng": -46.64229
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3337-8271", 
+            "En_CEP": "01131", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Dos Italianos, 247", 
+            "En_Num": "247", 
+            "En_Nome_Logradouro": "R. dos Italianos", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cal\u00e7ados"
+        ], 
+        "nome": "DUNES CAL\u00c7ADOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5301416, 
+                "lng": -46.6396239
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3354-1738", 
+            "En_CEP": "01120-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 469", 
+            "En_Num": "469", 
+            "En_Nome_Logradouro": "R. Jos\u00e9 Paulino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Social Feminina"
+        ], 
+        "nome": "ELEG\u00c2NCIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5273903, 
+                "lng": -46.6415182
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-8358", 
+            "En_CEP": "01126", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Julio Concei\u00e7\u00e3o, 544", 
+            "En_Num": "544", 
+            "En_Nome_Logradouro": "R. J\u00falio Concei\u00e7\u00e3o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos"
+        ], 
+        "nome": "APLUS BUTTONS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5245708, 
+                "lng": -46.63823
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "alexandrelee@aplusbuttons.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3222-3654", 
+            "En_CEP": "01128-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mamor\u00e9, 420", 
+            "En_Num": "420", 
+            "En_Nome_Logradouro": "R. Mamor\u00e9", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos", 
+            "Linhas e Fios"
+        ], 
+        "nome": "ALFA T\u00caXTIL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5244862, 
+                "lng": -46.6412628
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3224-9504", 
+            "En_CEP": "01125", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Gra\u00e7a, 798", 
+            "En_Num": "798", 
+            "En_Nome_Logradouro": "R. da Gra\u00e7a", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Linhas e Fios"
+        ], 
+        "nome": "LINHAS DENIL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5256561, 
+                "lng": -46.6414123
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-3963", 
+            "En_CEP": "01125-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua do Areal, 104", 
+            "En_Num": "104", 
+            "En_Nome_Logradouro": "R. do Areal", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "BLOUM\u00b4S BOLSAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5256699, 
+                "lng": -46.64070599999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3221-9429", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jos\u00e9 Paulino, 345 - loja 17 - Galeria Bom Retiro", 
+            "emailPublico": "bolsabloums@terra.com.br", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "BOUARTE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5320052, 
+                "lng": -46.6395957
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "bauarte@bauartemodas.com.br", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3331-8393", 
+            "En_CEP": "01122", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Ribeiro de Lima, 750", 
+            "En_Num": "750", 
+            "En_Nome_Logradouro": "R. Ribeiro de Lima", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos"
+        ], 
+        "nome": "ANDR\u00c9A BOT\u00d5ES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5270156, 
+                "lng": -46.6408345
+            }
+        }, 
+        "metadata": {
+            "regiao": "Bom Retiro", 
+            "emailPublico": "", 
+            "En_Bairro": "Bom Retiro", 
+            "telefonePublico": "(11) 3224-8871", 
+            "En_CEP": "01126", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Julio Concei\u00e7\u00e3o,470/472", 
+            "En_Num": "470", 
+            "En_Nome_Logradouro": "R. J\u00falio Concei\u00e7\u00e3o", 
+            "En_Estado": "SP"
+        }
+    }
+]

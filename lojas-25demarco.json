@@ -1,0 +1,3169 @@
+[
+    {
+        "segmentos": [
+            "Alimentos"
+        ], 
+        "nome": "CASA DE DOCES FERNANDO COSTA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5472331, 
+                "lng": -46.631105
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3104-9265", 
+            "En_CEP": "01021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de Mar\u00e7o, 270", 
+            "En_Num": "270", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "3 DANTAS COMERCIAL ATACADISTA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5428889, 
+                "lng": -46.6308539
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3227-4405", 
+            "En_CEP": "01023", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bar\u00e3o de Duprat, 148/208/214", 
+            "En_Num": "148", 
+            "En_Nome_Logradouro": "R. Bar\u00e3o de Duprat", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda"
+        ], 
+        "nome": "CAMIS\u00d3DROMO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5422963, 
+                "lng": -46.6322631
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3229-8249", 
+            "En_CEP": "01021-100", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 850", 
+            "En_Num": "850", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artesanato"
+        ], 
+        "nome": "ANA E MANUEL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5431888, 
+                "lng": -46.6307547
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3311-0033", 
+            "En_CEP": "01024-100", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Cantareira, 109", 
+            "En_Num": "109", 
+            "En_Nome_Logradouro": "R. da Cantareira", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Armarinhos"
+        ], 
+        "nome": "ARMARINHOS ALMEIDA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5410633, 
+                "lng": -46.632045
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "almeida@armarinhosalmeida.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3312-0966", 
+            "En_CEP": "01021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 990 - 3\u00ba Andar - Sala 31/32", 
+            "En_Num": "990", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Decora\u00e7\u00e3o"
+        ], 
+        "nome": "ARTE DA \u00c1SIA M\u00d3VEIS E DECORA\u00c7\u00d5ES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.542723, 
+                "lng": -46.6332583
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "alex@artedaasia.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-1218", 
+            "En_CEP": "01029", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Flor\u00eancio de Abreu, 157 - 4\u00ba Andar - Conj. 410", 
+            "En_Num": "157", 
+            "En_Nome_Logradouro": "R. Flor\u00eancio de Abreu", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Decora\u00e7\u00e3o"
+        ], 
+        "nome": "ARMAZ\u00c9M DOS PRESENTES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5428176, 
+                "lng": -46.631872
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "vendas@armazemdospresentes.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3227-7415", 
+            "En_CEP": "01023-050", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Comendador Abdo Schahin, 162", 
+            "En_Num": "162", 
+            "En_Nome_Logradouro": "R. Comendador Abdo Schahin", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Brinquedos"
+        ], 
+        "nome": "ARMARINHOS LITORAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "telefonePublico": "(11) 3228-2973", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 958 - Fundos", 
+            "emailPublico": "", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alimentos"
+        ], 
+        "nome": "MERCADO MUNICIPAL PAULISTANO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5418189, 
+                "lng": -46.62938519999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Luz", 
+            "telefonePublico": "(11) 3228-1377", 
+            "En_CEP": "01103-200", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Cantareira, 306", 
+            "En_Num": "306", 
+            "En_Nome_Logradouro": "R. da Cantareira", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos", 
+            "Cama, mesa e banho"
+        ], 
+        "nome": "ARMARINHOS SANTA TEREZINHA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5407071, 
+                "lng": -46.6321343
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "armstaterezinha@terra.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3315-8281", 
+            "En_CEP": "01021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de Mar\u00e7o, 1031", 
+            "En_Num": "1031", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Importados"
+        ], 
+        "nome": "ALEX BIJOUX", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5428895, 
+                "lng": -46.6324724
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "alex-bijoux@hotmail.com", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-1158", 
+            "En_CEP": "01021-200", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de Mar\u00e7o, 779 - 4\u00ba Andar - Sala 41", 
+            "En_Num": "779", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos Festa", 
+            "Brindes", 
+            "Fantasia"
+        ], 
+        "nome": "MAGAZINE 25 DE MAR\u00c7O", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5388665, 
+                "lng": -46.6351773
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "contato@magazine25.com", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3019-2399", 
+            "En_CEP": "01026-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Senador Queir\u00f3s, 101 - 1\u00ba Andar - Sala 114", 
+            "En_Num": "101", 
+            "En_Nome_Logradouro": "Av. Sen. Queir\u00f3s", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda", 
+            "Moda"
+        ], 
+        "nome": "DEP\u00d3SITO DE MEIAS S\u00c3O JORGE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5456249, 
+                "lng": -46.6326757
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "saojorge@saojorge.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3311-0844", 
+            "En_CEP": "01021-200", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de Mar\u00e7o, 485/ 680", 
+            "En_Num": "485", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alimentos"
+        ], 
+        "nome": "COM\u00c9RCIO DE DOCES STEFANELLO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5446418, 
+                "lng": -46.6308027
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3229-8256", 
+            "En_CEP": "01022-050", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Parque Dom Pedro II, 274", 
+            "En_Num": "274", 
+            "En_Nome_Logradouro": "Parque Dom Pedro II", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Brinquedos"
+        ], 
+        "nome": "BAZAR ARMARINHOS NACIONAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5408494, 
+                "lng": -46.6330277
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3311-7155", 
+            "En_CEP": "01025", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Carlos de Sousa Nazar\u00e9, 108", 
+            "En_Num": "108", 
+            "En_Nome_Logradouro": "Rua Carlos de Sousa Nazar\u00e9", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "BOLSAS BOLNAC", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5418469, 
+                "lng": -46.6309636
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-0180", 
+            "En_CEP": "01023-040", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Comendador Afonso Kherlakian, 126", 
+            "En_Num": "126", 
+            "En_Nome_Logradouro": "R. Comendador Afonso Kherlakian", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artesanato"
+        ], 
+        "nome": "ATACAD\u00c3O DO ARTESANATO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "telefonePublico": "(11) 3227-5194", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 641 - Sobreloja 5", 
+            "emailPublico": "", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias"
+        ], 
+        "nome": "SOBIJOUX", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "telefonePublico": "", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "VENDAS PELA INTERNET PARA TODO BRASIL", 
+            "emailPublico": "cliente@sobijoux.com.br", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Decora\u00e7\u00e3o"
+        ], 
+        "nome": "ANGARE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5412629, 
+                "lng": -46.632931
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "contato@angare.com", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-6015", 
+            "En_CEP": "01029", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Flor\u00eancio de abreu, 327", 
+            "En_Num": "327", 
+            "En_Nome_Logradouro": "R. Flor\u00eancio de Abreu", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Decora\u00e7\u00e3o"
+        ], 
+        "nome": "A&B", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5415582, 
+                "lng": -46.6307554
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3229-7709", 
+            "En_CEP": "01023", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bar\u00e3o de Duprat, 290", 
+            "En_Num": "290", 
+            "En_Nome_Logradouro": "R. Bar\u00e3o de Duprat", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias"
+        ], 
+        "nome": "SANBIJU", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5444593, 
+                "lng": -46.6330004
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "contato@sanbiju.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3326-0149", 
+            "En_CEP": "01022", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Ladeira Porto Geral, 103 - 2\u00ba Andar - Sala 208", 
+            "En_Num": "103", 
+            "En_Nome_Logradouro": "Ladeira P\u00f4rto Geral", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Importados"
+        ], 
+        "nome": "ANICO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5391697, 
+                "lng": -46.6319782
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "anico@anico.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3229-2228", 
+            "En_CEP": "01021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 1200", 
+            "En_Num": "1200", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda"
+        ], 
+        "nome": "MIRISOL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5415309, 
+                "lng": -46.6306683
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3326-8301", 
+            "En_CEP": "01023", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bar\u00e3o de Duprat, 296", 
+            "En_Num": "296", 
+            "En_Nome_Logradouro": "R. Bar\u00e3o de Duprat", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artesanato"
+        ], 
+        "nome": "ARTE ASTRAL PRESENTES E ARTESANATOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5442487, 
+                "lng": -46.6326626
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "", 
+            "En_CEP": "01022-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 641 - 5\u00ba Andar - Sala 501", 
+            "En_Num": "641", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda"
+        ], 
+        "nome": "DAYANE ACESS\u00d3RIOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5437182, 
+                "lng": -46.6320252
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "dayaneacessorios@hotmail.com", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3311-7751", 
+            "En_CEP": "01023-050", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Comendador Abdo Schahin, 62 - 1\u00ba Andar - Sala 12", 
+            "En_Num": "62", 
+            "En_Nome_Logradouro": "R. Comendador Abdo Schahin", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "BELA COM\u00c9RCIO DE EMBALAGENS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5391565, 
+                "lng": -46.6288086
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "belacomercio@terra.com.br", 
+            "En_Bairro": "Luz", 
+            "telefonePublico": "(11) 3228-6301", 
+            "En_CEP": "01103-200", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Cantareira, 592", 
+            "En_Num": "592", 
+            "En_Nome_Logradouro": "R. da Cantareira", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos de \u00c9poca", 
+            "Aviamentos"
+        ], 
+        "nome": "1\u00aa ESTA\u00c7\u00c3O", 
+        "location": {
+            "coordinates": {
+                "lat": -23.544335, 
+                "lng": -46.63162699999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "primeiraestacao@uol.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3227-7588", 
+            "En_CEP": "01022-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Cavalheiro Bas\u00edlio Jafet, 96", 
+            "En_Num": "96", 
+            "En_Nome_Logradouro": "Rua Cavalheiro Bas\u00edlio Jafet", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Fantasia"
+        ], 
+        "nome": "LOJAS MILL\u00d4R", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5444593, 
+                "lng": -46.6330004
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "Vendas: Atacado e Varejo", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3326-7733", 
+            "En_CEP": "01022", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Ladeira Porto Geral, 85 - 4\u00ba Andar - Sala 103", 
+            "En_Num": "103", 
+            "En_Nome_Logradouro": "Ladeira P\u00f4rto Geral", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda"
+        ], 
+        "nome": "O\u00c1SIS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5436069, 
+                "lng": -46.6319844
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3229-5233", 
+            "En_CEP": "01023-050", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Comendador Abdo Schahin, 78 - 5\u00ba Andar - Sala 503/504", 
+            "En_Num": "78", 
+            "En_Nome_Logradouro": "R. Comendador Abdo Schahin", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos Festa"
+        ], 
+        "nome": "ANIMAFESTAS ON LINE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5842403, 
+                "lng": -46.6011601
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "contato@animafestasonline.com.br", 
+            "En_Bairro": "Ipiranga", 
+            "telefonePublico": "(11) 2367-0111", 
+            "En_CEP": "04210", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Xavier Curado, 764", 
+            "En_Num": "764", 
+            "En_Nome_Logradouro": "R. Xavier Curado", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Brindes"
+        ], 
+        "nome": "ETHI BRINDES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5431016, 
+                "lng": -46.6308397
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3326-4039", 
+            "En_CEP": "01023", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bar\u00e3o de Duprat, 126 - 7\u00ba Andar - Sala 703", 
+            "En_Num": "126", 
+            "En_Nome_Logradouro": "R. Bar\u00e3o de Duprat", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias"
+        ], 
+        "nome": "CH\u00c9RIE - BIJOUX E ACESS\u00d3RIOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "telefonePublico": "(11) 3542-1812", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Vendas OnLine para todo Brasil", 
+            "emailPublico": "atendimento@cheriebijoux.com.br", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Importados"
+        ], 
+        "nome": "ADAR TECIDOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5426436, 
+                "lng": -46.6317568
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "loja@milleniunadar.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3311-0788", 
+            "En_CEP": "01023-050", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Comendador Abdo Schahin, 180", 
+            "En_Num": "180", 
+            "En_Nome_Logradouro": "R. Comendador Abdo Schahin", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "BRAZILIAN PLAST", 
+        "location": {
+            "coordinates": {
+                "lat": -23.542811, 
+                "lng": -46.6308093
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "vendas@brazilianplast.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-2023", 
+            "En_CEP": "01024-100", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Cantareira, 145", 
+            "En_Num": "145", 
+            "En_Nome_Logradouro": "R. da Cantareira", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Decora\u00e7\u00e3o"
+        ], 
+        "nome": "ALADIM DECORA\u00c7\u00d5ES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5449556, 
+                "lng": -46.6310672
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "aladim@aladimdecor.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3229-5111", 
+            "En_CEP": "01022-050", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Parque Dom Pedro II, 392/406", 
+            "En_Num": "392", 
+            "En_Nome_Logradouro": "Parque Dom Pedro II", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "COMERCIAL HELOILSON", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5409424, 
+                "lng": -46.6322218
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3326-8277", 
+            "En_CEP": "01021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 1003 - 6\u00ba Andar - Sala 601", 
+            "En_Num": "1003", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Importados"
+        ], 
+        "nome": "ARCO \u00cdRIS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5407759, 
+                "lng": -46.6308363
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "depositoarcoiris@uol.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3227-4266", 
+            "En_CEP": "01023-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bar\u00e3o de Duprat, 377/389", 
+            "En_Num": "377", 
+            "En_Nome_Logradouro": "R. Bar\u00e3o de Duprat", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "ALBANO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5437169, 
+                "lng": -46.6307279
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "cantareira@albano.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-0491", 
+            "En_CEP": "01024", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Cantareira, 48", 
+            "En_Num": "48", 
+            "En_Nome_Logradouro": "R. da Cantareira", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas", 
+            "Fantasia"
+        ], 
+        "nome": "COMERCIAL SEMAAN", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5418509, 
+                "lng": -46.6307853
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3313-7477", 
+            "En_CEP": "01023", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bar\u00e3o de Duprat, 258", 
+            "En_Num": "258", 
+            "En_Nome_Logradouro": "R. Bar\u00e3o de Duprat", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alimentos"
+        ], 
+        "nome": "MERCADO MUNICIPAL KINJO YAMATO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5408557, 
+                "lng": -46.6298458
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Luz", 
+            "telefonePublico": "(11) 3229-7054", 
+            "En_CEP": "01103-201", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Cantareira, 377", 
+            "En_Num": "377", 
+            "En_Nome_Logradouro": "R. da Cantareira", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Fantasia"
+        ], 
+        "nome": "PL\u00c1STICOS ZEZINHO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5420659, 
+                "lng": -46.6309545
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-5796", 
+            "En_CEP": "01023-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bar\u00e3o de Duprat, 237 / 241", 
+            "En_Num": "237", 
+            "En_Nome_Logradouro": "R. Bar\u00e3o de Duprat", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias"
+        ], 
+        "nome": "GLADYS BIJOUX", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5448576, 
+                "lng": -46.6332885
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "info@gladysbijoux.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3326-7104", 
+            "En_CEP": "01022", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Ladeira Porto Geral, 52 - Sala 14", 
+            "En_Num": "52", 
+            "En_Nome_Logradouro": "Ladeira P\u00f4rto Geral", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "COMERCIAL 976", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5411814, 
+                "lng": -46.6321281
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-0782", 
+            "En_CEP": "01021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 976 - Sala 8 A", 
+            "En_Num": "976", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos", 
+            "Cama, mesa e banho", 
+            "Decora\u00e7\u00e3o"
+        ], 
+        "nome": "ARMARINHOS UNIVERSAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5428781, 
+                "lng": -46.6318683
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3315-0081", 
+            "En_CEP": "01023-050", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Comendador Abdo Schahin, 158", 
+            "En_Num": "158", 
+            "En_Nome_Logradouro": "R. Comendador Abdo Schahin", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos Festa"
+        ], 
+        "nome": "BEIJA-FLOR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5447469, 
+                "lng": -46.6314232
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3229-8081", 
+            "En_CEP": "01022-030", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jorge Azem, 18", 
+            "En_Num": "18", 
+            "En_Nome_Logradouro": "Rua Jorge Azem", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "BN COM\u00c9RCIO E REPRESENTA\u00c7\u00d5ES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5391714, 
+                "lng": -46.6304177
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3326-7997", 
+            "En_CEP": "01023-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Miguel Carlos, 11 - 5\u00ba Andar - Sala 51", 
+            "En_Num": "11", 
+            "En_Nome_Logradouro": "R. Miguel Carlos", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artesanato"
+        ], 
+        "nome": "ALIADOS DA ARTE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5442487, 
+                "lng": -46.6326626
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3229-2334", 
+            "En_CEP": "01022-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 641 - 6\u00ba Andar - Sala 605", 
+            "En_Num": "641", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos", 
+            "Brinquedos"
+        ], 
+        "nome": "ARMARINHOS FERNANDO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5404287, 
+                "lng": -46.6316219
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "sac@armarinhos-fernando.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3324-8300", 
+            "En_CEP": "01025-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Carlos de Souza Nazar\u00e9, 251/259", 
+            "En_Num": "251", 
+            "En_Nome_Logradouro": "Rua Carlos de Sousa Nazar\u00e9", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos Festa", 
+            "Aviamentos", 
+            "Cama, mesa e banho", 
+            "Decora\u00e7\u00e3o"
+        ], 
+        "nome": "ARMARINHOS UNIVERSAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5439287, 
+                "lng": -46.6324879
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3315-0999", 
+            "En_CEP": "01021-100", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 672", 
+            "En_Num": "672", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos de \u00c9poca"
+        ], 
+        "nome": "COMERCIAL RAYES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5440983, 
+                "lng": -46.63135579999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3311-6429", 
+            "En_CEP": "01022", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Cavalheiro Basilio Jafet, 133", 
+            "En_Num": "133", 
+            "En_Nome_Logradouro": "Rua Cavalheiro Bas\u00edlio Jafet", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Armarinhos", 
+            "Brinquedos"
+        ], 
+        "nome": "ARMARINHOS 2000", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5398029, 
+                "lng": -46.6316876
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-3363", 
+            "En_CEP": "01026-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Senador Queir\u00f3s, 462 - 4\u00ba Andar - Sala 42/44", 
+            "En_Num": "462", 
+            "En_Nome_Logradouro": "Av. Sen. Queir\u00f3s", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda"
+        ], 
+        "nome": "CENTRAL DAS CALCINHAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5452265, 
+                "lng": -46.6326003
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "contato@centraldascalcinhas.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3313-8708", 
+            "En_CEP": "01021-200", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 529", 
+            "En_Num": "529", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda"
+        ], 
+        "nome": "GEORGES LEGRAND", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5443594, 
+                "lng": -46.6322384
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3227-3522", 
+            "En_CEP": "01022-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Cavalheiro Basilio Jafet, 38 - 9\u00ba Andar - Sala 900", 
+            "En_Num": "38", 
+            "En_Nome_Logradouro": "Rua Cavalheiro Bas\u00edlio Jafet", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "25 DE MAR\u00c7O COMERCIO DE PAP\u00c9IS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "telefonePublico": "(11) 2684-0583", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Ladeira da Constitui\u00e7\u00e3o, 31 - Sobreloja 2", 
+            "emailPublico": "", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Brindes"
+        ], 
+        "nome": "CASA BRINDEIRO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5401363, 
+                "lng": -46.6320284
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3227-7256", 
+            "En_CEP": "01021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 1094 - 2\u00ba Andar - Sala 23", 
+            "En_Num": "1094", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Importados"
+        ], 
+        "nome": "AE BIJOUX", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5444301, 
+                "lng": -46.6333913
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3227-7722", 
+            "En_CEP": "01022", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Ladeira Porto Geral, 75", 
+            "En_Num": "75", 
+            "En_Nome_Logradouro": "Ladeira P\u00f4rto Geral", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos Festa"
+        ], 
+        "nome": "BADULAKE ARTIGOS PARA FESTAS", 
+        "location": {
+            "coordinates": {
+                "lat": -22.9549773, 
+                "lng": -46.5397677
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "contato@badulakefestas.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 2277-3503", 
+            "En_CEP": "12900", 
+            "En_Municipio": "Bragan\u00e7a Paulista", 
+            "endereco": "Av. Antonio Pires Pimentel, 724 - Loja", 
+            "En_Num": "724", 
+            "En_Nome_Logradouro": "Av. Antonio Pires Pimentel", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "ART\u00b4MODA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5391679, 
+                "lng": -46.6304308
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-5496", 
+            "En_CEP": "01023-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Miguel Carlos, 7", 
+            "En_Num": "7", 
+            "En_Nome_Logradouro": "R. Miguel Carlos", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos de \u00c9poca"
+        ], 
+        "nome": "COLORADO ARMARINHOS E ENFEITES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5411814, 
+                "lng": -46.6321281
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3229-1384", 
+            "En_CEP": "01021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 976 - Sala 8 B", 
+            "En_Num": "976", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Importados"
+        ], 
+        "nome": "ABC", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5454606, 
+                "lng": -46.63227570000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3315-8552", 
+            "En_CEP": "01021-200", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 493", 
+            "En_Num": "493", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos de \u00c9poca", 
+            "Fantasia"
+        ], 
+        "nome": "BRILHO\u00b4S", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5443482, 
+                "lng": -46.6327776
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "vendas@lojasbrilho.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3229-2261", 
+            "En_CEP": "01022-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Ladeira Porto Geral, 121/ 127", 
+            "En_Num": "127", 
+            "En_Nome_Logradouro": "Ladeira P\u00f4rto Geral", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cama, mesa e banho"
+        ], 
+        "nome": "BENAVIDES & BENAVIDES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5409168, 
+                "lng": -46.6284928
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-2692", 
+            "En_CEP": "01026-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Merc\u00fario, 500/510", 
+            "En_Num": "510", 
+            "En_Nome_Logradouro": "Av. Merc\u00fario", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Brindes"
+        ], 
+        "nome": "E.M. VIANA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5411814, 
+                "lng": -46.6321281
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-5450", 
+            "En_CEP": "01021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 976 - Sala 9 A", 
+            "En_Num": "976", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos de \u00c9poca"
+        ], 
+        "nome": "CASTROPIL EMBALAGENS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.54395, 
+                "lng": -46.6308687
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "castropil@castropil.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3315-2200", 
+            "En_CEP": "01024", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Cantareira, 22", 
+            "En_Num": "22", 
+            "En_Nome_Logradouro": "R. da Cantareira", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Armarinhos", 
+            "Aviamentos"
+        ], 
+        "nome": "AD\u00c9LIA ARMARINHOS E AVIAMENTOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5448576, 
+                "lng": -46.6332885
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3227-4057", 
+            "En_CEP": "01022", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Ladeira Porto Geral, 52 - 4\u00ba Andar - Sala 42", 
+            "En_Num": "52", 
+            "En_Nome_Logradouro": "Ladeira P\u00f4rto Geral", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias"
+        ], 
+        "nome": "BELA BIJU", 
+        "location": {
+            "coordinates": {
+                "lat": -23.544847, 
+                "lng": -46.6330897
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "contato@belabiju.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 5062-4678", 
+            "En_CEP": "01022", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Ladeira Porto Geral, 73 - 7\u00ba andar", 
+            "En_Num": "73", 
+            "En_Nome_Logradouro": "Ladeira P\u00f4rto Geral", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cama, mesa e banho"
+        ], 
+        "nome": "ANSARAH CAMA, MESA E BANHO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5451269, 
+                "lng": -46.6325814
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "ansarah@terra.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-5611", 
+            "En_CEP": "01021-200", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 533/537/543", 
+            "En_Num": "533", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos de \u00c9poca"
+        ], 
+        "nome": "COMERCIAL RIZZO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5430289, 
+                "lng": -46.6306933
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "rizzo.ltda@uol.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-2145", 
+            "En_CEP": "01024-100", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Cantareira, 123/127", 
+            "En_Num": "123", 
+            "En_Nome_Logradouro": "R. da Cantareira", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Armarinhos"
+        ], 
+        "nome": "ARMARINHO JORGE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5402156, 
+                "lng": -46.63037809999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-4462", 
+            "En_CEP": "01025", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Carlos de Souza Nazar\u00e9, 391", 
+            "En_Num": "391", 
+            "En_Nome_Logradouro": "Rua Carlos de Sousa Nazar\u00e9", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cama, mesa e banho"
+        ], 
+        "nome": "CIA. TEXTIL NIAZI CHOHFI", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5444903, 
+                "lng": -46.632613
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "niazi@niazi.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3322-6886", 
+            "En_CEP": "01021-200", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 607/702", 
+            "En_Num": "607", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Importados"
+        ], 
+        "nome": "APG REPRESENTA\u00c7\u00d5ES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5399252, 
+                "lng": -46.6322842
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3229-4845", 
+            "En_CEP": "01021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de Mar\u00e7o, 1113 - 4\u00ba Andar - Sala 413", 
+            "En_Num": "1113", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos Festa"
+        ], 
+        "nome": "FESTASHOP", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "telefonePublico": "(14) 3236-1921", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Vendas pela Internet", 
+            "emailPublico": "festashop@festashop.com.br", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Brinquedos"
+        ], 
+        "nome": "ARMARINHOS SANTANA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5405525, 
+                "lng": -46.6315444
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-8150", 
+            "En_CEP": "01025-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Carlos de Sousa Nazar\u00e9, 264", 
+            "En_Num": "264", 
+            "En_Nome_Logradouro": "Rua Carlos de Sousa Nazar\u00e9", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Brindes"
+        ], 
+        "nome": "FORTPEN IMPORTS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.53756, 
+                "lng": -46.6282773
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "fortpen@fortpen.com.br", 
+            "En_Bairro": "Luz", 
+            "telefonePublico": "(11) 3228-0163", 
+            "En_CEP": "01103-201", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Cantareira, 777 - 8 andar - Conj. 81/82", 
+            "En_Num": "777", 
+            "En_Nome_Logradouro": "R. da Cantareira", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "BETO ATACADO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5443209, 
+                "lng": -46.6328429
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3313-8670", 
+            "En_CEP": "01022", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Ladeira Porto Geral, 123 - 2\u00ba Andar - Sala 25", 
+            "En_Num": "123", 
+            "En_Nome_Logradouro": "Ladeira P\u00f4rto Geral", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "AREV COMERCIAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5444952, 
+                "lng": -46.63076110000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3227-7524", 
+            "En_CEP": "01022", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Cavalheiro Basilio Jafet, 202", 
+            "En_Num": "202", 
+            "En_Nome_Logradouro": "Rua Cavalheiro Bas\u00edlio Jafet", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos de \u00c9poca"
+        ], 
+        "nome": "COMERCIAL BRASIL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5425469, 
+                "lng": -46.6322135
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "vendas@comercialbrasil.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3313-0444", 
+            "En_CEP": "01021-100", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de Mar\u00e7o, 820", 
+            "En_Num": "820", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Decora\u00e7\u00e3o"
+        ], 
+        "nome": "ARMARINHOS SEVILHA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5381523, 
+                "lng": -46.631926
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3326-1979", 
+            "En_CEP": "01027-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Paula Souza, 118", 
+            "En_Num": "118", 
+            "En_Nome_Logradouro": "R. Paula Sousa", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos Festa"
+        ], 
+        "nome": "MZ DECORA\u00c7\u00d5ES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5449507, 
+                "lng": -46.6342569
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "contato@mzdecoracoes.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3528-7460", 
+            "En_CEP": "01011-100", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua S\u00e3o Bento, 500 - 7\u00b0 Andar - Sala 500", 
+            "En_Num": "500", 
+            "En_Nome_Logradouro": "R. S\u00e3o Bento", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Fantasia"
+        ], 
+        "nome": "FESTAS E FANTASIAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5449024, 
+                "lng": -46.633516
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3116-9227", 
+            "En_CEP": "01022", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Ladeira Porto Geral, 35 / 55", 
+            "En_Num": "35", 
+            "En_Nome_Logradouro": "Ladeira P\u00f4rto Geral", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias"
+        ], 
+        "nome": "4 ESTA\u00c7\u00d5ES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5417959, 
+                "lng": -46.6322754
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "comercialquatroestacoes@comercialquatroestacoes.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3328-8800", 
+            "En_CEP": "01021-200", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 905/907", 
+            "En_Num": "905", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artesanato"
+        ], 
+        "nome": "ARCO-\u00cdRIS ARTESANATOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5442487, 
+                "lng": -46.6326626
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3326-0593", 
+            "En_CEP": "01022-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 641 - 7\u00ba Andar - Sala 709", 
+            "En_Num": "641", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Decora\u00e7\u00e3o"
+        ], 
+        "nome": "ATACADO MANIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5386857, 
+                "lng": -46.6321476
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-6781", 
+            "En_CEP": "01021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 1255/1261", 
+            "En_Num": "1255", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alimentos"
+        ], 
+        "nome": "CASA DO NORTE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5471889, 
+                "lng": -46.6306912
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3101-1909", 
+            "En_CEP": "01022", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Parque Dom Pedro II, 784", 
+            "En_Num": "784", 
+            "En_Nome_Logradouro": "Parque Dom Pedro II", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alimentos"
+        ], 
+        "nome": "CENTRAL DO SABOR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5384766, 
+                "lng": -46.6312243
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3229-7800", 
+            "En_CEP": "01027-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Paula Souza, 190", 
+            "En_Num": "190", 
+            "En_Nome_Logradouro": "R. Paula Sousa", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos de \u00c9poca"
+        ], 
+        "nome": "CARNIVAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5441491, 
+                "lng": -46.6333814
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "carnival@sti.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3313-2212", 
+            "En_CEP": "01022-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Varnhagem, 68", 
+            "En_Num": "68", 
+            "En_Nome_Logradouro": "Rua Varnhagen", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Brinquedos"
+        ], 
+        "nome": "ARMARINHOS TERESINHO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5406289, 
+                "lng": -46.6331651
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "armarinhosteresinho@ig.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-2067", 
+            "En_CEP": "01025-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Carlos de Sousa Nazar\u00e9, 117", 
+            "En_Num": "117", 
+            "En_Nome_Logradouro": "Rua Carlos de Sousa Nazar\u00e9", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "CARTEL EMBALAGENS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5391086, 
+                "lng": -46.6287919
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "cartelembalagens@terra.com.br", 
+            "En_Bairro": "Luz", 
+            "telefonePublico": "(11) 3311-9025", 
+            "En_CEP": "01103-200", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Cantareira, 596", 
+            "En_Num": "596", 
+            "En_Nome_Logradouro": "R. da Cantareira", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos"
+        ], 
+        "nome": "ALL STORE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5422975, 
+                "lng": -46.6317487
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "puppetstore@puppetstore.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3229-6799", 
+            "En_CEP": "01023-050", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Comendador Abdo Schahin, 224", 
+            "En_Num": "224", 
+            "En_Nome_Logradouro": "R. Comendador Abdo Schahin", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cama, mesa e banho"
+        ], 
+        "nome": "ALO NENE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5468819, 
+                "lng": -46.6312694
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "alo.alo.nene@gmail.com", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3227-8310", 
+            "En_CEP": "01021-100", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 316", 
+            "En_Num": "316", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Brinquedos"
+        ], 
+        "nome": "BARRAC\u00c3O", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5470893, 
+                "lng": -46.6330351
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3105-8203", 
+            "En_CEP": "01095-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua General Carneiro, 145/151", 
+            "En_Num": "145", 
+            "En_Nome_Logradouro": "Rua General Carneiro", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cama, mesa e banho"
+        ], 
+        "nome": "CASA DO ELEFANTE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5444988, 
+                "lng": -46.63242779999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "Vendas: Atacado e Varejo", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3227-7688", 
+            "En_CEP": "01021-100", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 600", 
+            "En_Num": "600", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "BIBON", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5446715, 
+                "lng": -46.6323178
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "", 
+            "En_CEP": "01021-100", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 580 - 12\u00ba Andar - Sala 123", 
+            "En_Num": "580", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias"
+        ], 
+        "nome": "GLADYS RELIGIOSOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5445033, 
+                "lng": -46.6328272
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "vendas@gladysreligiosos.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3312-0325", 
+            "En_CEP": "01022", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Ladeira Porto Geral, 106 - 6\u00b0 Andar - Sala 605/607", 
+            "En_Num": "106", 
+            "En_Nome_Logradouro": "Ladeira P\u00f4rto Geral", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Brindes"
+        ], 
+        "nome": "TURQUESA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5397452, 
+                "lng": -46.6303999
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-9919", 
+            "En_CEP": "01026", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Senador Queir\u00f3s, 595", 
+            "En_Num": "595", 
+            "En_Nome_Logradouro": "Av. Sen. Queir\u00f3s", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda"
+        ], 
+        "nome": "CASA DAS GRAVATAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5436069, 
+                "lng": -46.6319844
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3326-4497", 
+            "En_CEP": "01023-050", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Comendador Abdo Schahin, 78 - 6 andar - Sala 608", 
+            "En_Num": "78", 
+            "En_Nome_Logradouro": "R. Comendador Abdo Schahin", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias"
+        ], 
+        "nome": "BIJU TOTAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5434296, 
+                "lng": -46.6330708
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "vendas@bijutotal.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3229-3333", 
+            "En_CEP": "01030-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Ladeira da Constitui\u00e7\u00e3o, 38", 
+            "En_Num": "38", 
+            "En_Nome_Logradouro": "Rua Constitui\u00e7\u00e3o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artesanato"
+        ], 
+        "nome": "AGATHA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5444301, 
+                "lng": -46.6333913
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3326-7526", 
+            "En_CEP": "01022", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Ladeira Porto Geral, 79", 
+            "En_Num": "79", 
+            "En_Nome_Logradouro": "Ladeira P\u00f4rto Geral", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "CARLA BOLSAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5398029, 
+                "lng": -46.6316876
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3326-7252", 
+            "En_CEP": "01026-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Senador Queir\u00f3s, 462 - 8\u00ba Andar - Sala 86", 
+            "En_Num": "462", 
+            "En_Nome_Logradouro": "Av. Sen. Queir\u00f3s", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Fantasia"
+        ], 
+        "nome": "LAUAND", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5406691, 
+                "lng": -46.6320329
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3227-4289", 
+            "En_CEP": "01021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 1034", 
+            "En_Num": "1034", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alimentos"
+        ], 
+        "nome": "CASA DE CARNES PARISIENSE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5467949, 
+                "lng": -46.6309474
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3101-9011", 
+            "En_CEP": "01022", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Parque Dom Pedro II, 740", 
+            "En_Num": "740", 
+            "En_Nome_Logradouro": "Parque Dom Pedro II", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda"
+        ], 
+        "nome": "TOMBOY", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5412425, 
+                "lng": -46.63202769999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "tomboy@tomboy.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3313-8558", 
+            "En_CEP": "01021-100", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 972", 
+            "En_Num": "972", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Importados"
+        ], 
+        "nome": "A ROSA DE SHARON", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5474487, 
+                "lng": -46.6333265
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3104-8959", 
+            "En_CEP": "01015", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua General Carneiro, 119/121", 
+            "En_Num": "119", 
+            "En_Nome_Logradouro": "Rua General Carneiro", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artesanato"
+        ], 
+        "nome": "ATACAD\u00c3O DO E.V.A.", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5440682, 
+                "lng": -46.63138800000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3227-6290", 
+            "En_CEP": "01022", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Cavalheiro Basilio Jafet, 127 - 3\u00ba Andar - Sala 35", 
+            "En_Num": "127", 
+            "En_Nome_Logradouro": "Rua Cavalheiro Bas\u00edlio Jafet", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artesanato"
+        ], 
+        "nome": "A TOCA DO COELHO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5440682, 
+                "lng": -46.63138800000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3326-5157", 
+            "En_CEP": "01022", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Cavalheiro Basilio Jafet, 127 - 2\u00ba Andar - Sala 27", 
+            "En_Num": "127", 
+            "En_Nome_Logradouro": "Rua Cavalheiro Bas\u00edlio Jafet", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Armarinhos"
+        ], 
+        "nome": "ARMARINHOS DEMETRIUS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5443594, 
+                "lng": -46.6322384
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "demetriosartesanato@uol.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3229-9201", 
+            "En_CEP": "01022-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Cavalheiro Bas\u00edlio Jafet, 38 - 2\u00ba Andar - Sala 201", 
+            "En_Num": "38", 
+            "En_Nome_Logradouro": "Rua Cavalheiro Bas\u00edlio Jafet", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Brindes"
+        ], 
+        "nome": "JCA GRAVA\u00c7\u00d5ES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5370784, 
+                "lng": -46.6344307
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "jcagravacoes@terra.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3227-5073", 
+            "En_CEP": "01032-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Brigadeiro Tobias, 669 - Loja 28", 
+            "En_Num": "669", 
+            "En_Nome_Logradouro": "R. Brg. Tobias", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alimentos"
+        ], 
+        "nome": "CASA DE CARNES IPANEMA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5416699, 
+                "lng": -46.6300416
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Luz", 
+            "telefonePublico": "(11) 3228-5066", 
+            "En_CEP": "01103-201", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Cantareira, 287", 
+            "En_Num": "287", 
+            "En_Nome_Logradouro": "R. da Cantareira", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Importados"
+        ], 
+        "nome": "A.S.G. BRITO VARIEDADES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5401363, 
+                "lng": -46.6320284
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "asgbrito@ig.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3313-5456", 
+            "En_CEP": "01021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de Mar\u00e7o, 1094 - 1\u00ba Andar - Sala 14", 
+            "En_Num": "1094", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Armarinhos", 
+            "Aviamentos", 
+            "Brinquedos"
+        ], 
+        "nome": "ARMARINHOS FERNANDO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5426253, 
+                "lng": -46.6322264
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "sac@armarinhos-fernando.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3325-0400", 
+            "En_CEP": "01021-100", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 816/864/872", 
+            "En_Num": "816", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos Festa"
+        ], 
+        "nome": "FESTACHIC", 
+        "location": {
+            "coordinates": {
+                "lat": -23.500124, 
+                "lng": -46.6325488
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "festachic@festachic.com.br", 
+            "En_Bairro": "Santana", 
+            "telefonePublico": "(11) 2977-6255", 
+            "En_CEP": "02017", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Alfredo Pujol, 680", 
+            "En_Num": "680", 
+            "En_Nome_Logradouro": "R. Alfredo Pujol", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artesanato"
+        ], 
+        "nome": "ANG\u00c9LICA ARTESANATO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5442487, 
+                "lng": -46.6326626
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3326-4390", 
+            "En_CEP": "01022-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 641 - 2\u00ba Andar - Sala 207", 
+            "En_Num": "641", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "DB ACESS\u00d3RIOS CRIATIVOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.538884, 
+                "lng": -46.6318256
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "dbacessorioscriativos@gmail.com", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3315-9429", 
+            "En_CEP": "01027", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Vinte e Cinco de Mar\u00e7o, 1220", 
+            "En_Num": "1220", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alimentos"
+        ], 
+        "nome": "CASA DO NORTE PADRE C\u00cdCERO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5480827, 
+                "lng": -46.630076
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 8238-8380", 
+            "En_CEP": "01015-070", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Parque Dom Pedro II, 900", 
+            "En_Num": "900", 
+            "En_Nome_Logradouro": "Parque Dom Pedro II", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Armarinhos", 
+            "Aviamentos", 
+            "Brinquedos"
+        ], 
+        "nome": "ARMARINHOS FERNANDO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5440472, 
+                "lng": -46.6325162
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "sac@armarinhos-fernando.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 2818-8200", 
+            "En_CEP": "01021-100", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 658/662/734", 
+            "En_Num": "658", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Brindes"
+        ], 
+        "nome": "CANETAS MANIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5417467, 
+                "lng": -46.6303395
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "canetasmanias@uol.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3311-6671", 
+            "En_CEP": "01023-040", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Comendador Afonso Kherlakian, 189", 
+            "En_Num": "189", 
+            "En_Nome_Logradouro": "R. Comendador Afonso Kherlakian", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cama, mesa e banho"
+        ], 
+        "nome": "CIA. TEXTIL NIAZI CHOHFI", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5425687, 
+                "lng": -46.6305817
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "niazi@niazi.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3322-6565", 
+            "En_CEP": "01024-100", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Cantareira, 173", 
+            "En_Num": "173", 
+            "En_Nome_Logradouro": "R. da Cantareira", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Importados"
+        ], 
+        "nome": "25 HORAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.544744, 
+                "lng": -46.632496
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "lien25@linkbr.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3311-6933", 
+            "En_CEP": "01021000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 575 - 7\u00ba Andar", 
+            "En_Num": "575", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos Festa"
+        ], 
+        "nome": "BAZAR SANTELI", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5443547, 
+                "lng": -46.6333296
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "danisanteli@terra.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3227-5960", 
+            "En_CEP": "01022-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Varnhagem, 33", 
+            "En_Num": "33", 
+            "En_Nome_Logradouro": "Rua Varnhagen", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos Festa"
+        ], 
+        "nome": "ARTEM\u00c3OS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5442487, 
+                "lng": -46.6326626
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "artemaos.25demarco@gmail.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3227-9186", 
+            "En_CEP": "01022-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de Mar\u00e7o, 641 - 10\u00b0 Andar - Sala 1002", 
+            "En_Num": "641", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "BOLSAS BRASIL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5477959, 
+                "lng": -46.6335957
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3242-7242", 
+            "En_CEP": "01015-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua General Carneiro, 27", 
+            "En_Num": "27", 
+            "En_Nome_Logradouro": "Rua General Carneiro", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos de \u00c9poca", 
+            "Bijuterias"
+        ], 
+        "nome": "AFIFE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5403699, 
+                "lng": -46.6311966
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "info@afifecomercio.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3313-4500", 
+            "En_CEP": "01025-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Carlos de Sousa Nazar\u00e9, 307", 
+            "En_Num": "307", 
+            "En_Nome_Logradouro": "Rua Carlos de Sousa Nazar\u00e9", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artesanato", 
+            "Decora\u00e7\u00e3o"
+        ], 
+        "nome": "ARMAZ\u00c9M DAS CESTAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5383405, 
+                "lng": -46.6304708
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-2133", 
+            "En_CEP": "01027", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Paula Souza, 259", 
+            "En_Num": "259", 
+            "En_Nome_Logradouro": "R. Paula Sousa", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Brindes"
+        ], 
+        "nome": "WORK MANIA - MANANCIAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5398029, 
+                "lng": -46.6316876
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "work-mania@hotmail.com", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3313-6644", 
+            "En_CEP": "01026-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Senador Queir\u00f3s, 462 - 3\u00ba Andar - Sala 36", 
+            "En_Num": "462", 
+            "En_Nome_Logradouro": "Av. Sen. Queir\u00f3s", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cama, mesa e banho"
+        ], 
+        "nome": "CASA & CIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5455679, 
+                "lng": -46.6320738
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "casaecia@doural.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3329-9796", 
+            "En_CEP": "01021-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 477", 
+            "En_Num": "477", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Armarinhos"
+        ], 
+        "nome": "ARMARINHOS E CONFEC\u00c7\u00d5ES NEUZOKA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5398503, 
+                "lng": -46.63192249999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-4873", 
+            "En_CEP": "01026", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Senador Queir\u00f3s, 456 - 2\u00ba Andar - Sala 24", 
+            "En_Num": "456", 
+            "En_Nome_Logradouro": "Av. Sen. Queir\u00f3s", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "BETO EMBALAGENS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5443209, 
+                "lng": -46.6328429
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3229-3358", 
+            "En_CEP": "01022", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Ladeira Porto Geral, 123 - 3\u00ba Andar - Sala 31/ 32/ 33", 
+            "En_Num": "123", 
+            "En_Nome_Logradouro": "Ladeira P\u00f4rto Geral", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "AMERICANPLAST", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5438328, 
+                "lng": -46.6303193
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3229-5886", 
+            "En_CEP": "01022-050", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Parque Dom Pedro II, 170", 
+            "En_Num": "170", 
+            "En_Nome_Logradouro": "Parque Dom Pedro II", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Armarinhos"
+        ], 
+        "nome": "ARMARINHO ARANHA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5410633, 
+                "lng": -46.632045
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3227-2742", 
+            "En_CEP": "01021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 990 - 2\u00ba Andar - Sala 24/25/26", 
+            "En_Num": "990", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos de \u00c9poca", 
+            "Aviamentos", 
+            "Brinquedos"
+        ], 
+        "nome": "ARMARINHOS VAZ MARTINS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5429701, 
+                "lng": -46.6322577
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "vazmartins@uol.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-1537", 
+            "En_CEP": "01021-100", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de Mar\u00e7o, 774/990", 
+            "En_Num": "774", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Armarinhos"
+        ], 
+        "nome": "ALFREDINHO ARMARINHOS E BIJOUTERIAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5398029, 
+                "lng": -46.6316876
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3326-3713", 
+            "En_CEP": "01026-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Senador Queir\u00f3s - 462 - 1\u00ba Andar - Sala 16/18", 
+            "En_Num": "462", 
+            "En_Nome_Logradouro": "Av. Sen. Queir\u00f3s", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Fantasia"
+        ], 
+        "nome": "CASA COSTA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5440704, 
+                "lng": -46.6327023
+            }
+        }, 
+        "metadata": {
+            "regiao": "25 de Mar\u00e7o", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3326-8548", 
+            "En_CEP": "01021-200", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua 25 de mar\u00e7o, 649 / 653", 
+            "En_Num": "653", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }
+]

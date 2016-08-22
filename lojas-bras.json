@@ -1,0 +1,5968 @@
+[
+    {
+        "segmentos": [
+            "Artigos para lojas", 
+            "Expositores, manequins"
+        ], 
+        "nome": "CASA DAS ARARAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5392648, 
+                "lng": -46.6153954
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "casadasararas@casadasararas.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2618-1672", 
+            "En_CEP": "03013", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Casemiro de Abreu, 77", 
+            "En_Num": "77", 
+            "En_Nome_Logradouro": "R. Casemiro de Abreu", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "AVACY DISTRIBUIDORA DE CAL\u00c7ADOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5435357, 
+                "lng": -46.6133803
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-0222", 
+            "En_CEP": "03050-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Gomes Cardim, 235", 
+            "En_Num": "235", 
+            "En_Nome_Logradouro": "R. Gomes Cardim", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Papelaria"
+        ], 
+        "nome": "CENTRAL PARK\u00b4S", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5415658, 
+                "lng": -46.612042
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-7846", 
+            "En_CEP": "03051-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Hip\u00f3dromo, 129", 
+            "En_Num": "129", 
+            "En_Nome_Logradouro": "Rua Hip\u00f3dromo", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Jeans"
+        ], 
+        "nome": "BIG MAN ROUPAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5401255, 
+                "lng": -46.6149515
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2291-5158", 
+            "En_CEP": "03027", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Xavantes, 28", 
+            "En_Num": "28", 
+            "En_Nome_Logradouro": "R. Xavantes", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Sacaria"
+        ], 
+        "nome": "CEC\u00cdLIA ENXOVAIS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5446328, 
+                "lng": -46.60689379999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-7533", 
+            "En_CEP": "03053-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua In\u00e1cio de Ara\u00fajo, 221", 
+            "En_Num": "221", 
+            "En_Nome_Logradouro": "R. In\u00e1cio de Ara\u00fajo", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Madeiras"
+        ], 
+        "nome": "CASA DO COMPENSADO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.544357, 
+                "lng": -46.6243015
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3229-1300", 
+            "En_CEP": "03004-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua do Gas\u00f4metro, 197", 
+            "En_Num": "197", 
+            "En_Nome_Logradouro": "Rua do Gas\u00f4metro", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alimentos"
+        ], 
+        "nome": "AM\u00c9RICA DISTRIBUIDORA DE ALIMENTOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5413523, 
+                "lng": -46.6250723
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3229-1577", 
+            "En_CEP": "03006-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Beijamim de Oliveira, 190/ 194/ 204", 
+            "En_Num": "194", 
+            "En_Nome_Logradouro": "Rua Benjamim de Oliveira", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Enxoval"
+        ], 
+        "nome": "BEB\u00ca MAGAZINE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5393901, 
+                "lng": -46.61605280000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2694-0599", 
+            "En_CEP": "03011-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Marcolina , 299", 
+            "En_Num": "299", 
+            "En_Nome_Logradouro": "R. Maria Marcolina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Tecidos e Retalhos"
+        ], 
+        "nome": "ALBERTO TECIDOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5374476, 
+                "lng": -46.6124308
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2694-3433", 
+            "En_CEP": "03025", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Almirante Barroso, 204", 
+            "En_Num": "204", 
+            "En_Nome_Logradouro": "R. Alm. Barroso", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Masculina"
+        ], 
+        "nome": "BIFO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5325946, 
+                "lng": -46.614553
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2695-1938", 
+            "En_CEP": "03027-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mendes Gon\u00e7alves, 250", 
+            "En_Num": "250", 
+            "En_Nome_Logradouro": "R. Mendes Gon\u00e7alves", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Enxoval"
+        ], 
+        "nome": "ARTES E CONF.", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5324059, 
+                "lng": -46.6141442
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-9133", 
+            "En_CEP": "03017", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bresser, 28", 
+            "En_Num": "28", 
+            "En_Nome_Logradouro": "R. Bresser", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Praia"
+        ], 
+        "nome": "AIMAN CONFEC\u00c7\u00d5ES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5384296, 
+                "lng": -46.61544500000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3264-4612", 
+            "En_CEP": "03013", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Casemiro de Abreu, 159", 
+            "En_Num": "159", 
+            "En_Nome_Logradouro": "R. Casemiro de Abreu", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Infantil"
+        ], 
+        "nome": "ANDERSON ATACADO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5327118, 
+                "lng": -46.61453789999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Pari", 
+            "telefonePublico": "(11) 2618-4890", 
+            "En_CEP": "03027-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mendes Gon\u00e7alves, 243/ 285/ 295/ 305", 
+            "En_Num": "243", 
+            "En_Nome_Logradouro": "R. Mendes Gon\u00e7alves", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alimentos"
+        ], 
+        "nome": "BELOBR\u00c1S DISTRIBUIDORA DE PRODUTOS E ALIMENTOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5444562, 
+                "lng": -46.6155622
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-6918", 
+            "En_CEP": "03046-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Dr. Almeida Lima, 199", 
+            "En_Num": "199", 
+            "En_Nome_Logradouro": "R. Dr. Almeida Lima", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "BETH CAL\u00c7ADOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5426361, 
+                "lng": -46.613949
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-7926", 
+            "En_CEP": "03050-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Cavalheiro, 245", 
+            "En_Num": "245", 
+            "En_Nome_Logradouro": "R. Cavalheiro", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Noivas"
+        ], 
+        "nome": "CHANELL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5366261, 
+                "lng": -46.6153252
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2291-8557", 
+            "En_CEP": "03013", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Casemiro de Abreu, 362", 
+            "En_Num": "362", 
+            "En_Nome_Logradouro": "R. Casemiro de Abreu", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "B & B BOLSAS E BRINQUEDOS", 
+        "location": {
+            "coordinates": {
+                "lat": -22.9404539, 
+                "lng": -45.45248609999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "En_Nome_Logradouro": "Rua Jo\u00e3o Thiers Fernandes Lobo", 
+            "telefonePublico": "(11) 3229-5232", 
+            "En_CEP": "12410", 
+            "endereco": "Rua Tiers, 645 - Centro Comercial", 
+            "emailPublico": "beb@bebcomercio.com.br", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alimentos"
+        ], 
+        "nome": "AGRO FOOD", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5421873, 
+                "lng": -46.6241327
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "En_Nome_Logradouro": "R. da Alf\u00e2ndega", 
+            "telefonePublico": "(11) 3311-9970", 
+            "En_CEP": "03006-030", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Alf\u00e2ndega, 3345", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Praia"
+        ], 
+        "nome": "L\u00cdQUIDO II", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5359861, 
+                "lng": -46.6188744
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "biquine@biquine.com", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2886-6379", 
+            "En_CEP": "03010-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bar\u00e3o de Lad\u00e1rio, 566/670 - Loja 185 - 1\u00ba andar", 
+            "En_Num": "566", 
+            "En_Nome_Logradouro": "R. Bar\u00e3o de Lad\u00e1rio", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "BOREAL CAL\u00c7ADOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5418402, 
+                "lng": -46.6142645
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2694-4192", 
+            "En_CEP": "03002", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Rangel Pestana, 2.200", 
+            "En_Num": "2200", 
+            "En_Nome_Logradouro": "Av. Rangel Pestana", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Enxoval"
+        ], 
+        "nome": "AZUL E ROSA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5313383, 
+                "lng": -46.6149534
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-6615", 
+            "En_CEP": "03027-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Dr. Virg\u00edlio do Nascimento, 65", 
+            "En_Num": "65", 
+            "En_Nome_Logradouro": "R. Dr. Virg\u00edlio do Nascimento", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Tecidos e Retalhos"
+        ], 
+        "nome": "AELITEX", 
+        "location": {
+            "coordinates": {
+                "lat": -23.537092, 
+                "lng": -46.6112309
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2694-6594", 
+            "En_CEP": "03013-040", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Sampson, 209", 
+            "En_Num": "209", 
+            "En_Nome_Logradouro": "R. Sampson", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Jovem"
+        ], 
+        "nome": "AMUAGE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5368489, 
+                "lng": -46.6133827
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "amuage@amuage.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2692-7107", 
+            "En_CEP": "03016-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Joaquina, 102", 
+            "En_Num": "102", 
+            "En_Nome_Logradouro": "R. Maria Joaquina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos para lojas", 
+            "Expositores, manequins"
+        ], 
+        "nome": "CENTRAL EXPOSITORES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5381648, 
+                "lng": -46.6210735
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "centralexpositores@superig.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3326-6130", 
+            "En_CEP": "03016", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Oriente, 108", 
+            "En_Num": "108", 
+            "En_Nome_Logradouro": "R. Oriente", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cama, mesa e banho"
+        ], 
+        "nome": "CASA COR ENXOVAIS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5406251, 
+                "lng": -46.6180549
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2618-1999", 
+            "En_CEP": "03012", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Conselheiro Belis\u00e1rio, 20", 
+            "En_Num": "20", 
+            "En_Nome_Logradouro": "R. Conselheiro Belis\u00e1rio", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Jeans"
+        ], 
+        "nome": "BIG SEVEN", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5366658, 
+                "lng": -46.6201926
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2081-2197", 
+            "En_CEP": "03009-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Henrique Dias, 210", 
+            "En_Num": "210", 
+            "En_Nome_Logradouro": "R. Henrique Dias", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Feminina", 
+            "Moda Infantil", 
+            "Moda Jovem"
+        ], 
+        "nome": "AD\u00caR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.537947, 
+                "lng": -46.6212784
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3227-4923", 
+            "En_CEP": "03016", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Oriente, 89/ 91", 
+            "En_Num": "91", 
+            "En_Nome_Logradouro": "R. Oriente", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda \u00cdntima"
+        ], 
+        "nome": "BR\u00c1S MODAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5377541, 
+                "lng": -46.6189093
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "dmadeiro@gmail.com", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2618-5068", 
+            "En_CEP": "03016-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Oriente, 339 / 441", 
+            "En_Num": "339", 
+            "En_Nome_Logradouro": "R. Oriente", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Enxoval"
+        ], 
+        "nome": "BAGUGUINHA MODAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5373024, 
+                "lng": -46.6226872
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3227-1519", 
+            "En_CEP": "03008-100", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Monsenhor Andrade, 937", 
+            "En_Num": "937", 
+            "En_Nome_Logradouro": "R. Monsenhor Andrade", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos para lojas", 
+            "Expositores, manequins"
+        ], 
+        "nome": "CABIDE & CIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5379936, 
+                "lng": -46.6195015
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3326-0393", 
+            "En_CEP": "03016", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Oriente, 276/280", 
+            "En_Num": "276", 
+            "En_Nome_Logradouro": "R. Oriente", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Sacaria"
+        ], 
+        "nome": "BRASPANO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5396382, 
+                "lng": -46.6080859
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-1678", 
+            "En_CEP": "03053", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bresser, 1088", 
+            "En_Num": "1088", 
+            "En_Nome_Logradouro": "R. Bresser", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Masculina"
+        ], 
+        "nome": "BIS BOARD", 
+        "location": {
+            "coordinates": {
+                "lat": -23.535552, 
+                "lng": -46.6142248
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2291-7016", 
+            "En_CEP": "03013-011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mendes Junior, 362/366", 
+            "En_Num": "362", 
+            "En_Nome_Logradouro": "R. Mendes J\u00fanior", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Jeans", 
+            "Moda Masculina"
+        ], 
+        "nome": "BIVIK JEANS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5403407, 
+                "lng": -46.61888099999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "bivik@bivik.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2291-7303", 
+            "En_CEP": "03010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bar\u00e3o de Lad\u00e1rio, 159", 
+            "En_Num": "159", 
+            "En_Nome_Logradouro": "R. Bar\u00e3o de Lad\u00e1rio", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "CAL\u00c7ADOS GOMES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5423699, 
+                "lng": -46.6132588
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2695-7845", 
+            "En_CEP": "03050-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Cavalheiro, 320", 
+            "En_Num": "320", 
+            "En_Nome_Logradouro": "R. Cavalheiro", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Papelaria"
+        ], 
+        "nome": "MULTI-COMERCIO PAPELARIA EMBALAGEM LTDA.", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5384745, 
+                "lng": -46.61654859999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2081-5930", 
+            "En_CEP": "03011-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Abreu Junior, 17", 
+            "En_Num": "17", 
+            "En_Nome_Logradouro": "Tv. Abreu J\u00fanior", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Couro e Assessorios"
+        ], 
+        "nome": "ARTE COURO GOMES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5471623, 
+                "lng": -46.6230842
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3272-9773", 
+            "En_CEP": "03040", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Carneiro Le\u00e3o, 48", 
+            "En_Num": "48", 
+            "En_Nome_Logradouro": "R. Carneiro Le\u00e3o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cama, mesa e banho"
+        ], 
+        "nome": "BORDADOS SEVILHA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5414447, 
+                "lng": -46.6070687
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2695-0450", 
+            "En_CEP": "03053", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bresser, 1318", 
+            "En_Num": "1318", 
+            "En_Nome_Logradouro": "R. Bresser", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Servi\u00e7os"
+        ], 
+        "nome": "CENTERCLIN LABORAT\u00d3RIO DE AN\u00c1LISES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.53193, 
+                "lng": -46.621508
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Canind\u00e9", 
+            "telefonePublico": "(11) 3311-8885", 
+            "En_CEP": "03032-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Vautier, 351", 
+            "En_Num": "351", 
+            "En_Nome_Logradouro": "Av. Vautier", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Sacaria"
+        ], 
+        "nome": "BRESSER", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5421394, 
+                "lng": -46.6071032
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-6528", 
+            "En_CEP": "03053", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bresser, 1373", 
+            "En_Num": "1373", 
+            "En_Nome_Logradouro": "R. Bresser", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Masculina"
+        ], 
+        "nome": "BESSA MODAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.541247, 
+                "lng": -46.61654919999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2692-1616", 
+            "En_CEP": "03012-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Ministro Firmino Whitaker, 24", 
+            "En_Num": "24", 
+            "En_Nome_Logradouro": "R. Min. Firmino Whitaker", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos"
+        ], 
+        "nome": "BRASIL AVIAMENTOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5388658, 
+                "lng": -46.6121677
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-1768", 
+            "En_CEP": "03012-060", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Rubinho de Oliveira, 155", 
+            "En_Num": "155", 
+            "En_Nome_Logradouro": "Rua Rubino de Oliveira", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cama, mesa e banho"
+        ], 
+        "nome": "CASA VIVA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5390369, 
+                "lng": -46.6162085
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "contato@casaviva.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2796-2633", 
+            "En_CEP": "03011-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Marcolina, 339", 
+            "En_Num": "339", 
+            "En_Nome_Logradouro": "R. Maria Marcolina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Feminina"
+        ], 
+        "nome": "ABSOLUTE JEANS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5364397, 
+                "lng": -46.6156215
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2081-2161", 
+            "En_CEP": "03013", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Casemiro de Abreu, 381", 
+            "En_Num": "381", 
+            "En_Nome_Logradouro": "R. Casemiro de Abreu", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Madeiras"
+        ], 
+        "nome": "CASA GIACOMO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5440617, 
+                "lng": -46.6232337
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3315-5015", 
+            "En_CEP": "03004-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua do Gas\u00f4metro, 327/345", 
+            "En_Num": "327", 
+            "En_Nome_Logradouro": "Rua do Gas\u00f4metro", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos"
+        ], 
+        "nome": "AVIAMENTOS CALLE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5305756, 
+                "lng": -46.6117027
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2698-5913", 
+            "En_CEP": "03023", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Rio Bonito, 838", 
+            "En_Num": "838", 
+            "En_Nome_Logradouro": "R. Rio Bonito", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Servi\u00e7os"
+        ], 
+        "nome": "AS LUANDA EXPRESS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5431314, 
+                "lng": -46.61509419999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "africontinental@africontinental.com", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2695-9225", 
+            "En_CEP": "03050-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Joaquim Nabuco, 99", 
+            "En_Num": "99", 
+            "En_Nome_Logradouro": "R. Joaquim Nabuco", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Couro e Assessorios"
+        ], 
+        "nome": "CASA DE COUROS S\u00c3O JOS\u00c9", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5434197, 
+                "lng": -46.6181495
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3229-0262", 
+            "En_CEP": "03008-030", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Coronel Francisco Amaro, 47", 
+            "En_Num": "47", 
+            "En_Nome_Logradouro": "R. Cel. Francisco Amaro", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Jeans"
+        ], 
+        "nome": "BIG SEVEN", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5360179, 
+                "lng": -46.617797
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3327-4446", 
+            "En_CEP": "03011-011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Miller, 613", 
+            "En_Num": "613", 
+            "En_Nome_Logradouro": "R. Miler", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Couro e Assessorios"
+        ], 
+        "nome": "CASELLI", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5443297, 
+                "lng": -46.6209934
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3228-1155", 
+            "En_CEP": "03008", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Monsenhor Andrade, 1114/ 118", 
+            "En_Num": "118", 
+            "En_Nome_Logradouro": "R. Monsenhor Andrade", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Tecidos e Retalhos"
+        ], 
+        "nome": "ALMIRANTE T\u00caXTIL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5345489, 
+                "lng": -46.6103047
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2695-2587", 
+            "En_CEP": "03025-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Almirante Barroso, 592", 
+            "En_Num": "592", 
+            "En_Nome_Logradouro": "R. Alm. Barroso", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Noivas"
+        ], 
+        "nome": "ASTRAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5474078, 
+                "lng": -46.6311678
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3107-2906", 
+            "En_CEP": "01021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua S\u00e3o Caetano, 253", 
+            "En_Num": "253", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Surfwear"
+        ], 
+        "nome": "BOYS AND STREET SKATEBOARDS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5358149, 
+                "lng": -46.6099865
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Bel\u00e9m", 
+            "telefonePublico": "(11) 2292-6509", 
+            "En_CEP": "03017-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bresser, 599", 
+            "En_Num": "599", 
+            "En_Nome_Logradouro": "R. Bresser", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Jeans"
+        ], 
+        "nome": "BETHOC JEANS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5384432, 
+                "lng": -46.6148882
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-3080", 
+            "En_CEP": "03012", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Conselheiro Belis\u00e1rio, 423", 
+            "En_Num": "423", 
+            "En_Nome_Logradouro": "R. Conselheiro Belis\u00e1rio", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "CA - VA IND\u00daSTRIA E COM\u00c9RCIO DE ROUPAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5333741, 
+                "lng": -46.6179244
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2694-2423", 
+            "En_CEP": "03011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Marcolina, 1.000", 
+            "En_Num": "1000", 
+            "En_Nome_Logradouro": "R. Maria Marcolina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias"
+        ], 
+        "nome": "BIJOU CLUB", 
+        "location": {
+            "coordinates": {
+                "lat": -23.53866, 
+                "lng": -46.609658
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3313-4732", 
+            "En_CEP": "03016-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Joli, 92", 
+            "En_Num": "92", 
+            "En_Nome_Logradouro": "R. Joli", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Praia"
+        ], 
+        "nome": "LA FEMME - MODA PRAIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5325202, 
+                "lng": -46.61292299999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "vendas@confeccoeslafemme.com.br", 
+            "En_Bairro": "Pari", 
+            "telefonePublico": "(11) 2692-3406", 
+            "En_CEP": "03026", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Silva Telles, 536", 
+            "En_Num": "536", 
+            "En_Nome_Logradouro": "R. Silva Teles", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Esportiva"
+        ], 
+        "nome": "ZONA LIVRE SPORTS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5377717, 
+                "lng": -46.6203319
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3313-1830", 
+            "En_CEP": "03016-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Oriente, 185", 
+            "En_Num": "185", 
+            "En_Nome_Logradouro": "R. Oriente", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Madeiras"
+        ], 
+        "nome": "ABM MADEIRAS E FERRAGENS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5437625, 
+                "lng": -46.6212097
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3229-7833", 
+            "En_CEP": "03004", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua do Gas\u00f4metro, 525/535", 
+            "En_Num": "525", 
+            "En_Nome_Logradouro": "Rua do Gas\u00f4metro", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cama, mesa e banho"
+        ], 
+        "nome": "BELLA ART", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5380121, 
+                "lng": -46.6180577
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "contato@lojabellaart.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-9416", 
+            "En_CEP": "03016", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Oriente, 422", 
+            "En_Num": "422", 
+            "En_Nome_Logradouro": "R. Oriente", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias"
+        ], 
+        "nome": "CORARTES - POMPONS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5366541, 
+                "lng": -46.6073799
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "corartes@corartes.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 6291-6463", 
+            "En_CEP": "03018", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jo\u00e3o Boemer, 267", 
+            "En_Num": "267", 
+            "En_Nome_Logradouro": "R. Jo\u00e3o Boemer", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cama, mesa e banho"
+        ], 
+        "nome": "CASA DAS TOALHAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5376227, 
+                "lng": -46.6189648
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "contato@casadastoalhas.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2694-3371", 
+            "En_CEP": "03010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bar\u00e3o de Lad\u00e1rio, 516", 
+            "En_Num": "516", 
+            "En_Nome_Logradouro": "R. Bar\u00e3o de Lad\u00e1rio", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Tecidos e Retalhos"
+        ], 
+        "nome": "AGETEC", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5389036, 
+                "lng": -46.6094046
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-8343", 
+            "En_CEP": "03016-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Joli, 62", 
+            "En_Num": "62", 
+            "En_Nome_Logradouro": "R. Joli", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Servi\u00e7os"
+        ], 
+        "nome": "ATTA TELECOM", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5522743, 
+                "lng": -46.6179703
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "wendel@attatelecom.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3019-1800", 
+            "En_CEP": "03101-005", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Alcantara Machado, 725", 
+            "En_Num": "725", 
+            "En_Nome_Logradouro": "Av. Alc\u00e2ntara Machado", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Surfwear"
+        ], 
+        "nome": "BIGGY BOYZ CLUB", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5355004, 
+                "lng": -46.61852220000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "marketing@biggyboyzclub.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3313-1294", 
+            "En_CEP": "03009", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Jo\u00e3o Teodoro, 1462 / 1464", 
+            "En_Num": "1462", 
+            "En_Nome_Logradouro": "R. Jo\u00e3o Teodoro", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda GG"
+        ], 
+        "nome": "ANISTIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5568466, 
+                "lng": -46.63039200000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "anistia@anistia.com.br", 
+            "En_Bairro": "S\u00e9", 
+            "telefonePublico": "(11) 2886-6401", 
+            "En_CEP": "01513", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "2\u00ba Andar - Loja 257", 
+            "En_Num": "257", 
+            "En_Nome_Logradouro": "R. S\u00e3o Paulo", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Enxoval"
+        ], 
+        "nome": "BAMBINI BABY", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5386465, 
+                "lng": -46.61607189999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2692-8615", 
+            "En_CEP": "03011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Marcolina , 384", 
+            "En_Num": "384", 
+            "En_Nome_Logradouro": "R. Maria Marcolina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Expositores, manequins"
+        ], 
+        "nome": "EQUIPALOJA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5352488, 
+                "lng": -46.6178946
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "equipaloja@equipaloja.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3313-2345", 
+            "En_CEP": "03011-011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Miller, 697", 
+            "En_Num": "697", 
+            "En_Nome_Logradouro": "R. Miler", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos"
+        ], 
+        "nome": "CASA LIMA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5325574, 
+                "lng": -46.6119854
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2695-0808", 
+            "En_CEP": "03018", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jo\u00e3o Boemer, 925", 
+            "En_Num": "925", 
+            "En_Nome_Logradouro": "R. Jo\u00e3o Boemer", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cama, mesa e banho"
+        ], 
+        "nome": "CASA DAS CORTINAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5280816, 
+                "lng": -46.6108983
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2694-0544", 
+            "En_CEP": "03018-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Godoi Preto, 293", 
+            "En_Num": "293", 
+            "En_Nome_Logradouro": "R. God\u00f3i Preto", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos para lojas"
+        ], 
+        "nome": "COR DE CEREJA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5387122, 
+                "lng": -46.61970059999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "ana@mabudenim.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3229-5395", 
+            "En_CEP": "03010-040", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Praia dos Lavradores, 10", 
+            "En_Num": "10", 
+            "En_Nome_Logradouro": "Rua da Praia dos Lavradores", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos"
+        ], 
+        "nome": "ARMARINHOS JJ", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5358935, 
+                "lng": -46.612474
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2291-3107", 
+            "En_CEP": "03016-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Joli, 526", 
+            "En_Num": "526", 
+            "En_Nome_Logradouro": "R. Joli", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Papelaria"
+        ], 
+        "nome": "NOVA OP\u00c7\u00c3O BAZAR, PAPELARIA E PERFUMARIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5476056, 
+                "lng": -46.6229522
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3277-1895", 
+            "En_CEP": "03040", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Carneiro Le\u00e3o, 100", 
+            "En_Num": "100", 
+            "En_Nome_Logradouro": "R. Carneiro Le\u00e3o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Praia"
+        ], 
+        "nome": "GATA BRONZEADA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "telefonePublico": "(11) 3228-8143", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Rodrigues dos Santos, 100 - Lojas R1/R9", 
+            "emailPublico": "gatabron@hotmail.com", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alimentos"
+        ], 
+        "nome": "ATACADISTA AMARAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5433174, 
+                "lng": -46.6163091
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2692-5652", 
+            "En_CEP": "03046-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Dr. Almeida Lima, 47", 
+            "En_Num": "47", 
+            "En_Nome_Logradouro": "R. Dr. Almeida Lima", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "AL\u00cdCIA CAL\u00c7ADOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5423906, 
+                "lng": -46.6138087
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2694-3751", 
+            "En_CEP": "03050-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Cavalheiro, 277", 
+            "En_Num": "277", 
+            "En_Nome_Logradouro": "R. Cavalheiro", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos para lojas"
+        ], 
+        "nome": "ART- MONTAGENS MET\u00c1LICAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5414569, 
+                "lng": -46.62185840000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3326-1439", 
+            "En_CEP": "03008", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Monsenhor Andrade, 458", 
+            "En_Num": "458", 
+            "En_Nome_Logradouro": "R. Monsenhor Andrade", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda \u00cdntima"
+        ], 
+        "nome": "A BELLA LINGERIE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5391903, 
+                "lng": -46.6085133
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-2574", 
+            "En_CEP": "03015-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Celso Garcia, 403", 
+            "En_Num": "403", 
+            "En_Nome_Logradouro": "Av. Celso Garcia", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "CASTROPIL EMBALAGENS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5408227, 
+                "lng": -46.6259112
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3311-7188", 
+            "En_CEP": "03006-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Prof\u00ba. Eur\u00edpedes Sim\u00f5es de Paula, 253", 
+            "En_Num": "253", 
+            "En_Nome_Logradouro": "R. Prof. Eur\u00edpedes Sim\u00f5es de Paula", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Couro e Assessorios"
+        ], 
+        "nome": "BRASMAY- COM\u00c9RCIO DE TECIDOS E PL\u00c1STICOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.544659, 
+                "lng": -46.6196766
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3227-3098", 
+            "En_CEP": "03001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Rangel Pestana, 1563 a 1575", 
+            "En_Num": "1563", 
+            "En_Nome_Logradouro": "Av. Rangel Pestana", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Noivas"
+        ], 
+        "nome": "ARTE-NOIVA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5489904, 
+                "lng": -46.6302907
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3326-3646", 
+            "En_CEP": "01021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua S\u00e3o Caetano, 50", 
+            "En_Num": "50", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Madeiras"
+        ], 
+        "nome": "BRASMATO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5435821, 
+                "lng": -46.6236484
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3228-0186", 
+            "En_CEP": "03006-030", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua da Alf\u00e2ndega,97/99", 
+            "En_Num": "97", 
+            "En_Nome_Logradouro": "R. da Alf\u00e2ndega", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Surfwear"
+        ], 
+        "nome": "FEDERAL ART", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5378027, 
+                "lng": -46.6135583
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "federalart@federalart.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2692-6079", 
+            "En_CEP": "03012-060", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Rubino de Oliveira, 338", 
+            "En_Num": "338", 
+            "En_Nome_Logradouro": "Rua Rubino de Oliveira", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Expositores, manequins"
+        ], 
+        "nome": "ART VIVA MANEQUINS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5449882, 
+                "lng": -46.6323933
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "contato@artvivamanequins.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 2483-5654", 
+            "En_CEP": "01021-200", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua S\u00e3o Caetano, 545", 
+            "En_Num": "545", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Madeiras"
+        ], 
+        "nome": "CIA DE MARTA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5313719, 
+                "lng": -46.6136619
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2291-1119", 
+            "En_CEP": "03018-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Coronel Em\u00eddio Piedade, 161", 
+            "En_Num": "161", 
+            "En_Nome_Logradouro": "R. Cel. Em\u00eddio Piedade", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Tecidos e Retalhos"
+        ], 
+        "nome": "ABC TECIDOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5364914, 
+                "lng": -46.6113072
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2618-3902", 
+            "En_CEP": "03016-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Joli, 396", 
+            "En_Num": "396", 
+            "En_Nome_Logradouro": "R. Joli", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Feminina"
+        ], 
+        "nome": "ABALLO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5340066, 
+                "lng": -46.6131185
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3546-6226", 
+            "En_CEP": "03027-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mendes Gon\u00e7alves, 48", 
+            "En_Num": "48", 
+            "En_Nome_Logradouro": "R. Mendes Gon\u00e7alves", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias"
+        ], 
+        "nome": "DIVINA PELE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "telefonePublico": "(11) 2291-6750", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Julio Ribeiro, 243 - Shopping Mega Polo, 2\u00ba Andar, Loja 209", 
+            "emailPublico": "info@gladysbijoux.com.br", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "CLOVIS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5422929, 
+                "lng": -46.6130496
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2081-5365", 
+            "En_CEP": "03050-050", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Brigadeiro Machado, 139", 
+            "En_Num": "139", 
+            "En_Nome_Logradouro": "R. Brg. Machado", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Noivas"
+        ], 
+        "nome": "CANTINHO DA NOIVA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5345836, 
+                "lng": -46.6315631
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Luz", 
+            "telefonePublico": "(11) 3228-8802", 
+            "En_CEP": "01104-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua S\u00e3o Caetano, 149", 
+            "En_Num": "149", 
+            "En_Nome_Logradouro": "R. S\u00e3o Caetano", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos para lojas"
+        ], 
+        "nome": "EQUIPALOJA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5362961, 
+                "lng": -46.61356749999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-7967", 
+            "En_CEP": "03013-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mendes Jr., 246", 
+            "En_Num": "246", 
+            "En_Nome_Logradouro": "R. Mendes J\u00fanior", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Infantil"
+        ], 
+        "nome": "AKIMOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5397263, 
+                "lng": -46.6176749
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2692-6639", 
+            "En_CEP": "03011-011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Miller, 207", 
+            "En_Num": "207", 
+            "En_Nome_Logradouro": "R. Miler", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Praia"
+        ], 
+        "nome": "KALIMAR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "telefonePublico": "(11) 3315-9795", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Elisa Whitaker, 292", 
+            "emailPublico": "", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alimentos"
+        ], 
+        "nome": "AGRO COMERCIAL BARBOSA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5410306, 
+                "lng": -46.6264181
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3311-6111", 
+            "En_CEP": "03006-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Prof. Eur\u00edpedes Sim\u00f5es de Paula, 200", 
+            "En_Num": "200", 
+            "En_Nome_Logradouro": "R. Prof. Eur\u00edpedes Sim\u00f5es de Paula", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Infantil", 
+            "Moda Jovem"
+        ], 
+        "nome": "A.R. CONFEC\u00c7\u00d5ES INFANTIL E JUVENIL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5367303, 
+                "lng": -46.62069020000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3229-5985", 
+            "En_CEP": "03009-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Henrique Dias, 156-B", 
+            "En_Num": "156 B", 
+            "En_Nome_Logradouro": "R. Henrique Dias", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Evang\u00e9lica"
+        ], 
+        "nome": "COLDDI CONFEC\u00c7\u00d5ES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5401273, 
+                "lng": -46.617275
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-6767", 
+            "En_CEP": "03012", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Conselheiro Belisario, 116", 
+            "En_Num": "116", 
+            "En_Nome_Logradouro": "R. Conselheiro Belis\u00e1rio", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Noivas"
+        ], 
+        "nome": "ARMIN", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5480455, 
+                "lng": -46.630856
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-7374", 
+            "En_CEP": "01021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua S\u00e3o Caetano, 167", 
+            "En_Num": "167", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Couro e Assessorios"
+        ], 
+        "nome": "BRASHEN- COM\u00c9RCIO DE PL\u00c1STICOS, TECIDOS E FIVELAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5457746, 
+                "lng": -46.6218399
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3229-1788", 
+            "En_CEP": "03001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Rangel Pestana, 1315", 
+            "En_Num": "1315", 
+            "En_Nome_Logradouro": "Av. Rangel Pestana", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Surfwear"
+        ], 
+        "nome": "CAREZUS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5387272, 
+                "lng": -46.6150727
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "vendas@carezus.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2796-5917", 
+            "En_CEP": "03012", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Conselheiro Belis\u00e1rio, 386", 
+            "En_Num": "386", 
+            "En_Nome_Logradouro": "R. Conselheiro Belis\u00e1rio", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cama, mesa e banho"
+        ], 
+        "nome": "CASA DA SOGRA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5404223, 
+                "lng": -46.6149566
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2796-8599", 
+            "En_CEP": "03011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Marcolina, 146", 
+            "En_Num": "146", 
+            "En_Nome_Logradouro": "R. Maria Marcolina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Couro e Assessorios"
+        ], 
+        "nome": "BRAS WAY- COM\u00c9RCIO DE PL\u00c1STICOS, ESPUMAS E TECIDOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5456091, 
+                "lng": -46.6215311
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3229-8525", 
+            "En_CEP": "03001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Rangel Pestana, 1341", 
+            "En_Num": "1341", 
+            "En_Nome_Logradouro": "Av. Rangel Pestana", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alimentos"
+        ], 
+        "nome": "AGROCARMO COM\u00c9RCIO DE ALIMENTOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5418083, 
+                "lng": -46.6264388
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3229-9551", 
+            "En_CEP": "03006-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Beijamim de Oliveira, 42/ 46", 
+            "En_Num": "42", 
+            "En_Nome_Logradouro": "Rua Benjamim de Oliveira", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda GG"
+        ], 
+        "nome": "ART PRIMA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5336616, 
+                "lng": -46.6151214
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2698-0608", 
+            "En_CEP": "03013-011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mendes Jr., 591", 
+            "En_Num": "591", 
+            "En_Nome_Logradouro": "R. Mendes J\u00fanior", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos para lojas"
+        ], 
+        "nome": "ARMA\u00c7\u00c3O", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5338866, 
+                "lng": -46.6134781
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-1806", 
+            "En_CEP": "03027-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mendes Gon\u00e7alves, 77", 
+            "En_Num": "77", 
+            "En_Nome_Logradouro": "R. Mendes Gon\u00e7alves", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Feminina"
+        ], 
+        "nome": "3 H", 
+        "location": {
+            "coordinates": {
+                "lat": -23.532183, 
+                "lng": -46.61547299999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Pari", 
+            "telefonePublico": "(11) 2694-6532", 
+            "En_CEP": "03013-011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mendes Junior, 758", 
+            "En_Num": "758", 
+            "En_Nome_Logradouro": "R. Mendes J\u00fanior", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Papelaria"
+        ], 
+        "nome": "PAPELARIA MAJOR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5399487, 
+                "lng": -46.612678
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2692-8600", 
+            "En_CEP": "03012-040", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Ricardo Gon\u00e7alves, 53", 
+            "En_Num": "53", 
+            "En_Nome_Logradouro": "R. Dr. Ricardo Gon\u00e7alves", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Jeans", 
+            "Surfwear"
+        ], 
+        "nome": "BIDYSEA JUST FOR GIRIS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5366319, 
+                "lng": -46.6133467
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "bidysea@bidysea.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-2581", 
+            "En_CEP": "03016-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Joaquina, 123", 
+            "En_Num": "123", 
+            "En_Nome_Logradouro": "R. Maria Joaquina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Papelaria"
+        ], 
+        "nome": "CYULIO - PAPELARIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5301244, 
+                "lng": -46.61910710000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Canind\u00e9", 
+            "telefonePublico": "(11) 3228-4988", 
+            "En_CEP": "03032", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Conselheiro Dantas, 390", 
+            "En_Num": "390", 
+            "En_Nome_Logradouro": "R. Conselheiro Dantas", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Sacaria"
+        ], 
+        "nome": "BLANKA SACARIAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5413905, 
+                "lng": -46.61000910000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2796-4269", 
+            "En_CEP": "03052", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Dr.Costa Valente, 302", 
+            "En_Num": "302", 
+            "En_Nome_Logradouro": "R. Dr. Costa Valente", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Feminina"
+        ], 
+        "nome": "AISHTY", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5353173, 
+                "lng": -46.6123899
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "aishty@aishty.com", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2695-0115", 
+            "En_CEP": "03016-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Joaquina, 303", 
+            "En_Num": "303", 
+            "En_Nome_Logradouro": "R. Maria Joaquina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "CAL\u00c7ADOS COSTA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5423963, 
+                "lng": -46.6134286
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2292-0017", 
+            "En_CEP": "03050-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Cavalheiro, 310", 
+            "En_Num": "310", 
+            "En_Nome_Logradouro": "R. Cavalheiro", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "NA\u00c7\u00d5ES EMBALAGENS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5307982, 
+                "lng": -46.6205847
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "contato@nacoesembalagens.com.br", 
+            "En_Bairro": "Canind\u00e9", 
+            "telefonePublico": "(11) 3326-8138", 
+            "En_CEP": "03032-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Camomil, 256", 
+            "En_Num": "256", 
+            "En_Nome_Logradouro": "R. Camomil", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Madeiras"
+        ], 
+        "nome": "ATACAD\u00c3O S\u00c3O PAULO E MEIAS E LINGERIE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5420385, 
+                "lng": -46.6173768
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2291-4360", 
+            "En_CEP": "03012-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Largo da Conc\u00f3rdia , 125", 
+            "En_Num": "125", 
+            "En_Nome_Logradouro": "Largo da Conc\u00f3rdia", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Sacaria"
+        ], 
+        "nome": "CASA DO PANO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5360785, 
+                "lng": -46.6118347
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2692-7988", 
+            "En_CEP": "03025", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Almirante Barroso, 367", 
+            "En_Num": "367", 
+            "En_Nome_Logradouro": "R. Alm. Barroso", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Tecidos e Retalhos"
+        ], 
+        "nome": "ANDR\u00c9 TECIDOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.536671, 
+                "lng": -46.6112234
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-8219", 
+            "En_CEP": "03016-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Joli, 374", 
+            "En_Num": "374", 
+            "En_Nome_Logradouro": "R. Joli", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda \u00cdntima"
+        ], 
+        "nome": "ALINE LINGERIE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5354383, 
+                "lng": -46.6173022
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "alinelingerie@alinelingerie.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3311-8773", 
+            "En_CEP": "03009", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jo\u00e3o Teodoro, 1577", 
+            "En_Num": "1577", 
+            "En_Nome_Logradouro": "R. Jo\u00e3o Teodoro", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Sacaria"
+        ], 
+        "nome": "CLAU\u00b4S", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5397837, 
+                "lng": -46.6077751
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2292-4851", 
+            "En_CEP": "03053", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bresser, 1107", 
+            "En_Num": "1107", 
+            "En_Nome_Logradouro": "R. Bresser", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Praia"
+        ], 
+        "nome": "L\u00cdQUIDO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5377228, 
+                "lng": -46.6174385
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "biquine@biquine.com", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2694-3729", 
+            "En_CEP": "03016-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Oriente, 501", 
+            "En_Num": "501", 
+            "En_Nome_Logradouro": "R. Oriente", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda GG"
+        ], 
+        "nome": "ARINETE MODAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5342872, 
+                "lng": -46.6147079
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Pari", 
+            "telefonePublico": "(11) 2694-5158", 
+            "En_CEP": "03026", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Silva Teles, 272", 
+            "En_Num": "272", 
+            "En_Nome_Logradouro": "R. Silva Teles", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Sacaria"
+        ], 
+        "nome": "BENFICA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5395494, 
+                "lng": -46.6078529
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2796-5084", 
+            "En_CEP": "03053", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bresser, 1081", 
+            "En_Num": "1081", 
+            "En_Nome_Logradouro": "R. Bresser", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Servi\u00e7os"
+        ], 
+        "nome": "AGRO TOTAL PET SHOP", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5481116, 
+                "lng": -46.63078489999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3313-0077", 
+            "En_CEP": "01021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua S\u00e3o Caetano, 156/162", 
+            "En_Num": "156", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos"
+        ], 
+        "nome": "ARENA SHOPPING DOS AVIAMENTOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5349222, 
+                "lng": -46.61780599999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3311-4800", 
+            "En_CEP": "03011-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Miller, 738", 
+            "En_Num": "738", 
+            "En_Nome_Logradouro": "R. Miler", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Couro e Assessorios"
+        ], 
+        "nome": "ABUDE PL\u00c1STICOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5445375, 
+                "lng": -46.6187928
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3207-4646", 
+            "En_CEP": "03002", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Rangel Pestana, 1646", 
+            "En_Num": "1646", 
+            "En_Nome_Logradouro": "Av. Rangel Pestana", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Enxoval"
+        ], 
+        "nome": "ART BABY ENXOVAIS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5313383, 
+                "lng": -46.6149534
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2695-9404", 
+            "En_CEP": "03027-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Dr. Virg\u00edlio do Nascimento, 65", 
+            "En_Num": "65", 
+            "En_Nome_Logradouro": "R. Dr. Virg\u00edlio do Nascimento", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda GG"
+        ], 
+        "nome": "AMANDA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5359755, 
+                "lng": -46.6177625
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3326-9234", 
+            "En_CEP": "03011-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Miler, 618", 
+            "En_Num": "618", 
+            "En_Nome_Logradouro": "R. Miler", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Tecidos e Retalhos"
+        ], 
+        "nome": "ADA COM\u00c9RCIO DE TECIDOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5342356, 
+                "lng": -46.6100623
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Pari", 
+            "telefonePublico": "(11) 2693-5592", 
+            "En_CEP": "03025-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Almirante Barroso, 634", 
+            "En_Num": "634", 
+            "En_Nome_Logradouro": "R. Alm. Barroso", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda GG"
+        ], 
+        "nome": "ALLAN PARK", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5327728, 
+                "lng": -46.6153029
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2698-7523", 
+            "En_CEP": "03013-011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mendes Jr., 696 - Loja 3", 
+            "En_Num": "696", 
+            "En_Nome_Logradouro": "R. Mendes J\u00fanior", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Servi\u00e7os"
+        ], 
+        "nome": "BY ART CONVITES E LACRES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5478355, 
+                "lng": -46.6309213
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-1471", 
+            "En_CEP": "01021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua S\u00e3o Caetano, 200", 
+            "En_Num": "200", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Evang\u00e9lica"
+        ], 
+        "nome": "ARIRAN FEMININE STYLE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5371409, 
+                "lng": -46.6162949
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-3203", 
+            "En_CEP": "03011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Marcolina, 550", 
+            "En_Num": "550", 
+            "En_Nome_Logradouro": "R. Maria Marcolina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Couro e Assessorios"
+        ], 
+        "nome": "ART\u00b4COURO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5376007, 
+                "lng": -46.6145665
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-9203", 
+            "En_CEP": "03016-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Oriente, 777", 
+            "En_Num": "777", 
+            "En_Nome_Logradouro": "R. Oriente", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alimentos"
+        ], 
+        "nome": "ATACADISTA S\u00c3O PAULO COM\u00c9RCIO E IMPORTA\u00c7\u00c3O", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5413567, 
+                "lng": -46.62472229999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3322-9911", 
+            "En_CEP": "03006-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Beijamim de Oliveira, 214/ 226", 
+            "En_Num": "214", 
+            "En_Nome_Logradouro": "Rua Benjamim de Oliveira", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Expositores, manequins"
+        ], 
+        "nome": "ART NOVA EXPOSITORES PARA LOJA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5327447, 
+                "lng": -46.6316011
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "manequinsartnova@uol.com.br", 
+            "En_Bairro": "Luz", 
+            "telefonePublico": "(11) 3313-3544", 
+            "En_CEP": "01105", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jo\u00e3o Teodoro, 84", 
+            "En_Num": "84", 
+            "En_Nome_Logradouro": "R. Jo\u00e3o Teodoro", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Infantil", 
+            "Moda Jovem"
+        ], 
+        "nome": "ABR JEANS WEAR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.53267, 
+                "lng": -46.6153363
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2692-5487", 
+            "En_CEP": "03013-011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mendes J\u00fanior, 708", 
+            "En_Num": "708", 
+            "En_Nome_Logradouro": "R. Mendes J\u00fanior", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda GG"
+        ], 
+        "nome": "702 TAMANHOS GRANDES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5348985, 
+                "lng": -46.6131473
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-9399", 
+            "En_CEP": "03027", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Xavantes, 704", 
+            "En_Num": "704", 
+            "En_Nome_Logradouro": "R. Xavantes", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Jeans"
+        ], 
+        "nome": "BIOTIPO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.535508, 
+                "lng": -46.6130145
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "biotipo@biotipo.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2694-5474", 
+            "En_CEP": "03016-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Joli, 602", 
+            "En_Num": "602", 
+            "En_Nome_Logradouro": "R. Joli", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens", 
+            "Papelaria"
+        ], 
+        "nome": "EDUARDO PRADO PAPELARIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.536946, 
+                "lng": -46.6124964
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-2573", 
+            "En_CEP": "03013-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mendes J\u00fanior, 116", 
+            "En_Num": "116", 
+            "En_Nome_Logradouro": "R. Mendes J\u00fanior", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Festa"
+        ], 
+        "nome": "FRANCE MODAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "telefonePublico": "(11) 2291-8301", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Ministro firmino Whitaker, 147 - Box 36/37", 
+            "emailPublico": "", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Tecidos e Retalhos"
+        ], 
+        "nome": "ANDR\u00c9 TECIDOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5354754, 
+                "lng": -46.6113826
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2694-3297", 
+            "En_CEP": "03025", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Almirante Barroso, 437", 
+            "En_Num": "437", 
+            "En_Nome_Logradouro": "R. Alm. Barroso", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "ASTRAL CAL\u00c7ADOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5432893, 
+                "lng": -46.61358269999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2692-3159", 
+            "En_CEP": "03050", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Gomes Cardim, 199", 
+            "En_Num": "199", 
+            "En_Nome_Logradouro": "R. Gomes Cardim", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Expositores, manequins"
+        ], 
+        "nome": "COM\u00c9RCIO DE MANEQUINS CENTRAL DO BR\u00c1S", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5353144, 
+                "lng": -46.6187239
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3228-3818", 
+            "En_CEP": "03009", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Joa\u00f5 Teodoro, 1437", 
+            "En_Num": "1437", 
+            "En_Nome_Logradouro": "R. Jo\u00e3o Teodoro", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Esportiva"
+        ], 
+        "nome": "SPORT BR\u00c1S", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5397601, 
+                "lng": -46.61535809999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2291-2069", 
+            "En_CEP": "03011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Marcolina, 222/ 224", 
+            "En_Num": "222", 
+            "En_Nome_Logradouro": "R. Maria Marcolina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Evang\u00e9lica"
+        ], 
+        "nome": "CONFEC\u00c7\u00d5ES SYSLEY", 
+        "location": {
+            "coordinates": {
+                "lat": -23.539416, 
+                "lng": -46.615853
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-8965", 
+            "En_CEP": "03011-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Marcolina, 280", 
+            "En_Num": "280", 
+            "En_Nome_Logradouro": "R. Maria Marcolina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alimentos"
+        ], 
+        "nome": "21 GRILL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5419474, 
+                "lng": -46.60528799999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "jorge_arine@hotmail.com", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2291-2025", 
+            "En_CEP": "03047", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Vinte e um de abril, 1036", 
+            "En_Num": "1036", 
+            "En_Nome_Logradouro": "R. 21 de Abril", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Festa"
+        ], 
+        "nome": "WOODLOUSE HOUSE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5378867, 
+                "lng": -46.6151746
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "carlos@woodlouse.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2696-0199", 
+            "En_CEP": "03016-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Oriente, 724/734", 
+            "En_Num": "724", 
+            "En_Nome_Logradouro": "R. Oriente", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Tecidos e Retalhos"
+        ], 
+        "nome": "ALMEIDA E NARESSE TECIDOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5361332, 
+                "lng": -46.6114014
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2695-1001", 
+            "En_CEP": "03025", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Almirante Barroso, 380", 
+            "En_Num": "380", 
+            "En_Nome_Logradouro": "R. Alm. Barroso", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Masculina"
+        ], 
+        "nome": "BICHO SOLTO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5330938, 
+                "lng": -46.6077728
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2292-0382", 
+            "En_CEP": "03025-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Major Marcelino, 383", 
+            "En_Num": "383", 
+            "En_Nome_Logradouro": "R. Maj. Marcelino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Festa"
+        ], 
+        "nome": "LAUR\u00c9L BY TESTONI", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5370112, 
+                "lng": -46.6152987
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "Vendas: Somente Atacado", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2796-8856", 
+            "En_CEP": "03013", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Casemiro de Abreu, 314", 
+            "En_Num": "314", 
+            "En_Nome_Logradouro": "R. Casemiro de Abreu", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alimentos"
+        ], 
+        "nome": "A.R FONSECA DISTRIBUIDORA DE ALIMENTOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5435292, 
+                "lng": -46.6140398
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2698-6660", 
+            "En_CEP": "03050-030", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Paulo Afonso, 187", 
+            "En_Num": "187", 
+            "En_Nome_Logradouro": "R. Paulo Afonso", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos"
+        ], 
+        "nome": "ARMARINHO 25", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5333249, 
+                "lng": -46.6111377
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "vendas@armarinhos25.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2790-2525", 
+            "En_CEP": "03018", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jo\u00e3o Boemer, 805", 
+            "En_Num": "805", 
+            "En_Nome_Logradouro": "R. Jo\u00e3o Boemer", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Papelaria"
+        ], 
+        "nome": "KARISMA KARDS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5311619, 
+                "lng": -46.62120840000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Canind\u00e9", 
+            "telefonePublico": "(11) 3227-4999", 
+            "En_CEP": "03032", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Vautier, 441", 
+            "En_Num": "441", 
+            "En_Nome_Logradouro": "Av. Vautier", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda GG", 
+            "Moda \u00cdntima", 
+            "Moda Praia"
+        ], 
+        "nome": "ACQUALUA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "telefonePublico": "(11) 3326-7078", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Elisa Whitaker, 291", 
+            "emailPublico": "", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Servi\u00e7os"
+        ], 
+        "nome": "AMPEC", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5423162, 
+                "lng": -46.6323036
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3229-0689", 
+            "En_CEP": "01021-200", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua S\u00e3o Caetano, 845", 
+            "En_Num": "845", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Feminina"
+        ], 
+        "nome": "ABROTEA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5327558, 
+                "lng": -46.6143592
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2694-8132", 
+            "En_CEP": "03027-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mendes Gon\u00e7alves, 224/226", 
+            "En_Num": "224", 
+            "En_Nome_Logradouro": "R. Mendes Gon\u00e7alves", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "BRADESCART", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5438553, 
+                "lng": -46.6158992
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2694-1239", 
+            "En_CEP": "03050-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Cavalheiro, 17", 
+            "En_Num": "17", 
+            "En_Nome_Logradouro": "R. Cavalheiro", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Enxoval", 
+            "Moda Infantil", 
+            "Moda Jovem"
+        ], 
+        "nome": "AMERICANTEX", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5376656, 
+                "lng": -46.6143262
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "contato@americantex.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2692-1341", 
+            "En_CEP": "03016-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Oriente, 809", 
+            "En_Num": "809", 
+            "En_Nome_Logradouro": "R. Oriente", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Surfwear"
+        ], 
+        "nome": "DEEPING", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5386314, 
+                "lng": -46.6149213
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "deeping@deeping.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2692-4133", 
+            "En_CEP": "03012", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Conselheiro Belisario, 406", 
+            "En_Num": "406", 
+            "En_Nome_Logradouro": "R. Conselheiro Belis\u00e1rio", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Masculina"
+        ], 
+        "nome": "BESSA MODAS- MODA VER\u00c3O E INVERNO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5414934, 
+                "lng": -46.61644380000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2692-1616", 
+            "En_CEP": "03012-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Largo da Conc\u00f3rdia, 126/ 138", 
+            "En_Num": "126", 
+            "En_Nome_Logradouro": "Largo da Conc\u00f3rdia", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Masculina"
+        ], 
+        "nome": "BITAR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5376699, 
+                "lng": -46.6146533
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-9272", 
+            "En_CEP": "03016-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Oriente, 769", 
+            "En_Num": "769", 
+            "En_Nome_Logradouro": "R. Oriente", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Noivas"
+        ], 
+        "nome": "CENTER NOIVAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5344, 
+                "lng": -46.6328448
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Luz", 
+            "telefonePublico": "(11) 3229-3537", 
+            "En_CEP": "01104-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua S\u00e3o Caetano, 13", 
+            "En_Num": "13", 
+            "En_Nome_Logradouro": "R. S\u00e3o Caetano", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos"
+        ], 
+        "nome": "AVIAMENTOS SHAMAR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5354117, 
+                "lng": -46.6123723
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2692-7616", 
+            "En_CEP": "03016-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Joaquina, 297", 
+            "En_Num": "297", 
+            "En_Nome_Logradouro": "R. Maria Joaquina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda \u00cdntima"
+        ], 
+        "nome": "BIZINHO MODA \u00cdNTIMA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5363625, 
+                "lng": -46.60959829999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "rose@portalnegritude.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2694-5940", 
+            "En_CEP": "03017", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bresser, 674/ 966", 
+            "En_Num": "674", 
+            "En_Nome_Logradouro": "R. Bresser", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Evang\u00e9lica", 
+            "Moda Feminina", 
+            "Moda GG"
+        ], 
+        "nome": "ADORA CONFEC\u00c7\u00d5ES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5380291, 
+                "lng": -46.6152958
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-5428", 
+            "En_CEP": "03013", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Casemiro de Abreu, 200", 
+            "En_Num": "200", 
+            "En_Nome_Logradouro": "R. Casemiro de Abreu", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "BRASTUDO DISTRIBUIDOR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.541933, 
+                "lng": -46.6128294
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-5717", 
+            "En_CEP": "03050-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Cavalheiro, 387", 
+            "En_Num": "387", 
+            "En_Nome_Logradouro": "R. Cavalheiro", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Masculina"
+        ], 
+        "nome": "BIG ROCK", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5388818, 
+                "lng": -46.613484
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2698-1959", 
+            "En_CEP": "03012-040", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Dr. Ricardo Gon\u00e7alves, 208", 
+            "En_Num": "208", 
+            "En_Nome_Logradouro": "R. Dr. Ricardo Gon\u00e7alves", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Jovem"
+        ], 
+        "nome": "ANGEL\u00b4S PLANET", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5382958, 
+                "lng": -46.615284
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2697-2798", 
+            "En_CEP": "03013", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Casemiro de Abreu, 172", 
+            "En_Num": "172", 
+            "En_Nome_Logradouro": "R. Casemiro de Abreu", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Servi\u00e7os"
+        ], 
+        "nome": "ALO BRAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5352618, 
+                "lng": -46.6123501
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "alobras@alobras.org.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2694-0823", 
+            "En_CEP": "03016-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Joaquina, 309 - Sala 22", 
+            "En_Num": "309", 
+            "En_Nome_Logradouro": "R. Maria Joaquina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Infantil", 
+            "Moda Jovem"
+        ], 
+        "nome": "ABR JEANS WEAR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5364866, 
+                "lng": -46.6166613
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2698-5158", 
+            "En_CEP": "03011-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Marcolina, 615", 
+            "En_Num": "615", 
+            "En_Nome_Logradouro": "R. Maria Marcolina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda \u00cdntima"
+        ], 
+        "nome": "BRASCOL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5353918, 
+                "lng": -46.616737
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3228-1818", 
+            "En_CEP": "03011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Marcolina, 748/ 764", 
+            "En_Num": "748", 
+            "En_Nome_Logradouro": "R. Maria Marcolina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias"
+        ], 
+        "nome": "775 EYEWEAR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.557154, 
+                "lng": -46.6287779
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "S\u00e9", 
+            "telefonePublico": "(11) 2796-5438", 
+            "En_CEP": "01513", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "4\u00ba Andar - Loja 428", 
+            "En_Num": "428", 
+            "En_Nome_Logradouro": "R. S\u00e3o Paulo", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Esportiva"
+        ], 
+        "nome": "TOMBOY", 
+        "location": {
+            "coordinates": {
+                "lat": -23.540973, 
+                "lng": -46.632211
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "tomboy@tomboy.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3313-8558", 
+            "En_CEP": "01021-200", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua S\u00e3o Caetano, 1013", 
+            "En_Num": "1013", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda GG"
+        ], 
+        "nome": "ANGIE FASHION", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5315371, 
+                "lng": -46.7241569
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Vila Hamburguesa", 
+            "telefonePublico": "(11) 2692-3689", 
+            "En_CEP": "05302", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Muller, 360", 
+            "En_Num": "360", 
+            "En_Nome_Logradouro": "R. Lauro M\u00fcller", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Papelaria"
+        ], 
+        "nome": "PAPELARIA ARIN\u00caS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.544489, 
+                "lng": -46.620869
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3313-6364", 
+            "En_CEP": "03008", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Monsenhor Andrade, 102", 
+            "En_Num": "102", 
+            "En_Nome_Logradouro": "R. Monsenhor Andrade", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias"
+        ], 
+        "nome": "GLADYS RELIGIOSOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5445033, 
+                "lng": -46.6328272
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "vendas@gladysreligiosos.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3312-0325", 
+            "En_CEP": "01022", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Ladeira Porto Geral, 106 - 6\u00b0 Andar - Sala 605/607", 
+            "En_Num": "106", 
+            "En_Nome_Logradouro": "Ladeira P\u00f4rto Geral", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Evang\u00e9lica"
+        ], 
+        "nome": "CHIQ BELLA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5364845, 
+                "lng": -46.61607370000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2692-8273", 
+            "En_CEP": "03011-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Marcolina , 616", 
+            "En_Num": "616", 
+            "En_Nome_Logradouro": "R. Maria Marcolina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Couro e Assessorios"
+        ], 
+        "nome": "CAROL PL\u00c1STICOS, ATACADO E VAREJO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5440039, 
+                "lng": -46.621425
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3227-2245", 
+            "En_CEP": "03004", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua do Gas\u00f4metro, 1350", 
+            "En_Num": "1350", 
+            "En_Nome_Logradouro": "Rua do Gas\u00f4metro", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "DESCART\u00c1VEIS 641", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5352655, 
+                "lng": -46.6136308
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-8813", 
+            "En_CEP": "03027", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Xavantes, 641", 
+            "En_Num": "641", 
+            "En_Nome_Logradouro": "R. Xavantes", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Evang\u00e9lica"
+        ], 
+        "nome": "BELDER\u00b4S", 
+        "location": {
+            "coordinates": {
+                "lat": -23.537853, 
+                "lng": -46.6214813
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3227-5909", 
+            "En_CEP": "03016", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Oriente, 65", 
+            "En_Num": "65", 
+            "En_Nome_Logradouro": "R. Oriente", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Papelaria"
+        ], 
+        "nome": "JANDAIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5299224, 
+                "lng": -46.6206866
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Canind\u00e9", 
+            "telefonePublico": "(11) 3228-7333", 
+            "En_CEP": "03032", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Vautier, 580", 
+            "En_Num": "580", 
+            "En_Nome_Logradouro": "Av. Vautier", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Sacaria"
+        ], 
+        "nome": "ALVIREI ARMARINHOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5389969, 
+                "lng": -46.6155441
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-4413", 
+            "En_CEP": "03012-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Conselheiro Belisario, 334", 
+            "En_Num": "334", 
+            "En_Nome_Logradouro": "R. Conselheiro Belis\u00e1rio", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "BARBANPEL EMBALAGENS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5386405, 
+                "lng": -46.612422
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2291-6566", 
+            "En_CEP": "03012-060", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Rubino de Oliveira, 191", 
+            "En_Num": "191", 
+            "En_Nome_Logradouro": "Rua Rubino de Oliveira", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Enxoval"
+        ], 
+        "nome": "ANETTA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5398367, 
+                "lng": -46.6154638
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2692-6396", 
+            "En_CEP": "03011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Marcolina, 220", 
+            "En_Num": "220", 
+            "En_Nome_Logradouro": "R. Maria Marcolina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Feminina"
+        ], 
+        "nome": "ADRIKIM", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5336316, 
+                "lng": -46.6140075
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Pari", 
+            "telefonePublico": "", 
+            "En_CEP": "03026", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Silva Teles, 372/374", 
+            "En_Num": "372", 
+            "En_Nome_Logradouro": "R. Silva Teles", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Feminina", 
+            "Moda Infantil", 
+            "Moda Jovem"
+        ], 
+        "nome": "A. MICHELOTTI CAMISETAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5360899, 
+                "lng": -46.6097464
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2618-5382", 
+            "En_CEP": "03017", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bresser, 637", 
+            "En_Num": "637", 
+            "En_Nome_Logradouro": "R. Bresser", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Sacaria"
+        ], 
+        "nome": "CALDEIRA & CIA.", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5340913, 
+                "lng": -46.6102334
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2692-0095", 
+            "En_CEP": "03025-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Almirante Barroso, 635/639", 
+            "En_Num": "635", 
+            "En_Nome_Logradouro": "R. Alm. Barroso", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Papelaria"
+        ], 
+        "nome": "PONTO COM - INFORM\u00c1TICA E PAPELARIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5351363, 
+                "lng": -46.6089242
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "atendimento_papelariapontocom@hotmail.com", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3938-1362", 
+            "En_CEP": "03018-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jo\u00e3o Boemer, 505", 
+            "En_Num": "505", 
+            "En_Nome_Logradouro": "R. Jo\u00e3o Boemer", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias"
+        ], 
+        "nome": "IMAGEM FOLHEADOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "telefonePublico": "", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Vendas pela Internet", 
+            "emailPublico": "", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Praia"
+        ], 
+        "nome": "L4 COMERCIAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5368839, 
+                "lng": -46.6135604
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "l4@l4.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 4085-8100", 
+            "En_CEP": "03016-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Joaquina, 87", 
+            "En_Num": "87", 
+            "En_Nome_Logradouro": "R. Maria Joaquina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Masculina"
+        ], 
+        "nome": "BINA MODAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5378884, 
+                "lng": -46.6198257
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2292-8731", 
+            "En_CEP": "03016-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Oriente, 243", 
+            "En_Num": "243", 
+            "En_Nome_Logradouro": "R. Oriente", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Madeiras"
+        ], 
+        "nome": "C.R.W COM\u00c9RCIO DE ARTEFATOS DE MADEIRAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5444662, 
+                "lng": -46.6247525
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3227-3477", 
+            "En_CEP": "03004-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua do Gas\u00f4metro, 157", 
+            "En_Num": "157", 
+            "En_Nome_Logradouro": "Rua do Gas\u00f4metro", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Enxoval"
+        ], 
+        "nome": "BEB\u00ca MAGAZINE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5405007, 
+                "lng": -46.6158476
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-6877", 
+            "En_CEP": "03012-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Ministro Firmino Whitaker, 123", 
+            "En_Num": "123", 
+            "En_Nome_Logradouro": "R. Min. Firmino Whitaker", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Esportiva"
+        ], 
+        "nome": "MYMO TEX", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5318596, 
+                "lng": -46.6141146
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2694-9912", 
+            "En_CEP": "03018-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Coronel Em\u00eddio Piedade, 93", 
+            "En_Num": "93", 
+            "En_Nome_Logradouro": "R. Cel. Em\u00eddio Piedade", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Evang\u00e9lica"
+        ], 
+        "nome": "CHECHIG MODA EVANG\u00c9LICA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.533318, 
+                "lng": -46.61283539999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3694-4204", 
+            "En_CEP": "03017", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bresser, 199", 
+            "En_Num": "199", 
+            "En_Nome_Logradouro": "R. Bresser", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Evang\u00e9lica"
+        ], 
+        "nome": "CONFEC\u00c7\u00c3O MAIS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5375386, 
+                "lng": -46.6177532
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2081-4447", 
+            "En_CEP": "03011-011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Miller, 441", 
+            "En_Num": "441", 
+            "En_Nome_Logradouro": "R. Miler", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias"
+        ], 
+        "nome": "ADRIANO BIJOUTERIAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.53787, 
+                "lng": -46.6224988
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3315-0134", 
+            "En_CEP": "03009-100", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Monsenhor Andrade, 879 - Loja 500", 
+            "En_Num": "879", 
+            "En_Nome_Logradouro": "R. Monsenhor Andrade", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Feminina"
+        ], 
+        "nome": "7 GROUS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5367595, 
+                "lng": -46.61764789999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3315-9543", 
+            "En_CEP": "03011-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Miller, 528", 
+            "En_Num": "528", 
+            "En_Nome_Logradouro": "R. Miler", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Esportiva"
+        ], 
+        "nome": "AGATHA ESPORTE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5318114, 
+                "lng": -46.6154133
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2698-0538", 
+            "En_CEP": "03027-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mendes Gon\u00e7alves, 377", 
+            "En_Num": "377", 
+            "En_Nome_Logradouro": "R. Mendes Gon\u00e7alves", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Expositores, manequins"
+        ], 
+        "nome": "BRECH\u00d3 DO LOJISTA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5344853, 
+                "lng": -46.6248459
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3229-9549", 
+            "En_CEP": "03009", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jo\u00e3o Teodoro, 806", 
+            "En_Num": "806", 
+            "En_Nome_Logradouro": "R. Jo\u00e3o Teodoro", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Servi\u00e7os"
+        ], 
+        "nome": "B. CAMARGO JARDINAGEM", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5312794, 
+                "lng": -46.62124439999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Canind\u00e9", 
+            "telefonePublico": "(11) 3228-4995", 
+            "En_CEP": "03032", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Vautier, 429", 
+            "En_Num": "429", 
+            "En_Nome_Logradouro": "Av. Vautier", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos para lojas"
+        ], 
+        "nome": "ART FINAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.537853, 
+                "lng": -46.6214813
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3326-3495", 
+            "En_CEP": "03016-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Oriente, 61", 
+            "En_Num": "61", 
+            "En_Nome_Logradouro": "R. Oriente", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias"
+        ], 
+        "nome": "BR COAST", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5354718, 
+                "lng": -46.6188318
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "", 
+            "En_CEP": "03009", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Jo\u00e3o Teodoro, 1424", 
+            "En_Num": "1424", 
+            "En_Nome_Logradouro": "R. Jo\u00e3o Teodoro", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Madeiras"
+        ], 
+        "nome": "ANDRESSA MODAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5396825, 
+                "lng": -46.6123835
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2081-3402", 
+            "En_CEP": "03017-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Dr. Manoel Vitorino, 37", 
+            "En_Num": "37", 
+            "En_Nome_Logradouro": "Rua Dr. Manoel Vitorino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Surfwear"
+        ], 
+        "nome": "ART CRAFT", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5367351, 
+                "lng": -46.61910659999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3313-5075", 
+            "En_CEP": "03010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bar\u00e3o de Lad\u00e1rio, 621", 
+            "En_Num": "621", 
+            "En_Nome_Logradouro": "R. Bar\u00e3o de Lad\u00e1rio", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda \u00cdntima"
+        ], 
+        "nome": "BOX MARAVILHAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5340031, 
+                "lng": -46.6123716
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2698-6393", 
+            "En_CEP": "03017", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bresser, 292", 
+            "En_Num": "292", 
+            "En_Nome_Logradouro": "R. Bresser", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Jeans", 
+            "Moda Masculina"
+        ], 
+        "nome": "BIOTIPO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5335596, 
+                "lng": -46.6155273
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "biotipo@biotipo.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2698-0111", 
+            "En_CEP": "03013-011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mendes J\u00fanior, 629", 
+            "En_Num": "629", 
+            "En_Nome_Logradouro": "R. Mendes J\u00fanior", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos"
+        ], 
+        "nome": "ARMARINHO 25", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5323853, 
+                "lng": -46.6139483
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2790-2525", 
+            "En_CEP": "03017", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bresser, 41", 
+            "En_Num": "41", 
+            "En_Nome_Logradouro": "R. Bresser", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Noivas"
+        ], 
+        "nome": "ATUAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5347679, 
+                "lng": -46.6322039
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Luz", 
+            "telefonePublico": "(11) 3227-4031", 
+            "En_CEP": "01104", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua S\u00e3o Caetano, 86/90", 
+            "En_Num": "86", 
+            "En_Nome_Logradouro": "R. S\u00e3o Caetano", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos"
+        ], 
+        "nome": "ARMARINHOS FERNANDO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5411152, 
+                "lng": -46.6143826
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "arfer@armarinhos-fernando.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2081-8350", 
+            "En_CEP": "03011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Marcolina, 48/ 54", 
+            "En_Num": "48", 
+            "En_Nome_Logradouro": "R. Maria Marcolina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda \u00cdntima"
+        ], 
+        "nome": "ACTRESS CONFEC\u00c7\u00d5ES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.538946, 
+                "lng": -46.6162021
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2081-5196", 
+            "En_CEP": "03011-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Marcolina , 347/349/351", 
+            "En_Num": "347", 
+            "En_Nome_Logradouro": "R. Maria Marcolina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Bijuterias"
+        ], 
+        "nome": "CAFELATTE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "telefonePublico": "(11) 3311-2464", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Julio Ribeiro, 243 - Shopping Mega Polo, 1\u00ba Andar, Loja 128", 
+            "emailPublico": "", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Madeiras"
+        ], 
+        "nome": "A.G MADEIRAS E FERRAGENS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5437059, 
+                "lng": -46.62097070000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3327-6811", 
+            "En_CEP": "03004", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua do Gas\u00f4metro, 557", 
+            "En_Num": "557", 
+            "En_Nome_Logradouro": "Rua do Gas\u00f4metro", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Evang\u00e9lica"
+        ], 
+        "nome": "BEST DAYS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5376268, 
+                "lng": -46.6146418
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2291-9111", 
+            "En_CEP": "03016-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Oriente, 775", 
+            "En_Num": "775", 
+            "En_Nome_Logradouro": "R. Oriente", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Esportiva"
+        ], 
+        "nome": "MGG SPORT", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5405193, 
+                "lng": -46.6125055
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2694-4993", 
+            "En_CEP": "03002", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Rangel Pestana, 2428", 
+            "En_Num": "2428", 
+            "En_Nome_Logradouro": "Av. Rangel Pestana", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Surfwear"
+        ], 
+        "nome": "ELZA MODAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5395565, 
+                "lng": -46.6192676
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2291-5265", 
+            "En_CEP": "03010-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Juta, 361", 
+            "En_Num": "361", 
+            "En_Nome_Logradouro": "R. da Juta", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos para lojas", 
+            "Expositores, manequins"
+        ], 
+        "nome": "CASA DAS ARARAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.536718, 
+                "lng": -46.6128666
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "casadasararas@casadasararas.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2694-8621", 
+            "En_CEP": "03013-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mendes J\u00fanior, 166", 
+            "En_Num": "166", 
+            "En_Nome_Logradouro": "R. Mendes J\u00fanior", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Servi\u00e7os"
+        ], 
+        "nome": "ARTE & CIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5322833, 
+                "lng": -46.615493
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Pari", 
+            "telefonePublico": "(11) 2692-3392", 
+            "En_CEP": "03013-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mendes Junior, 747", 
+            "En_Num": "747", 
+            "En_Nome_Logradouro": "R. Mendes J\u00fanior", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda GG"
+        ], 
+        "nome": "ANDIRAMIR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5380219, 
+                "lng": -46.6142708
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2291-8303", 
+            "En_CEP": "03012", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Conselheiro Belisario, 501", 
+            "En_Num": "501", 
+            "En_Nome_Logradouro": "R. Conselheiro Belis\u00e1rio", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda \u00cdntima"
+        ], 
+        "nome": "CASA AM\u00c9RICA CONFEC\u00c7\u00d5ES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5394194, 
+                "lng": -46.612049
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2695-9502", 
+            "En_CEP": "03017-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Dr. Manoel Vitorino, 88", 
+            "En_Num": "88", 
+            "En_Nome_Logradouro": "Rua Dr. Manoel Vitorino", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Malas e Bolsas"
+        ], 
+        "nome": "CAKKI", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5390521, 
+                "lng": -46.6160413
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "faleconosco@cakki.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2618-1650", 
+            "En_CEP": "03011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Marcolina, 334/338", 
+            "En_Num": "334", 
+            "En_Nome_Logradouro": "R. Maria Marcolina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Surfwear"
+        ], 
+        "nome": "FENOMENAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5377001, 
+                "lng": -46.6085448
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "vendas@fenomenal.com.br", 
+            "En_Bairro": "Bel\u00e9m", 
+            "telefonePublico": "(11) 2081-7800", 
+            "En_CEP": "03017-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bresser, 866", 
+            "En_Num": "866", 
+            "En_Nome_Logradouro": "R. Bresser", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Praia"
+        ], 
+        "nome": "LOJA NOVA ORIENTE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5378658, 
+                "lng": -46.6144463
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2692-4412", 
+            "En_CEP": "03016", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Oriente, 788", 
+            "En_Num": "788", 
+            "En_Nome_Logradouro": "R. Oriente", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Esportiva"
+        ], 
+        "nome": "LIFE SPORT", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5338795, 
+                "lng": -46.6001805
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Pari", 
+            "telefonePublico": "(11) 2694-2657", 
+            "En_CEP": "03024", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Cachoeira, 109", 
+            "En_Num": "109", 
+            "En_Nome_Logradouro": "R. Cachoeira", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Esportiva"
+        ], 
+        "nome": "MALHARIA BAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5376012, 
+                "lng": -46.61607370000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2692-8907", 
+            "En_CEP": "03016-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Oriente, 621", 
+            "En_Num": "621", 
+            "En_Nome_Logradouro": "R. Oriente", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Sacaria"
+        ], 
+        "nome": "ALV", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5303631, 
+                "lng": -46.620832
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Canind\u00e9", 
+            "telefonePublico": "(11) 3228-7917", 
+            "En_CEP": "03032", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Vautier, 536", 
+            "En_Num": "536", 
+            "En_Nome_Logradouro": "Av. Vautier", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cama, mesa e banho"
+        ], 
+        "nome": "AZOR - TEX", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5378912, 
+                "lng": -46.6202749
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3227-2708", 
+            "En_CEP": "03016-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Oriente, 197", 
+            "En_Num": "197", 
+            "En_Nome_Logradouro": "R. Oriente", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Artigos para lojas"
+        ], 
+        "nome": "DEP\u00d3SITO LIDO - ARTIGOS PARA BARBEIRO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5397149, 
+                "lng": -46.6127002
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2291-5477", 
+            "En_CEP": "03012-040", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Dr. Ricardo Gon\u00e7alves, 76", 
+            "En_Num": "76", 
+            "En_Nome_Logradouro": "R. Dr. Ricardo Gon\u00e7alves", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Jovem"
+        ], 
+        "nome": "AIR WAVES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5381274, 
+                "lng": -46.620781
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3228-2889", 
+            "En_CEP": "03016", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Oriente, 138", 
+            "En_Num": "138", 
+            "En_Nome_Logradouro": "R. Oriente", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Servi\u00e7os"
+        ], 
+        "nome": "ART`S MEDICINA - EXAMES ADMISSIONAIS E PERI\u00d3DICOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5422563, 
+                "lng": -46.6150649
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "contato@artsmedicina.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2081-0646", 
+            "En_CEP": "03002", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Rangel Pestana, 2.102", 
+            "En_Num": "2102", 
+            "En_Nome_Logradouro": "Av. Rangel Pestana", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Couro e Assessorios"
+        ], 
+        "nome": "BRASIL COUROS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5458754, 
+                "lng": -46.6220791
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3229-1938", 
+            "En_CEP": "03001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Rangel Pestana, 1281", 
+            "En_Num": "1281", 
+            "En_Nome_Logradouro": "Av. Rangel Pestana", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Jeans"
+        ], 
+        "nome": "BEM BOLADO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5569243, 
+                "lng": -46.6310677
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "S\u00e9", 
+            "telefonePublico": "(11) 2886-6378", 
+            "En_CEP": "01513", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "1\u00ba Andar - Loja 184", 
+            "En_Num": "184", 
+            "En_Nome_Logradouro": "R. S\u00e3o Paulo", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "EMBALAGENS S\u00c3O JORGE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5405133, 
+                "lng": -46.6250472
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3229-4777", 
+            "En_CEP": "03006-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Prof\u00ba. Eur\u00edpedes Sim\u00f5es de Paula, 343", 
+            "En_Num": "343", 
+            "En_Nome_Logradouro": "R. Prof. Eur\u00edpedes Sim\u00f5es de Paula", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Evang\u00e9lica"
+        ], 
+        "nome": "CIED JEANS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5391864, 
+                "lng": -46.6092538
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2618-2987", 
+            "En_CEP": "03015-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Celso Gorcia, 321", 
+            "En_Num": "321", 
+            "En_Nome_Logradouro": "Av. Celso Garcia", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alimentos"
+        ], 
+        "nome": "BRACERES DISTRIBUIDORA DE ALIMENTOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5414743, 
+                "lng": -46.6254517
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3229-7511", 
+            "En_CEP": "03006-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Beijamim de Oliveira, 152/ 156", 
+            "En_Num": "152", 
+            "En_Nome_Logradouro": "Rua Benjamim de Oliveira", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Noivas"
+        ], 
+        "nome": "CANDY", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5487251, 
+                "lng": -46.630544
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3229-6558", 
+            "En_CEP": "01021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua S\u00e3o Caetano, 85", 
+            "En_Num": "85", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Madeiras"
+        ], 
+        "nome": "CENTROMAD COM\u00c9RCIO DE MADEIRAS E FERRAGENS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5461515, 
+                "lng": -46.6250238
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3229-9888", 
+            "En_CEP": "03003-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Domitila, 148", 
+            "En_Num": "148", 
+            "En_Nome_Logradouro": "R. Maria Domitila", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Aviamentos"
+        ], 
+        "nome": "BOTALL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5323022, 
+                "lng": -46.61545599999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2694-1350", 
+            "En_CEP": "03013-011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mendes J\u00fanior, 744", 
+            "En_Num": "744", 
+            "En_Nome_Logradouro": "R. Mendes J\u00fanior", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cama, mesa e banho"
+        ], 
+        "nome": "BRAZ FABRIL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5399107, 
+                "lng": -46.6156122
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2291-6888", 
+            "En_CEP": "03011-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Marcolina, 225/ 231/ 241", 
+            "En_Num": "225", 
+            "En_Nome_Logradouro": "R. Maria Marcolina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Noivas"
+        ], 
+        "nome": "ATHELIER DAS NOIVAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5485533, 
+                "lng": -46.6306228
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3227-6645", 
+            "En_CEP": "01021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua S\u00e3o Caetano, 103", 
+            "En_Num": "103", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Enxoval"
+        ], 
+        "nome": "ANDERSON ATACADO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5327118, 
+                "lng": -46.61453789999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "anderson@andersonatacado.com.br", 
+            "En_Bairro": "Pari", 
+            "telefonePublico": "(11) 2618-4890", 
+            "En_CEP": "03027-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Mendes Gon\u00e7alves, 243/ 285/ 295/ 305", 
+            "En_Num": "243", 
+            "En_Nome_Logradouro": "R. Mendes Gon\u00e7alves", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Jeans"
+        ], 
+        "nome": "BI ROCK", 
+        "location": {
+            "coordinates": {
+                "lat": -23.556791, 
+                "lng": -46.6300273
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "S\u00e9", 
+            "telefonePublico": "(11) 2886-6433", 
+            "En_CEP": "01513", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "2\u00ba Andar - Loja 291", 
+            "En_Num": "291", 
+            "En_Nome_Logradouro": "R. S\u00e3o Paulo", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Tecidos e Retalhos"
+        ], 
+        "nome": "AMANDA TECIDOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.532965, 
+                "lng": -46.6091511
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2694-2989", 
+            "En_CEP": "03023", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Rio Bonito, 475", 
+            "En_Num": "475", 
+            "En_Nome_Logradouro": "R. Rio Bonito", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Surfwear"
+        ], 
+        "nome": "AMIR CAMUFLADOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5392719, 
+                "lng": -46.6191831
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "cadastro@amircamuflados.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2695-4877", 
+            "En_CEP": "03010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bar\u00e3o de Ladario, 331", 
+            "En_Num": "331", 
+            "En_Nome_Logradouro": "R. Bar\u00e3o de Lad\u00e1rio", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cama, mesa e banho"
+        ], 
+        "nome": "ANA PAULA ENXOVAIS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5383067, 
+                "lng": -46.6162342
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "Site: http://www.enxovaisanapaula.com.br", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2694-3998", 
+            "En_CEP": "03011-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Marcolina, 411", 
+            "En_Num": "411", 
+            "En_Nome_Logradouro": "R. Maria Marcolina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Embalagens"
+        ], 
+        "nome": "CAIXAS DE PAPEL\u00c3O DEISE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5436463, 
+                "lng": -46.6253853
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3326-2445", 
+            "En_CEP": "03005-020", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Assun\u00e7\u00e3o, 120", 
+            "En_Num": "120", 
+            "En_Nome_Logradouro": "R. Assun\u00e7\u00e3o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Infantil", 
+            "Moda Jovem"
+        ], 
+        "nome": "AMAZONAS CONFEC\u00c7\u00d5ES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5396994, 
+                "lng": -46.6132555
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2693-5646", 
+            "En_CEP": "03012-050", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Visconde de Abaet\u00e9, 196", 
+            "En_Num": "196", 
+            "En_Nome_Logradouro": "R. Visc. de Abaet\u00e9", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Expositores, manequins"
+        ], 
+        "nome": "ART NOVA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5439906, 
+                "lng": -46.6326183
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "manequinsartnova@uol.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3311-6532", 
+            "En_CEP": "01021-200", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua S\u00e3o Caetano, 659", 
+            "En_Num": "659", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Praia"
+        ], 
+        "nome": "LIQUIDO- PRAIA E AER\u00d3BICA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5383799, 
+                "lng": -46.6160902
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2695-7835", 
+            "En_CEP": "03011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Marcolina, 410/ 412", 
+            "En_Num": "410", 
+            "En_Nome_Logradouro": "R. Maria Marcolina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Noivas"
+        ], 
+        "nome": "BOULEVARD", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5488459, 
+                "lng": -46.6304477
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3229-3751", 
+            "En_CEP": "01021", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua S\u00e3o Caetano, 72", 
+            "En_Num": "72", 
+            "En_Nome_Logradouro": "Rua 25 de Mar\u00e7o", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Esportiva"
+        ], 
+        "nome": "JYZ SPORTS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5385539, 
+                "lng": -46.6162323
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 3326-9725", 
+            "En_CEP": "03011-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Marcolina, 389", 
+            "En_Num": "389", 
+            "En_Nome_Logradouro": "R. Maria Marcolina", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda \u00cdntima"
+        ], 
+        "nome": "CASA DAS CAMISOLAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.542184, 
+                "lng": -46.6073548
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2695-8556", 
+            "En_CEP": "03047", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Bresser, 1372", 
+            "En_Num": "1372", 
+            "En_Nome_Logradouro": "R. Bresser", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Moda Infantil"
+        ], 
+        "nome": "ALAN", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5409679, 
+                "lng": -46.61451599999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Br\u00e1s", 
+            "emailPublico": "", 
+            "En_Bairro": "Br\u00e1s", 
+            "telefonePublico": "(11) 2796-0376", 
+            "En_CEP": "03011", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Maria Marcolina, 68", 
+            "En_Num": "68", 
+            "En_Nome_Logradouro": "R. Maria Marcolina", 
+            "En_Estado": "SP"
+        }
+    }
+]

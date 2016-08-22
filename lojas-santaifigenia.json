@@ -1,0 +1,4559 @@
+[
+    {
+        "segmentos": [
+            "Ferramentas"
+        ], 
+        "nome": "BAUXITA ELETRO PORCELANA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5379333, 
+                "lng": -46.6380205
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3331-2639", 
+            "En_CEP": "01208", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Andradas, 250", 
+            "En_Num": "250", 
+            "En_Nome_Logradouro": "R. dos Andradas", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Assistencia T\u00e9cnica"
+        ], 
+        "nome": "BID. ELETR\u00d4NICA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5381205, 
+                "lng": -46.6382087
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3221-9267", 
+            "En_CEP": "01208-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Andradas, 241", 
+            "En_Num": "241", 
+            "En_Nome_Logradouro": "R. dos Andradas", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Seguran\u00e7a"
+        ], 
+        "nome": "FOCO IMAGEM", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5394728, 
+                "lng": -46.6377904
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3331-5515", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "RUA DOS TIMBIRAS, 135", 
+            "En_Num": "135", 
+            "En_Nome_Logradouro": "R. dos Timbiras", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "C\u00e2meras Digitais"
+        ], 
+        "nome": "DIGITAL PLANET", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5379294, 
+                "lng": -46.6393561
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3224-0514", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 452 - Loja 03", 
+            "En_Num": "452", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cartuchos"
+        ], 
+        "nome": "F & R PRINTER", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5386181, 
+                "lng": -46.64003049999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "frprinter@hotmail.com", 
+            "En_Bairro": "Jardim Ataliba Leonel", 
+            "telefonePublico": "(11) 3331-7789", 
+            "En_CEP": "02324-250", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Vit\u00f3ria, 361/365", 
+            "En_Num": "361", 
+            "En_Nome_Logradouro": "R. Vit\u00f3ria", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Componentes"
+        ], 
+        "nome": "BERNARDINO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.539393, 
+                "lng": -46.6416814
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Jardim Ataliba Leonel", 
+            "telefonePublico": "(11) 3331-2193", 
+            "En_CEP": "02324-250", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Vit\u00f3ria, 554", 
+            "En_Num": "554", 
+            "En_Nome_Logradouro": "R. Vit\u00f3ria", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cabos"
+        ], 
+        "nome": "BACKDOOR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5389878, 
+                "lng": -46.6389703
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "vendas@backdoorcabos.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3222-3856", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 355 - Loja 14", 
+            "En_Num": "355", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "C\u00e2meras Digitais"
+        ], 
+        "nome": "FJ C\u00c2MERA DIGITAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5379294, 
+                "lng": -46.6393561
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3224-8537", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 452/470 - Loja 34", 
+            "En_Num": "452", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Assistencia T\u00e9cnica"
+        ], 
+        "nome": "CLAUTEC ELETR\u00d4NICA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5391574, 
+                "lng": -46.6385297
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3333-0988", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 308 - 2\u00ba Andar - Loja 21", 
+            "En_Num": "308", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cartuchos"
+        ], 
+        "nome": "INFO PRESS COMPUTER", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5409758, 
+                "lng": -46.6376132
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3326-1017", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 73 - Loja 51", 
+            "En_Num": "73", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Ilumina\u00e7\u00e3o"
+        ], 
+        "nome": "DECOMAC", 
+        "location": {
+            "coordinates": {
+                "lat": -23.537022, 
+                "lng": -46.6389711
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "decomac@decomac.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3333-3174", 
+            "En_CEP": "01208-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Andradas, 382 - SL", 
+            "En_Num": "382", 
+            "En_Nome_Logradouro": "R. dos Andradas", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Eletr\u00f4nicos"
+        ], 
+        "nome": "A.D. ELETR\u00d4NICOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5409758, 
+                "lng": -46.6376132
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3313-4009", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "RUA SANTA IFIG\u00caNIA, 73, LJ 53", 
+            "En_Num": "73", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Ilumina\u00e7\u00e3o"
+        ], 
+        "nome": "SANJAR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5401234, 
+                "lng": -46.6385222
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "sanjariluminacao@gmail.com", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3331-6684", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Timbiras, 239 - Loja 12", 
+            "En_Num": "239", 
+            "En_Nome_Logradouro": "R. dos Timbiras", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cabos"
+        ], 
+        "nome": "CIRILONET", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5386769, 
+                "lng": -46.6383786
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "cirilosouza@ig.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3333-2883", 
+            "En_CEP": "01209", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora, 178 - Loja 24", 
+            "En_Num": "178", 
+            "En_Nome_Logradouro": "R. Aurora", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Ferramentas"
+        ], 
+        "nome": "MRE FERRAMENTAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5387611, 
+                "lng": -46.6387911
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "vendas@mreferramentas.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3223-3366", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 358 - Loja 05", 
+            "En_Num": "358", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "M\u00eddias Cds e Dvds"
+        ], 
+        "nome": "AM\u00c9RICA M\u00cdDIAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5395693, 
+                "lng": -46.63847390000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "vandinho_2005@hotmail.com", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3361-4683", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 257 - Loja 10", 
+            "En_Num": "257", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alarmes e CFTV"
+        ], 
+        "nome": "CASTRO SEGURANCA IMAGEM", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5400005, 
+                "lng": -46.6382151
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "emailPublico": "sac@castrosegurancaimagem.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3223-1945", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifigenia, 211/213", 
+            "En_Num": "211", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Games"
+        ], 
+        "nome": "B.G.A GAMES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5393525, 
+                "lng": -46.6383957
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3221-5578", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 276 - Loja 13B", 
+            "En_Num": "276", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "El\u00e9trica"
+        ], 
+        "nome": "ELBRAN", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5358977, 
+                "lng": -46.6412323
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "sac@elbran.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3226-0107", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 749", 
+            "En_Num": "749", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Ilumina\u00e7\u00e3o"
+        ], 
+        "nome": "PAULISTA L\u00c2MPADAS ESPECIAIS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.540879, 
+                "lng": -46.637764
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "paulista_lamp@uol.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3229-5399", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 99", 
+            "En_Num": "99", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Componentes"
+        ], 
+        "nome": "ALPHA SAT", 
+        "location": {
+            "coordinates": {
+                "lat": -23.537023, 
+                "lng": -46.6372965
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Jardim Ataliba Leonel", 
+            "telefonePublico": "(11) 3224-0981", 
+            "En_CEP": "02324-250", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Vit\u00f3ria, 35", 
+            "En_Num": "35", 
+            "En_Nome_Logradouro": "R. Vit\u00f3ria", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "M\u00eddias Cds e Dvds"
+        ], 
+        "nome": "BOX MULTIMIDIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5372181, 
+                "lng": -46.6401781
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3361-6592", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 573 - Loja 04", 
+            "En_Num": "573", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "M\u00eddias Cds e Dvds"
+        ], 
+        "nome": "AUDIO POWER GAMES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5393977, 
+                "lng": -46.6383684
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "poweraudiogames_@hotmail.com", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3362-8973", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 270 - Loja 13", 
+            "En_Num": "270", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "El\u00e9trica"
+        ], 
+        "nome": "CASA DO ELETRICISTA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.541341, 
+                "lng": -46.63715180000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "eletricista21@terra.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3229-5907", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 21", 
+            "En_Num": "21", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Notebooks"
+        ], 
+        "nome": "E-PLACE INFORM\u00c1TICA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5383858, 
+                "lng": -46.6380027
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "vendas@eplace.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3361-5818", 
+            "En_CEP": "01208-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Andradas, 215", 
+            "En_Num": "215", 
+            "En_Nome_Logradouro": "R. dos Andradas", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cartuchos"
+        ], 
+        "nome": "CLX CARTUCHOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5386246, 
+                "lng": -46.6380271
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3333-2095", 
+            "En_CEP": "01209-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora, 133", 
+            "En_Num": "133", 
+            "En_Nome_Logradouro": "R. Aurora", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cartuchos"
+        ], 
+        "nome": "CENTRAL M\u00cdDIAS E CARTUCHOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5432423, 
+                "lng": -46.6348794
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3328-6837", 
+            "En_CEP": "01033-050", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "viaduto Santa Ifig\u00eania, 70 - Loja 419", 
+            "En_Num": "70", 
+            "En_Nome_Logradouro": "Viaduto Santa Efig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Componentes"
+        ], 
+        "nome": "BRISBAN", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5399848, 
+                "lng": -46.6381256
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3311-7886", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 195 lj. 01", 
+            "En_Num": "195", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cartuchos"
+        ], 
+        "nome": "BRASIL JET", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5378396, 
+                "lng": -46.6397141
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "brasil.jet@hotmail.com", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3222-0223", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 485 - Loja 11/12", 
+            "En_Num": "485", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Celulares"
+        ], 
+        "nome": "CELULAR EXPRESS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5409758, 
+                "lng": -46.6376132
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3338-1115", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 73 - Loja 60", 
+            "En_Num": "73", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Games"
+        ], 
+        "nome": "BIA GAMES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5397078, 
+                "lng": -46.637908
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3333-1799", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 218 - Loja 23", 
+            "En_Num": "218", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Telefonia"
+        ], 
+        "nome": "ELETRO FAAT", 
+        "location": {
+            "coordinates": {
+                "lat": -23.538744, 
+                "lng": -46.6392342
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3331-6898", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 389", 
+            "En_Num": "389", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Celulares"
+        ], 
+        "nome": "GSM GLOBAL TELECOM", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5386769, 
+                "lng": -46.6383786
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "maich01@hotmail.com", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3338-2632", 
+            "En_CEP": "01209", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora, 178 - Loja 26", 
+            "En_Num": "178", 
+            "En_Nome_Logradouro": "R. Aurora", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Ferramentas"
+        ], 
+        "nome": "MALLA FERRAMENTAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5386779, 
+                "lng": -46.6383411
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "emailPublico": "mallaferramentas@hotmail.com", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3361-6768", 
+            "En_CEP": "01209", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora,162 - Loja 162", 
+            "En_Num": "162", 
+            "En_Nome_Logradouro": "R. Aurora", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "C\u00e2meras Digitais"
+        ], 
+        "nome": "DIGITAL MANIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5397078, 
+                "lng": -46.637908
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3331-8244", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 218 - Loja 01", 
+            "En_Num": "218", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Telefonia"
+        ], 
+        "nome": "GV TEL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5409672, 
+                "lng": -46.6373205
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3313-7551", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 64 - Loja d2", 
+            "En_Num": "64", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Celulares"
+        ], 
+        "nome": "HEXA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3223-4940", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 218 - box 16", 
+            "emailPublico": "micro-data@ig.com.br", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Telefonia"
+        ], 
+        "nome": "J FEICELL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3337-1091", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora, 263 - Box TIM", 
+            "emailPublico": "j.feicell@hotmail.com", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Audio e Video"
+        ], 
+        "nome": "CHEDA\u00b4S", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5371655, 
+                "lng": -46.6388475
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "vendas@chedas.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3221-4499", 
+            "En_CEP": "01208", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Andradas, 364", 
+            "En_Num": "364", 
+            "En_Nome_Logradouro": "R. dos Andradas", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "M\u00eddias Cds e Dvds"
+        ], 
+        "nome": "A UNIVERSAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.541052, 
+                "lng": -46.6383484
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Rep\u00fablica", 
+            "telefonePublico": "(11) 3312-1500", 
+            "En_CEP": "01040", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Ipiranga, 1084", 
+            "En_Num": "1084", 
+            "En_Nome_Logradouro": "Av. Ipiranga", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cabos"
+        ], 
+        "nome": "A SOLU\u00c7\u00c3O", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3335-6076", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 452 - box 8", 
+            "emailPublico": "", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Telefonia"
+        ], 
+        "nome": "BR R\u00c1DIO COMUNICA\u00c7\u00c3O", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5369895, 
+                "lng": -46.6404594
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "brradiocomunicacao@hotmail.com", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3334-0233", 
+            "En_CEP": "01213", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 611 - Loja 22", 
+            "En_Num": "611", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cartuchos"
+        ], 
+        "nome": "CARTUCHOS FAST PRINTER", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5376239, 
+                "lng": -46.6395885
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3333-3425", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 502 - Loja 26/28", 
+            "En_Num": "502", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Ferramentas"
+        ], 
+        "nome": "PLANETA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5368017, 
+                "lng": -46.6407519
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "planetasf@terra.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3333-1306", 
+            "En_CEP": "01213-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua General Os\u00f3rio, 240", 
+            "En_Num": "240", 
+            "En_Nome_Logradouro": "R. Gen. Os\u00f3rio", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Som Automotivo"
+        ], 
+        "nome": "CAR SOUND", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5397186, 
+                "lng": -46.640384
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Campos El\u00edseos", 
+            "telefonePublico": "(11) 3331-0100", 
+            "En_CEP": "01205", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Rio Branco, 373", 
+            "En_Num": "373", 
+            "En_Nome_Logradouro": "Av. Rio Branco", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Eletr\u00f4nicos"
+        ], 
+        "nome": "A S ELETR\u00d4NICOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.53948, 
+                "lng": -46.6382842
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3338-2640", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "RUA SANTA IFIGENIA, 260 - LOJA 10", 
+            "En_Num": "260", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "C\u00e2meras Digitais"
+        ], 
+        "nome": "CARIOCA STAR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5401529, 
+                "lng": -46.6379692
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3227-1516", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 180 - Loja 04", 
+            "En_Num": "180", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Inform\u00e1tica"
+        ], 
+        "nome": "A.T.I INFORMATICA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.53948, 
+                "lng": -46.6382842
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "emailPublico": "atistaefigenia@hotmail.com", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 33335661", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifigenia, 260 - Loja 04", 
+            "En_Num": "260", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Notebooks"
+        ], 
+        "nome": "FAST SOLUTIONS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5387985, 
+                "lng": -46.6385128
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3337-3200", 
+            "En_CEP": "01209", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora, 182 - Loja 06", 
+            "En_Num": "182", 
+            "En_Nome_Logradouro": "R. Aurora", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Notebooks"
+        ], 
+        "nome": "ALTA COMPUTADORES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.537948, 
+                "lng": -46.6389736
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "info@altacomputadores.com.br", 
+            "En_Bairro": "Jardim Ataliba Leonel", 
+            "telefonePublico": "(11) 3331-9278", 
+            "En_CEP": "02324-250", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Vit\u00f3ria, 253 - Loja 216", 
+            "En_Num": "253", 
+            "En_Nome_Logradouro": "R. Vit\u00f3ria", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "M\u00eddias Cds e Dvds"
+        ], 
+        "nome": "AM\u00c9RICA CDS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5419564, 
+                "lng": -46.6363306
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3326-7288", 
+            "En_CEP": "01032", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Viaduto Santa Ifig\u00eania, 287 - Loja 04", 
+            "En_Num": "287", 
+            "En_Nome_Logradouro": "Viaduto Santa Efig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alarmes e CFTV", 
+            "Seguran\u00e7a"
+        ], 
+        "nome": "AKITEM", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5368985, 
+                "lng": -46.6404656
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3225-9499", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "RUA SANTA IFIG\u00caNIA, 619", 
+            "En_Num": "619", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alarmes e CFTV", 
+            "Seguran\u00e7a"
+        ], 
+        "nome": "DISCONLINE ELETR\u00d4NICA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5400365, 
+                "lng": -46.6388323
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3225-2000", 
+            "En_CEP": "01208-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "RUA DOS TIMBIRAS, 260", 
+            "En_Num": "260", 
+            "En_Nome_Logradouro": "R. dos Timbiras", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Som Automotivo"
+        ], 
+        "nome": "ACOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5401529, 
+                "lng": -46.6379692
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3311-6160", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 180 - Loja 01", 
+            "En_Num": "180", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Inform\u00e1tica"
+        ], 
+        "nome": "ALFACOMP MANUTEN\u00c7OES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5367475, 
+                "lng": -46.6387778
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "alfacomp@bol.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 6839-9663", 
+            "En_CEP": "01208", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Gusmoes, 231", 
+            "En_Num": "231", 
+            "En_Nome_Logradouro": "R. dos Gusm\u00f5es", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alarmes e CFTV", 
+            "Seguran\u00e7a"
+        ], 
+        "nome": "CENTRAL SANTA IFIG\u00caNIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.539199, 
+                "lng": -46.6374607
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3338-1313", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Timbiras, 97", 
+            "En_Num": "97", 
+            "En_Nome_Logradouro": "R. dos Timbiras", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cartuchos"
+        ], 
+        "nome": "ARTINK", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5400406, 
+                "lng": -46.6379396
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "art_ink@terra.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3228-6569", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 184 2o andar sl. 22", 
+            "En_Num": "184", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Ilumina\u00e7\u00e3o"
+        ], 
+        "nome": "BLACK WHITE ILUMINA\u00c7\u00c3O", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5364483, 
+                "lng": -46.64076499999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "camila@bwiluminacao.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3132-9099", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 675", 
+            "En_Num": "675", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Ilumina\u00e7\u00e3o"
+        ], 
+        "nome": "ELO ILUMINA\u00c7\u00c3O PROFISSIONAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5378412, 
+                "lng": -46.63900539999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "anderson@eloiluminacao.com.br", 
+            "En_Bairro": "Jardim Ataliba Leonel", 
+            "telefonePublico": "(11) 3357-4000", 
+            "En_CEP": "02324-250", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Vit\u00f3ria, 222", 
+            "En_Num": "222", 
+            "En_Nome_Logradouro": "R. Vit\u00f3ria", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Inform\u00e1tica"
+        ], 
+        "nome": "ABB", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5408337, 
+                "lng": -46.6373751
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3313-5994", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 84/86", 
+            "En_Num": "84", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Audio e Video"
+        ], 
+        "nome": "ARCSOM", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5374465, 
+                "lng": -46.63875520000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3337-7054", 
+            "En_CEP": "01208-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Andradas, 333", 
+            "En_Num": "333", 
+            "En_Nome_Logradouro": "R. dos Andradas", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Som Automotivo"
+        ], 
+        "nome": "ATLANTA FALANTES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5395192, 
+                "lng": -46.6385102
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3361-7453", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 265 - Sala 15", 
+            "En_Num": "265", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "M\u00eddias Cds e Dvds"
+        ], 
+        "nome": "CD ALIAN\u00c7A", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5399848, 
+                "lng": -46.6381256
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3228-3861", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 195 - Loja 28", 
+            "En_Num": "195", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Assistencia T\u00e9cnica"
+        ], 
+        "nome": "C-LINE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5409758, 
+                "lng": -46.6376132
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3229-7130", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 73 - Loja 21", 
+            "En_Num": "73", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Notebooks"
+        ], 
+        "nome": "BOOKCENTER", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5369918, 
+                "lng": -46.639481
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "edilson@hotmail.com", 
+            "En_Bairro": "Rep\u00fablica", 
+            "telefonePublico": "(11) 3337-1745", 
+            "En_CEP": "01212", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Gusm\u00f5es, 310 - Loja 06", 
+            "En_Num": "310", 
+            "En_Nome_Logradouro": "R. dos Gusm\u00f5es", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Som Automotivo"
+        ], 
+        "nome": "AUDIO E DESIGN", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5395473, 
+                "lng": -46.6403362
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Campos El\u00edseos", 
+            "telefonePublico": "(11) 3362-3448", 
+            "En_CEP": "01205", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Rio Branco, 409/415", 
+            "En_Num": "409", 
+            "En_Nome_Logradouro": "Av. Rio Branco", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "El\u00e9trica"
+        ], 
+        "nome": "ADAYR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5414496, 
+                "lng": -46.6370806
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "reicfte@terra.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3313-2900", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 7", 
+            "En_Num": "7", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Celulares"
+        ], 
+        "nome": "CALLSY CELL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5387772, 
+                "lng": -46.6391554
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 8116-6606", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 373 - Loja 26", 
+            "En_Num": "373", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "M\u00eddias Cds e Dvds"
+        ], 
+        "nome": "CD MANIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5395693, 
+                "lng": -46.63847390000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3225-9041", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 257 - Loja 15", 
+            "En_Num": "257", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "El\u00e9trica"
+        ], 
+        "nome": "EL\u00c9TRICA GALLUCCI", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5377474, 
+                "lng": -46.6397732
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3334-3711", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 501", 
+            "En_Num": "501", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Instrumentos musicais"
+        ], 
+        "nome": "CULTURA MUSICAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5373183, 
+                "lng": -46.63992229999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "emailPublico": "quasetudoquasetudo@gmail.com", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 33615733", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifigenia, 548", 
+            "En_Num": "548", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cabos"
+        ], 
+        "nome": "ANDY CABOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5369895, 
+                "lng": -46.6404594
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3222-1222", 
+            "En_CEP": "01213", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 611 - Loja 19", 
+            "En_Num": "611", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Celulares"
+        ], 
+        "nome": "CENTER CELL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.540208, 
+                "lng": -46.639465
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3361-6590", 
+            "En_CEP": "01206-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Rio Branco, 300 - Loja 21", 
+            "En_Num": "300", 
+            "En_Nome_Logradouro": "Av. Rio Branco", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Audio e Video"
+        ], 
+        "nome": "ELETR\u00d4NICA CATODI", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5384108, 
+                "lng": -46.639065
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "catodi@ig.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3221-3537", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 398", 
+            "En_Num": "398", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Som Automotivo"
+        ], 
+        "nome": "EQUIPA SOM", 
+        "location": {
+            "coordinates": {
+                "lat": -23.538744, 
+                "lng": -46.6392342
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3337-2298", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 379 - Loja 03", 
+            "En_Num": "379", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Audio e Video"
+        ], 
+        "nome": "CRYSTAL AUDIO", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5406604, 
+                "lng": -46.6376483
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3313-1198", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 115", 
+            "En_Num": "115", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Ferramentas"
+        ], 
+        "nome": "MALLA INSTRUMENTA\u00c7\u00c3O E FERRAMENTAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5386636, 
+                "lng": -46.6387078
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "malla.fk@superig.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3361-8022", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora, 200 - Loja 107", 
+            "En_Num": "200", 
+            "En_Nome_Logradouro": "R. Aurora", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cartuchos"
+        ], 
+        "nome": "CARTUCHOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5378396, 
+                "lng": -46.6397141
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3362-0678", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 485 - Loja 36/37", 
+            "En_Num": "485", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Instrumentos musicais"
+        ], 
+        "nome": "M\u00d4NACO MUSIC STORE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5420009, 
+                "lng": -46.636661
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "Site: http://www.monacomusic.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3223-5277", 
+            "En_CEP": "01034-040", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua do Semin\u00e1rio, 219", 
+            "En_Num": "219", 
+            "En_Nome_Logradouro": "R. do Semin\u00e1rio", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alarmes e CFTV", 
+            "Seguran\u00e7a"
+        ], 
+        "nome": "ANDERSISTEM", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5377242, 
+                "lng": -46.6395119
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3338-2787", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 490 - Loja 70", 
+            "En_Num": "490", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Assistencia T\u00e9cnica"
+        ], 
+        "nome": "CAD IMPRESSORAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5368641, 
+                "lng": -46.6393558
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3223-4133", 
+            "En_CEP": "01208-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Andradas, 421 - 5\u00ba Aandar - Sala 53", 
+            "En_Num": "421", 
+            "En_Nome_Logradouro": "R. dos Andradas", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Ferramentas"
+        ], 
+        "nome": "CASA DOS PARAFUSOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5376398, 
+                "lng": -46.6413727
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "vendas@casadoparafuso.com.br", 
+            "En_Bairro": "Rep\u00fablica", 
+            "telefonePublico": "(11) 3223-9066", 
+            "En_CEP": "01206-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Rio Branco, 638", 
+            "En_Num": "638", 
+            "En_Nome_Logradouro": "Av. Rio Branco", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "M\u00eddias Cds e Dvds"
+        ], 
+        "nome": "AUDIO POWER GAMES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5389878, 
+                "lng": -46.6389703
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "poweraudiogames_@hotmail.com", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3221-8924", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 355 - Loja 09", 
+            "En_Num": "355", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "M\u00eddias Cds e Dvds"
+        ], 
+        "nome": "C.B.M. M\u00cdDIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5401529, 
+                "lng": -46.6379692
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3316-1247", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 180 - Loja 23", 
+            "En_Num": "180", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Games"
+        ], 
+        "nome": "A.M. GAMES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5394374, 
+                "lng": -46.6383315
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3334-1047", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 264 - Loja 17A", 
+            "En_Num": "264", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alarmes e CFTV", 
+            "Seguran\u00e7a"
+        ], 
+        "nome": "EQUIPAMENTOS DE SEGURAN\u00c7A", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5364371, 
+                "lng": -46.6404984
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3333-5474", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "RUA SANTA IFIG\u00caNIA, 664", 
+            "En_Num": "664", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Celulares"
+        ], 
+        "nome": "GALDI", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5391251, 
+                "lng": -46.6390622
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "galditelecom@terra.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3338-1834", 
+            "En_CEP": "01209", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora, 254 - Loja 9", 
+            "En_Num": "254", 
+            "En_Nome_Logradouro": "R. Aurora", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Eletr\u00f4nicos"
+        ], 
+        "nome": "CARLOS ELETR\u00d4NICOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5377913, 
+                "lng": -46.63947659999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3225-9232", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "RUA SANTA IFIG\u00caNIA, 480, LJ 26", 
+            "En_Num": "480", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Eletr\u00f4nicos"
+        ], 
+        "nome": "ABU MAZIM ELETR\u00d4NICOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5387772, 
+                "lng": -46.6391554
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3337-1410", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "RUA SANTA IFIGENIA, 373 - LOJA 21", 
+            "En_Num": "373", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Games"
+        ], 
+        "nome": "COMPANY GAMES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.538744, 
+                "lng": -46.6392342
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3333-7925", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 403 - Loja 07", 
+            "En_Num": "403", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Instrumentos musicais"
+        ], 
+        "nome": "CONTEMPORANEA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5357338, 
+                "lng": -46.6392179
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "contemporanearss@terra.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3221-8477", 
+            "En_CEP": "01213", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua General Os\u00f3rio, 46", 
+            "En_Num": "46", 
+            "En_Nome_Logradouro": "R. Gen. Os\u00f3rio", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Telefonia"
+        ], 
+        "nome": "CHAPP", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5389282, 
+                "lng": -46.6383672
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3225-0705", 
+            "En_CEP": "01209-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora, 175/179", 
+            "En_Num": "175", 
+            "En_Nome_Logradouro": "R. Aurora", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Eletr\u00f4nicos"
+        ], 
+        "nome": "ATUAL ELETR\u00d4NICA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5379294, 
+                "lng": -46.6393561
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3333-1918", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "RUA SANTA IFIG\u00caNIA, 452, LJ 24", 
+            "En_Num": "452", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Ilumina\u00e7\u00e3o"
+        ], 
+        "nome": "LT INFO-KICASE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5392192, 
+                "lng": -46.6389275
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 9451-5919", 
+            "En_CEP": "01209-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora, 263, Loja 15f", 
+            "En_Num": "263", 
+            "En_Nome_Logradouro": "R. Aurora", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Audio e Video"
+        ], 
+        "nome": "BATERIA E CIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5392708, 
+                "lng": -46.6395735
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3338-1752", 
+            "En_CEP": "01209", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora, 300 - Loja 32/33", 
+            "En_Num": "300", 
+            "En_Nome_Logradouro": "R. Aurora", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Ferramentas"
+        ], 
+        "nome": "BENISA ROLAMENTOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5373972, 
+                "lng": -46.6411003
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "joao@benisarolamentos.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3221-8133", 
+            "En_CEP": "01213", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua General Os\u00f3rio, 299", 
+            "En_Num": "299", 
+            "En_Nome_Logradouro": "R. Gen. Os\u00f3rio", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Assistencia T\u00e9cnica"
+        ], 
+        "nome": "CASA DOS CONES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5375324, 
+                "lng": -46.6401674
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3223-3696", 
+            "En_CEP": "01213", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Gusm\u00f5es, 406", 
+            "En_Num": "406", 
+            "En_Nome_Logradouro": "R. dos Gusm\u00f5es", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Games"
+        ], 
+        "nome": "ANGEL GAMES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5363757, 
+                "lng": -46.64081059999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3337-7657", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 687 - Loja 05", 
+            "En_Num": "687", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Componentes"
+        ], 
+        "nome": "CASA DOS RELES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5368938, 
+                "lng": -46.6409831
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "vendas@casadosreles.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3337-7788", 
+            "En_CEP": "01213-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua General Os\u00f3rio, 272", 
+            "En_Num": "272", 
+            "En_Nome_Logradouro": "R. Gen. Os\u00f3rio", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Instrumentos musicais"
+        ], 
+        "nome": "MUSICAL 255", 
+        "location": {
+            "coordinates": {
+                "lat": -23.54219, 
+                "lng": -46.6362037
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "fatima@musical255.com.br", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3228-1324", 
+            "En_CEP": "01032", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Viaduto Santa Ifig\u00eania, 255", 
+            "En_Num": "255", 
+            "En_Nome_Logradouro": "Viaduto Santa Efig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cartuchos"
+        ], 
+        "nome": "CARTUCHO MANIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5393977, 
+                "lng": -46.6383684
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "annie.cartuchomania@hotmail.com", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3337-5256", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 270 - Loja 34", 
+            "En_Num": "270", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Ilumina\u00e7\u00e3o"
+        ], 
+        "nome": "SANJARDINI", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5398419, 
+                "lng": -46.6382074
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "sanjardini@sanjardini.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3333-5666", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 219", 
+            "En_Num": "219", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cabos"
+        ], 
+        "nome": "ANDRA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5367815, 
+                "lng": -46.64044
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "andra@isnet.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3855-7000", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 625/627", 
+            "En_Num": "625", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alarmes e CFTV", 
+            "Seguran\u00e7a"
+        ], 
+        "nome": "DAVID", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "telefonePublico": "(11) 3223-7141", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 270 - box 13", 
+            "emailPublico": "", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Celulares"
+        ], 
+        "nome": "A.M CELULARES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5389878, 
+                "lng": -46.6389703
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3337-4881", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 361 - Loja 15", 
+            "En_Num": "361", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Telefonia"
+        ], 
+        "nome": "AGFONE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5365027, 
+                "lng": -46.6394155
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "agfonetelecom@globo.com", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3361-3290", 
+            "En_CEP": "01208-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Andradas, 467", 
+            "En_Num": "467", 
+            "En_Nome_Logradouro": "R. dos Andradas", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "C\u00e2meras Digitais"
+        ], 
+        "nome": "AMBAR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5389878, 
+                "lng": -46.6389703
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "ambarsp@uol.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3331-8815", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 361 - Loja 02", 
+            "En_Num": "361", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Notebooks"
+        ], 
+        "nome": "ALES NOTEBOOK", 
+        "location": {
+            "coordinates": {
+                "lat": -23.539067, 
+                "lng": -46.6392531
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "lourdesnotebook@hotmail.com", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3223-5661", 
+            "En_CEP": "01209001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora, 264 - Loja 08", 
+            "En_Num": "264", 
+            "En_Nome_Logradouro": "R. Aurora", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "El\u00e9trica"
+        ], 
+        "nome": "DAN LIGHT", 
+        "location": {
+            "coordinates": {
+                "lat": -23.536012, 
+                "lng": -46.64076439999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "vendas@danlight.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3333-3430", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 718", 
+            "En_Num": "718", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Notebooks"
+        ], 
+        "nome": "CLASSE A NOTEBOOK", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5369918, 
+                "lng": -46.639481
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "classeanotebook@hotmail.com", 
+            "En_Bairro": "Rep\u00fablica", 
+            "telefonePublico": "(11) 3222-7034", 
+            "En_CEP": "01212", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Gusm\u00f5es, 310 - Loja 33", 
+            "En_Num": "310", 
+            "En_Nome_Logradouro": "R. dos Gusm\u00f5es", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Eletr\u00f4nicos"
+        ], 
+        "nome": "ALAITEL ELETR\u00d4NICOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5391544, 
+                "lng": -46.6385368
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3221-5257", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "RUA SANTA IFIG\u00caNIA, 338, LJ 1", 
+            "En_Num": "338", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "El\u00e9trica"
+        ], 
+        "nome": "CONDUVOLT", 
+        "location": {
+            "coordinates": {
+                "lat": -23.540153, 
+                "lng": -46.6380104
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3228-5100", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 177", 
+            "En_Num": "177", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "El\u00e9trica"
+        ], 
+        "nome": "CENTRAL LUZ", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5409741, 
+                "lng": -46.6373605
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3326-3141", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 61", 
+            "En_Num": "61", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Componentes"
+        ], 
+        "nome": "CASA NOVATRON", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5370804, 
+                "lng": -46.6393356
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "casanovatron@gmail.com", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3331-3955", 
+            "En_CEP": "01212-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Gusm\u00f5es, 303a", 
+            "En_Num": "303", 
+            "En_Nome_Logradouro": "R. dos Gusm\u00f5es", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Telefonia"
+        ], 
+        "nome": "ERI TELEFONIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5363757, 
+                "lng": -46.64081059999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3224-0033", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 687 lj. 11", 
+            "En_Num": "687", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Ferramentas"
+        ], 
+        "nome": "JCL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5379774, 
+                "lng": -46.6395166
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "vendas@jcl-ferramentas.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3361-6200", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 467", 
+            "En_Num": "467", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Instrumentos musicais"
+        ], 
+        "nome": "CLASSIC MUSIC", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5410057, 
+                "lng": -46.6372276
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3313-4316", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 44A", 
+            "En_Num": "44", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "C\u00e2meras Digitais"
+        ], 
+        "nome": "IMAGEM & CIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5392708, 
+                "lng": -46.6395735
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3224-8412", 
+            "En_CEP": "01209", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora, 300 - Sala 13", 
+            "En_Num": "300", 
+            "En_Nome_Logradouro": "R. Aurora", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Games"
+        ], 
+        "nome": "ACTION GAMES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5376239, 
+                "lng": -46.6395885
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3338-1801", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 502 - Loja 10", 
+            "En_Num": "502", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Telefonia"
+        ], 
+        "nome": "DE PAULA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5373506, 
+                "lng": -46.63966260000001
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "newmaq@hotmail.com", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3331-4829", 
+            "En_CEP": "01208", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Gusm\u00f5es, 345", 
+            "En_Num": "345", 
+            "En_Nome_Logradouro": "R. dos Gusm\u00f5es", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Games"
+        ], 
+        "nome": "ADS GAMES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5419564, 
+                "lng": -46.6363306
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3313-0735", 
+            "En_CEP": "01032", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Viaduto Santa Ifig\u00eania, 287 - Loja 01", 
+            "En_Num": "287", 
+            "En_Nome_Logradouro": "Viaduto Santa Efig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Instrumentos musicais"
+        ], 
+        "nome": "ECLIPSE ARTE SOM", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5425661, 
+                "lng": -46.63659149999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3313-0374", 
+            "En_CEP": "01034-040", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua do Semin\u00e1rio, 161", 
+            "En_Num": "161", 
+            "En_Nome_Logradouro": "R. do Semin\u00e1rio", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cabos"
+        ], 
+        "nome": "CENTRAL CABOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5387985, 
+                "lng": -46.6385128
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "vendas@centralcabos.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3331-0191", 
+            "En_CEP": "01209", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora, 182 - Loja 24", 
+            "En_Num": "182", 
+            "En_Nome_Logradouro": "R. Aurora", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Inform\u00e1tica"
+        ], 
+        "nome": "ALFATEC INFORM\u00c1TICA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5386181, 
+                "lng": -46.64003049999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "mega44@terra.com.br", 
+            "En_Bairro": "Jardim Ataliba Leonel", 
+            "telefonePublico": "(11) 3333-5466", 
+            "En_CEP": "02324-250", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Vit\u00f3ria, 361 - Loja 1", 
+            "En_Num": "361", 
+            "En_Nome_Logradouro": "R. Vit\u00f3ria", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Games"
+        ], 
+        "nome": "CASA VIT\u00d3RIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5379294, 
+                "lng": -46.6393561
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3337-3122", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 452 - Loja 32", 
+            "En_Num": "452", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Audio e Video"
+        ], 
+        "nome": "BRASIL AUDIO SOM", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5382579, 
+                "lng": -46.6390171
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 6889-5600", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 414", 
+            "En_Num": "414", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Ferramentas"
+        ], 
+        "nome": "MENORTEC", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5363817, 
+                "lng": -46.6404783
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "vendas@menortec.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3222-4646", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 656", 
+            "En_Num": "656", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Componentes"
+        ], 
+        "nome": "BIG ELETR\u00d4NICOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.537948, 
+                "lng": -46.6389736
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "paulohlsantos@hotmail.com", 
+            "En_Bairro": "Jardim Ataliba Leonel", 
+            "telefonePublico": "(11) 3362-2735", 
+            "En_CEP": "02324-250", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Vit\u00f3ria, 253 - Loja 212", 
+            "En_Num": "253", 
+            "En_Nome_Logradouro": "R. Vit\u00f3ria", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "M\u00eddias Cds e Dvds"
+        ], 
+        "nome": "COMERCIAL DAKAR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5393525, 
+                "lng": -46.6383957
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3337-5272", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 276 - Loja 1A", 
+            "En_Num": "276", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "El\u00e9trica"
+        ], 
+        "nome": "APS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5358985, 
+                "lng": -46.6410505
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "aps@apscomponentes.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3333-4979", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 741", 
+            "En_Num": "741", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Eletr\u00f4nicos"
+        ], 
+        "nome": "CENTRAL TELEFONIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5393525, 
+                "lng": -46.6383957
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3362-8359", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "RUA SANTA IFIG\u00caNIA, 276 LJ. 17 B", 
+            "En_Num": "276", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Componentes"
+        ], 
+        "nome": "BIG FOOT", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5369454, 
+                "lng": -46.6408484
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3362-2344", 
+            "En_CEP": "01213", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua General Os\u00f3rio, 259 - 261", 
+            "En_Num": "259", 
+            "En_Nome_Logradouro": "R. Gen. Os\u00f3rio", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Games"
+        ], 
+        "nome": "CENTRAL DOS GAMES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5393977, 
+                "lng": -46.6383684
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 270 - Loja 35", 
+            "En_Num": "270", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "C\u00e2meras Digitais"
+        ], 
+        "nome": "DIGITAL X", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5401416, 
+                "lng": -46.6378899
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3228-2389", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 176 - Loja 02", 
+            "En_Num": "176", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Celulares"
+        ], 
+        "nome": "BRASIL CELULARES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5386769, 
+                "lng": -46.6383786
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3337-7391", 
+            "En_CEP": "01209", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora, 178 - Loja 21", 
+            "En_Num": "178", 
+            "En_Nome_Logradouro": "R. Aurora", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Som Automotivo"
+        ], 
+        "nome": "IGOR\u00b4S", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5400175, 
+                "lng": -46.638054
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3229-5197", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 196", 
+            "En_Num": "196", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Audio e Video"
+        ], 
+        "nome": "CASA DOS TUBOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5392883, 
+                "lng": -46.6393342
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3221-1662", 
+            "En_CEP": "01209", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora, 292", 
+            "En_Num": "292", 
+            "En_Nome_Logradouro": "R. Aurora", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Assistencia T\u00e9cnica"
+        ], 
+        "nome": "ATEQ - ASSIST\u00caNCIA T\u00c9CNICA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5392708, 
+                "lng": -46.6395735
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3334-0461", 
+            "En_CEP": "01209", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora, 300 - Loja 11", 
+            "En_Num": "300", 
+            "En_Nome_Logradouro": "R. Aurora", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Notebooks"
+        ], 
+        "nome": "CLASSIC NOTEBOOK", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5389878, 
+                "lng": -46.6389703
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "classicnotebook@uol.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3338-0641", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 355 - Loja 22", 
+            "En_Num": "355", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Eletr\u00f4nicos"
+        ], 
+        "nome": "BILLY CENTER", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5378396, 
+                "lng": -46.6397141
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3337-6074", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 485 - Loja 07", 
+            "En_Num": "485", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cartuchos"
+        ], 
+        "nome": "CARTUCHO MANIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5407331, 
+                "lng": -46.6374319
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "cartucho_mania@hotmail.com", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3227-8495", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 92 lj. 63", 
+            "En_Num": "92", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Som Automotivo"
+        ], 
+        "nome": "PONTO SOUND", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5386031, 
+                "lng": -46.6411374
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Campos El\u00edseos", 
+            "telefonePublico": "(11) 3331-8570", 
+            "En_CEP": "01205", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Rio Branco, 541", 
+            "En_Num": "541", 
+            "En_Nome_Logradouro": "Av. Rio Branco", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Inform\u00e1tica"
+        ], 
+        "nome": "A.D.P. INFORM\u00c1TICA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3222-4240", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Gusm\u00f5es, 310 - box 16", 
+            "emailPublico": "", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Telefonia"
+        ], 
+        "nome": "JR TELECOMUNICA\u00c7\u00d5ES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5391574, 
+                "lng": -46.6385297
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3361-6660", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 308 7o andar sl. 71", 
+            "En_Num": "308", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Seguran\u00e7a"
+        ], 
+        "nome": "FRANCLA DISTRIBUIDORA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5389878, 
+                "lng": -46.6389703
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3223-8042", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 345 / 349", 
+            "En_Num": "345", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Assistencia T\u00e9cnica", 
+            "C\u00e2meras Digitais"
+        ], 
+        "nome": "CENTER FLASH - ASSIST\u00caNCIA T\u00c9CNICA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3228-0799", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora, 263 Lj. 4/5-E - Shopping Aurora", 
+            "emailPublico": "contato@centerflash.com.br", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Instrumentos musicais"
+        ], 
+        "nome": "CULTURA MUSICAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5373183, 
+                "lng": -46.63992229999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3361-5733", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 548", 
+            "En_Num": "548", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Ilumina\u00e7\u00e3o"
+        ], 
+        "nome": "INTENCY LITE ILUMINA\u00c7\u00c3O", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5392109, 
+                "lng": -46.6386535
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3337-4109", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 299", 
+            "En_Num": "299", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Componentes"
+        ], 
+        "nome": "CASA DOS CRISTAIS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.536947, 
+                "lng": -46.6408508
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "ceamar@ceamar.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3223-7577", 
+            "En_CEP": "01213", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua General Os\u00f3rio, 260", 
+            "En_Num": "260", 
+            "En_Nome_Logradouro": "R. Gen. Os\u00f3rio", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Eletr\u00f4nicos"
+        ], 
+        "nome": "ANISSE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5369918, 
+                "lng": -46.639481
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "emailPublico": "", 
+            "En_Bairro": "Rep\u00fablica", 
+            "telefonePublico": "(11) 6839-4806", 
+            "En_CEP": "01212", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "RUA DOS GUSM\u00d5ES, 310 LJ. 37", 
+            "En_Num": "310", 
+            "En_Nome_Logradouro": "R. dos Gusm\u00f5es", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Inform\u00e1tica"
+        ], 
+        "nome": "3 D", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3334-0298", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 370 - Box 5", 
+            "emailPublico": "3dinformatica@linoxmail.org", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Notebooks"
+        ], 
+        "nome": "CYBERNOTES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5369918, 
+                "lng": -46.639481
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Rep\u00fablica", 
+            "telefonePublico": "(11) 3337-2931", 
+            "En_CEP": "01212", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Gusm\u00f5es, 310 - Loja 01", 
+            "En_Num": "310", 
+            "En_Nome_Logradouro": "R. dos Gusm\u00f5es", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Componentes"
+        ], 
+        "nome": "AUDIO FENIX", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5381205, 
+                "lng": -46.6382087
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3361-3505", 
+            "En_CEP": "01208-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Andradas, 241", 
+            "En_Num": "241", 
+            "En_Nome_Logradouro": "R. dos Andradas", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Games"
+        ], 
+        "nome": "CD 10 GAMES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5397078, 
+                "lng": -46.637908
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3361-6812", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 218 - Loja 29", 
+            "En_Num": "218", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Som Automotivo"
+        ], 
+        "nome": "MN SOM", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5361841, 
+                "lng": -46.6406664
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3337-0321", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 698", 
+            "En_Num": "698", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Ilumina\u00e7\u00e3o"
+        ], 
+        "nome": "INSTALADORA MODERNA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5412476, 
+                "lng": -46.6375378
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "imoderna@zip.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3326-8211", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 51", 
+            "En_Num": "51", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "El\u00e9trica"
+        ], 
+        "nome": "ANDRA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5373625, 
+                "lng": -46.6401862
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "automacao@andra.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3223-7444", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 565", 
+            "En_Num": "565", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Inform\u00e1tica"
+        ], 
+        "nome": "AVL INFORM\u00c1TICA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5409086, 
+                "lng": -46.6373626
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3313-8090", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 70 - Loja 409", 
+            "En_Num": "70", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Audio e Video"
+        ], 
+        "nome": "AUDIO BYTE", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5366408, 
+                "lng": -46.6394253
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "sac@audiobyte.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3361-3158", 
+            "En_CEP": "01208-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Andradas, 445", 
+            "En_Num": "445", 
+            "En_Nome_Logradouro": "R. dos Andradas", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cabos"
+        ], 
+        "nome": "BB ELETRONICA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5386769, 
+                "lng": -46.6383786
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "berseletro@yahoo.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3337-6490", 
+            "En_CEP": "01209", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora, 178 - Loja 08", 
+            "En_Num": "178", 
+            "En_Nome_Logradouro": "R. Aurora", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Assistencia T\u00e9cnica"
+        ], 
+        "nome": "CIS COM\u00c9RCIO DE INFORM\u00c1TICA E SERVI\u00c7OS LTDA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5392708, 
+                "lng": -46.6395735
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3362-0920", 
+            "En_CEP": "01209", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora, 300 - Loja 39/40", 
+            "En_Num": "300", 
+            "En_Nome_Logradouro": "R. Aurora", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Audio e Video"
+        ], 
+        "nome": "C.B DIGITAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5393525, 
+                "lng": -46.6383957
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "contato@cbdigitalaudio.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3361-4066", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 276 - Loja, 17a", 
+            "En_Num": "276", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Ilumina\u00e7\u00e3o"
+        ], 
+        "nome": "ETIL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5359613, 
+                "lng": -46.640801
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3337-9000", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 724", 
+            "En_Num": "724", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cabos"
+        ], 
+        "nome": "CABOL\u00c2NDIA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5392708, 
+                "lng": -46.6395735
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "cabolandia@ig.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3331-9846", 
+            "En_CEP": "01209", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora, 300 - Loja 4", 
+            "En_Num": "300", 
+            "En_Nome_Logradouro": "R. Aurora", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Celulares"
+        ], 
+        "nome": "BCT", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5377242, 
+                "lng": -46.6395119
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3333-5839", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 490 - Loja 63", 
+            "En_Num": "490", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alarmes e CFTV", 
+            "Seguran\u00e7a"
+        ], 
+        "nome": "CENTRAL DAS CAMERAS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5394233, 
+                "lng": -46.6385782
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3334-0959", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "RUA SANTA IFIG\u00caNIA, 289", 
+            "En_Num": "289", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Som Automotivo"
+        ], 
+        "nome": "MISTER K", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5401529, 
+                "lng": -46.6379692
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "lojamisterk@hotmail.com", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3313-3061", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 180", 
+            "En_Num": "180", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "C\u00e2meras Digitais"
+        ], 
+        "nome": "DIGITAL CENTER", 
+        "location": {
+            "coordinates": {
+                "lat": -23.538744, 
+                "lng": -46.6392342
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "ambarsp@uol.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3337-6774", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 379 - Loja 02", 
+            "En_Num": "379", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Instrumentos musicais"
+        ], 
+        "nome": "GANG MUSIC", 
+        "location": {
+            "coordinates": {
+                "lat": -23.54219, 
+                "lng": -46.6362037
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Centro", 
+            "telefonePublico": "(11) 3313-0910", 
+            "En_CEP": "01032", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Viaduto Santa Ifig\u00eania, 255", 
+            "En_Num": "255", 
+            "En_Nome_Logradouro": "Viaduto Santa Efig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Assistencia T\u00e9cnica"
+        ], 
+        "nome": "CONSERTOS DE AUTO FALANTES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5385249, 
+                "lng": -46.639876
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Jardim Ataliba Leonel", 
+            "telefonePublico": "(11) 3222-1283", 
+            "En_CEP": "02324-250", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Vit\u00f3ria, 343", 
+            "En_Num": "343", 
+            "En_Nome_Logradouro": "R. Vit\u00f3ria", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Instrumentos musicais"
+        ], 
+        "nome": "AO ACORDEON ABC", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5361508, 
+                "lng": -46.6400259
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3224-8302", 
+            "En_CEP": "01213-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua General Os\u00f3rio, 136", 
+            "En_Num": "136", 
+            "En_Nome_Logradouro": "R. Gen. Os\u00f3rio", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Celulares"
+        ], 
+        "nome": "CELULAR TIM", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5409758, 
+                "lng": -46.6376132
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "taticell@uol.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3326-1565", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Efig\u00eania, 73 - Loja 8", 
+            "En_Num": "73", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cabos"
+        ], 
+        "nome": "COULT", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5392953, 
+                "lng": -46.63917199999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "contato@coult.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3361-4183", 
+            "En_CEP": "01209-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora, 277 - 4\u00ba Andar", 
+            "En_Num": "277", 
+            "En_Nome_Logradouro": "R. Aurora", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Inform\u00e1tica"
+        ], 
+        "nome": "ABC INFORM\u00c1TICA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.537531, 
+                "lng": -46.6379336
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3361-7925", 
+            "En_CEP": "01210-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Vit\u00f3ria, 125", 
+            "En_Num": "125", 
+            "En_Nome_Logradouro": "R. Vit\u00f3ria", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Cabos"
+        ], 
+        "nome": "CASA DOS CONECTORES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5388494, 
+                "lng": -46.6388302
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "suporte@casadosconectores.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3221-1754", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 348 - Loja 1 - 1o andar", 
+            "En_Num": "348", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Inform\u00e1tica"
+        ], 
+        "nome": "AMPETX", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5385567, 
+                "lng": -46.63991619999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Jardim Ataliba Leonel", 
+            "telefonePublico": "(11) 3331-2591", 
+            "En_CEP": "02324-250", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Vit\u00f3ria, 345", 
+            "En_Num": "345", 
+            "En_Nome_Logradouro": "R. Vit\u00f3ria", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Audio e Video"
+        ], 
+        "nome": "AMARAL SOM", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5371323, 
+                "lng": -46.6388515
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "amaral@amaralsom.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3362-0429", 
+            "En_CEP": "01208", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Andradas, 372", 
+            "En_Num": "372", 
+            "En_Nome_Logradouro": "R. dos Andradas", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Som Automotivo"
+        ], 
+        "nome": "I.J. CENTER", 
+        "location": {
+            "coordinates": {
+                "lat": -23.538744, 
+                "lng": -46.6392342
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3225-0051", 
+            "En_CEP": "01207-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 403 - Loja 03", 
+            "En_Num": "403", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alarmes e CFTV"
+        ], 
+        "nome": "ALMEIDA BRAGA ELETRONICOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5387356, 
+                "lng": -46.64021839999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "emailPublico": "almeidabraga@hotmail.com", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3331-4503", 
+            "En_CEP": "01210-001", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Vitoria, 387", 
+            "En_Num": "387", 
+            "En_Nome_Logradouro": "R. Vit\u00f3ria", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "C\u00e2meras Digitais"
+        ], 
+        "nome": "INFINITY", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5401529, 
+                "lng": -46.6379692
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "mic.cris@hotmail.com", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3227-9585", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 180 - Loja 06", 
+            "En_Num": "180", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Ferramentas"
+        ], 
+        "nome": "ATENA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5361029, 
+                "lng": -46.6417164
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3331-8162", 
+            "En_CEP": "01214-000", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Av. Duque de Caxias, 840", 
+            "En_Num": "840", 
+            "En_Nome_Logradouro": "Av. Duque de Caxias", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Componentes"
+        ], 
+        "nome": "AS COMPONENTES", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5396102, 
+                "lng": -46.6378792
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Efig\u00eania", 
+            "emailPublico": "contato@asalinas.com.br", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3225-9250", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Timbiras, 159", 
+            "En_Num": "159", 
+            "En_Nome_Logradouro": "R. dos Timbiras", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "El\u00e9trica"
+        ], 
+        "nome": "CL\u00c1SSICA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5387393, 
+                "lng": -46.6402423
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Jardim Ataliba Leonel", 
+            "telefonePublico": "(11) 3361-7655", 
+            "En_CEP": "02324-250", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Vit\u00f3ria, 391", 
+            "En_Num": "391", 
+            "En_Nome_Logradouro": "R. Vit\u00f3ria", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Assistencia T\u00e9cnica"
+        ], 
+        "nome": "BOOSTER ASSIST\u00caNCIA T\u00c9CNICA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5392708, 
+                "lng": -46.6395735
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3338-2428", 
+            "En_CEP": "01209", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora, 296/300 - 1\u00ba Andar - Sala 01", 
+            "En_Num": "300", 
+            "En_Nome_Logradouro": "R. Aurora", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Alarmes e CFTV", 
+            "Seguran\u00e7a"
+        ], 
+        "nome": "CENTRAL SOM", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "telefonePublico": "(11) 3337-0854", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 452 - box 01/02", 
+            "emailPublico": "centraldosom@uol.com.br", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Eletr\u00f4nicos"
+        ], 
+        "nome": "AMBAR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5505199, 
+                "lng": -46.63330939999999
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifigenia", 
+            "telefonePublico": "(11) 3331-8815", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 361 - box 2", 
+            "emailPublico": "", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Notebooks"
+        ], 
+        "nome": "DARK STAR", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5369918, 
+                "lng": -46.639481
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "darstarnotebook@hotmail.com", 
+            "En_Bairro": "Rep\u00fablica", 
+            "telefonePublico": "(11) 3361-7766", 
+            "En_CEP": "01212", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua dos Gusm\u00f5es, 310 - Loja 34", 
+            "En_Num": "310", 
+            "En_Nome_Logradouro": "R. dos Gusm\u00f5es", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Telefonia"
+        ], 
+        "nome": "J.M ELETRONICOS", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5386709, 
+                "lng": -46.6383658
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "andreianasc18@hotmail.com", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3333-1649", 
+            "En_CEP": "01209", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Aurora, 168 - Loja 168 H", 
+            "En_Num": "168", 
+            "En_Nome_Logradouro": "R. Aurora", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Notebooks"
+        ], 
+        "nome": "CICLONE NOTEBOOK", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5379294, 
+                "lng": -46.6393561
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3361-8259", 
+            "En_CEP": "01207", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua Santa Ifig\u00eania, 452 - Loja 19", 
+            "En_Num": "452", 
+            "En_Nome_Logradouro": "R. Santa Ifig\u00eania", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Instrumentos musicais"
+        ], 
+        "nome": "GP MUSICAL", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5358418, 
+                "lng": -46.6393765
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "gpmusical@gop.net", 
+            "En_Bairro": "Santa Ifig\u00eania", 
+            "telefonePublico": "(11) 3334-0894", 
+            "En_CEP": "01213", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua General Os\u00f3rio, 62", 
+            "En_Num": "62", 
+            "En_Nome_Logradouro": "R. Gen. Os\u00f3rio", 
+            "En_Estado": "SP"
+        }
+    }, 
+    {
+        "segmentos": [
+            "Inform\u00e1tica"
+        ], 
+        "nome": "ALFA STAR INFORM\u00c1TICA", 
+        "location": {
+            "coordinates": {
+                "lat": -23.5510189, 
+                "lng": -46.6291933
+            }
+        }, 
+        "metadata": {
+            "regiao": "Santa Ifig\u00eania", 
+            "emailPublico": "atendimento@alfastarshop.com.br", 
+            "En_Bairro": "S\u00e9", 
+            "telefonePublico": "(11) 3455-0234", 
+            "En_CEP": "01020-010", 
+            "En_Municipio": "S\u00e3o Paulo", 
+            "endereco": "Rua das carmelitas, 93", 
+            "En_Num": "93", 
+            "En_Nome_Logradouro": "R. das Carmelitas", 
+            "En_Estado": "SP"
+        }
+    }
+]
