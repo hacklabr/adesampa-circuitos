@@ -36,19 +36,18 @@
                 <h1 class="title">
                     <img src="<?php $this->asset('home/img/logo-guia-de-compras.svg'); ?>" alt="Guia de Compras SAMPA">
                 </h1>
-                <h2 class="subtitle hidden-mobile">Lorem ipsum dolor sit amet consectetur</h2>
+                <!--<h2 class="subtitle hidden-mobile">Lorem ipsum dolor sit amet consectetur</h2>-->
             </header>
         </div>
 
         <div class="main-container">
             <div class="main wrapper clearfix">
 
-                <h2 class="subtitle visible-mobile">Lorem ipsum dolor sit amet, consectetur adipiscing elit</h2>
+              <!--<h2 class="subtitle visible-mobile">Lorem ipsum dolor sit amet, consectetur adipiscing elit</h2>-->
 
                 <section class="lead-text">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante. Etiam bibendum iaculis libero, eget molestie nisl pharetra in.</p>
-
-                    <p>In semper consequat est, eu porta velit mollis nec. Curabitur posuere enim eget turpis feugiat tempor. Etiam ullamcorper lorem dapibus velit suscipit ultrices.</p>
+                  <p>O Guia de Compras Sampa é um aplicativo desenvolvido pela Agência São Paulo de Desenvolvimento – ADESAMPA, em cooperação com a Secretaria de Desenvolvimento, Trabalho e Empreendedorismo da Prefeitura de São Paulo.</p>
+                  <p>Nos links abaixo você pode consultar as informações e caso seja um empreendedor e tenha interesse que seu comércio faça parte do Guia de Compras Sampa, faça seu cadastro.</p>
                 </section>
 
                 <section class="routes">
