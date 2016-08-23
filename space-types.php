@@ -2,6 +2,9 @@
 /**
  * See https://github.com/Respect/Validation to know how to write validations
  */
+
+define('SPACE_TYPE_LOJA', 1900);
+
 return array(
     'metadata' => array(
         'emailPublico' => array(
@@ -196,7 +199,7 @@ return array(
        'Lojas' => array(
             'range' => array(1900,2000),
             'items' => array(
-                1900 => array( 'name' => 'Loja' ),
+                SPACE_TYPE_LOJA => array( 'name' => 'Loja' ),
               )
         ),
     ),

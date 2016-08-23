@@ -220,25 +220,34 @@ class Theme extends BaseV1\Theme{
         $subdomain = $this->getSubdomain();
         
         if ($subdomain) {
+            // quando tenta entrar num subdominio nao existente joga para um 404
             $app->hook('slim.before.dispatch', function() use($app, $subdomain){
                 if(!isset(self::$subdomains[$subdomain])){
                     $app->pass();
                 }
             });
             
+            // redireciona para a buscase estiver acessando a single
             $url = $this->getSearchSpacesUrl();
-            
             $app->hook('GET(site.index):before', function() use ($app, $url){
                 $app->redirect($url);
             });
             
+            // filtra a busca pela regiao do subdomínio
             $app->hook('API.find(space).params', function(&$params) use($subdomain){
                 $params['regiao'] = 'EQ(' . self::$subdomains[$subdomain]['name'] . ')';
+                $params['type'] = 'EQ(' . SPACE_TYPE_LOJA . ')';
             });
             
+            // define a regiao para novos espaços
             $app->hook('entity(Space).insert:before', function() use ($subdomain) {
                 $cfg = self::$subdomains[$subdomain];
                 $this->regiao = $cfg['name'];
+            });
+            
+            // define o tipo Loja
+            $app->hook('entity(Space).new', function(){
+                $this->type = SPACE_TYPE_LOJA; // id do tipo Loja
             });
         }
         
@@ -246,6 +255,25 @@ class Theme extends BaseV1\Theme{
             $this->_publishAssets();
         });
         
+       
+        // remove as partes não utilizadas do cadastro de espaço
+        $disable_parts = [
+            'singles/space-children',
+            'singles/space-public',
+            'singles/type',
+            'entity-parent'
+        ];
+        
+        foreach($disable_parts as $part){
+            $app->hook("view.partial({$part}).params", function(&$params, &$template_name){
+                $template_name = '_empty';
+            });
+        }
+        
+        // adiciona o campo CNPJ
+        $app->hook('template(space.<<*>>.header-content):end', function(){
+            $this->part('cnpj-field', ['entity' => $this->controller->requestedEntity]);
+        });
     }
 
     protected function _publishAssets() {
@@ -261,12 +289,22 @@ class Theme extends BaseV1\Theme{
                     'label' => 'Região',
                     'type' => 'select',
                     'options' => [ 
-                        '25 de Março',
                         'Brás',
                         'Bom Retiro',
                         'Santa Ifigênia',
+                        '25 de Março',
+                        'Mercado Municipal de SP'
                     ]
                 ],
+                
+                'cnpj' => [
+                    'label' => 'CNPJ',
+                    'validations' => [
+                        'unique' => 'Este CNPJ já está cadastrado',
+                        'required' => 'O CNPJ é obrigatório',
+                        'v::cnpj()' => 'O CNPJ não foi preenchido corretamente'
+                    ]
+                ]
             ]
         ];
 
@@ -285,24 +323,6 @@ class Theme extends BaseV1\Theme{
             }
             
             return;
-            
-            $group = null;
-            $registry['entity_type_groups']['MapasCulturais\Entities\Space'] = array_filter($registry['entity_type_groups']['MapasCulturais\Entities\Space'], function($item) use (&$group) {
-                if ($item->name === 'Bibliotecas') {
-                    $group = $item;
-                    return $item;
-                } else {
-                    return null;
-                }
-            });
-
-            $registry['entity_types']['MapasCulturais\Entities\Space'] = array_filter($registry['entity_types']['MapasCulturais\Entities\Space'], function($item) use ($group) {
-                if ($item->id >= $group->min_id && $item->id <= $group->max_id) {
-                    return $item;
-                } else {
-                    return null;
-                }
-            });
         });
     
     }
