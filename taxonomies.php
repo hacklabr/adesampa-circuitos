@@ -4,7 +4,7 @@ return array(
         'slug' => 'tag',
         'entities' => array(
             'MapasCulturais\Entities\Space',
-            //'MapasCulturais\Entities\Agent',
+            'MapasCulturais\Entities\Agent',
             //'MapasCulturais\Entities\Event',
             //'MapasCulturais\Entities\Project'
         )
@@ -15,7 +15,7 @@ return array(
         'required' => "Você deve informar ao menos um segmento",
         'entities' => array(
             'MapasCulturais\Entities\Space',
-            //'MapasCulturais\Entities\Agent'
+            'MapasCulturais\Entities\Agent'
         ),
         'restricted_terms' => array(
                        "Alarmes e CFTV", 
