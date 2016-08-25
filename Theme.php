@@ -192,6 +192,10 @@ class Theme extends BaseV1\Theme{
 
                 'entities: space found' => 'loja encontrada',
                 'entities: spaces found' => 'lojas encontradas',
+            
+                'taxonomies:area: name' => 'Segmento',
+                'taxonomies:area: select at least one' => 'Selecione ao menos um segmento',
+                'taxonomies:area: select' => 'Selecione os segmentos',
 
         ];
     }
@@ -340,5 +344,12 @@ class Theme extends BaseV1\Theme{
             return null;
         }
         
+    }
+    
+    protected function _getFilters(){
+        $filters = parent::_getFilters();
+        array_splice($filters['space'], 1,1);
+        array_splice($filters['space'], 2,1);
+        return $filters;
     }
 }
